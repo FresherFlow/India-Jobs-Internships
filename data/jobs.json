@@ -597,6 +597,22 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_b73dqp",
+      "title": "Analyst III Infrastructure Services",
+      "company": "DXC Technology",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.dxc.com/job/22666273/analyst-iii-infrastructure-services-bangalore-in/?source=DXCCompany-CareerSite",
+      "dateAdded": "2026-09-09",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
