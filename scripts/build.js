@@ -38,33 +38,11 @@ async function writeSite(feed) {
 }
 
 // ---------------------------------------------------------------------------
-// 3. Render the README: two sections only — Jobs and Internships, split by
-//    the title text (see typeFromTitle). Newest-first HTML tables in the
-//    SimplifyJobs style.
+// 3. Render the README: ONE chronological list ("Latest Roles", newest
+//    first by the hidden addedAt clock). Job vs Internship is shown per
+//    row, not split into sections — the site filters handle narrowing.
 // ---------------------------------------------------------------------------
-const SECTIONS = [
-  { key: "jobs", emoji: "💼", heading: "Full-Time Roles", match: (j) => j.type !== "INTERNSHIP" },
-  { key: "internships", emoji: "🎓", heading: "Internship Roles", match: (j) => j.type === "INTERNSHIP" },
-];
-
 async function writeReadme(feed) {
-  const indexLines = SECTIONS.map((s) => {
-    const n = feed.jobs.filter(s.match).length;
-    if (n === 0) return "";
-    return `${s.emoji} **[${s.heading}](#-${slug(s.heading)})** (${n})`;
-  }).filter(Boolean);
-
-  const sections = SECTIONS.map((s) => {
-    const jobs = feed.jobs.filter(s.match);
-    if (jobs.length === 0) return "";
-    return (
-      `## ${s.emoji} ${s.heading}\n\n` +
-      `[Back to top](#india-jobs-and-internships)\n\n` +
-      `${jobsToMarkdownTable(jobs)}\n\n` +
-      `[Back to top](#india-jobs-and-internships)\n`
-    );
-  }).filter(Boolean);
-
   const jobs = feed.jobs.filter((j) => j.type !== "INTERNSHIP").length;
   const internships = feed.jobs.filter((j) => j.type === "INTERNSHIP").length;
   const updated = fmtDate(feed.lastUpdated).replace(/ /g, "_");
@@ -80,20 +58,13 @@ Entry-level software, tech, product, and quant jobs for new graduates across **I
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ---
-### Browse ${feed.count} Roles
 
-${indexLines.join("\n\n")}
+## 🆕 Latest Roles
 
----
-
-${sections.join("\n---\n\n")}
+${jobsToMarkdownTable(feed.jobs)}
 `;
 
   await writeFile(path.join(ROOT, "README.md"), readme);
-}
-
-function slug(s) {
-  return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 }
 
 // ---------------------------------------------------------------------------
@@ -104,9 +75,8 @@ async function main() {
   await writeReadme(feed);
 
   console.log(`Generated ${feed.count} roles`);
-  for (const s of SECTIONS) {
-    console.log(`  ${s.heading}: ${feed.jobs.filter(s.match).length}`);
-  }
+  console.log(`  Jobs: ${feed.jobs.filter((j) => j.type !== "INTERNSHIP").length}`);
+  console.log(`  Internships: ${feed.jobs.filter((j) => j.type === "INTERNSHIP").length}`);
 }
 
 main().catch((err) => {

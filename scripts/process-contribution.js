@@ -107,6 +107,7 @@ function newJobFromIssue(fields) {
     applyLink,
     ...(website ? { companyWebsite: String(website).trim() } : {}),
     dateAdded: today,
+    addedAt: new Date().toISOString(),
     tags: [],
     requiredSkills: [],
     allowedPassoutYears: [],

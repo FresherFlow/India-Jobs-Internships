@@ -52,6 +52,9 @@ export function normalizeJob(r, dateAdded) {
     requiredSkills: r.requiredSkills ?? [],
     allowedPassoutYears: r.allowedPassoutYears ?? [],
     ...(website ? { companyWebsite: r.companyWebsite } : {}),
+    // Hidden ordering clock (exact creation second). Display keeps using
+    // dateAdded ("09 Sep 26"); this field is never shown, only sorted on.
+    ...(r.addedAt ? { addedAt: r.addedAt } : {}),
     ...(logo ? { companyLogoUrl: logo } : {}),
   };
 }
@@ -93,12 +96,13 @@ export function jobsToMarkdownTable(jobs) {
     return "*No open roles in this category right now.*";
   }
 
+  const stamp = (j) => j.addedAt ?? j.dateAdded ?? "";
   const sorted = jobs
     .slice()
     .sort((a, b) =>
-      a.dateAdded === b.dateAdded
+      stamp(a) === stamp(b)
         ? a.company.localeCompare(b.company)
-        : a.dateAdded < b.dateAdded
+        : stamp(a) < stamp(b)
           ? 1
           : -1,
     );
@@ -148,8 +152,8 @@ export function fmtDate(iso) {
 }
 
 export function fmtLocation(locations) {
-  if (!locations || locations.length === 0) return "Multiple locations, India";
+  if (!locations || locations.length === 0) return "Multiple locations";
   if (locations.length === 1 && locations[0] === "Multiple locations")
-    return "Multiple locations, India";
-  return `${locations.map((l) => esc(l)).join("<br>")}, India`;
+    return "Multiple locations";
+  return locations.map((l) => esc(l)).join("<br>");
 }
