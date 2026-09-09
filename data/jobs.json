@@ -581,6 +581,22 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_fsmy3h",
+      "title": "Application Engineering Intern, Winter 2027 (English)",
+      "company": "Google",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.google.com/about/careers/applications/jobs/results/92840449600824006-application-engineering-intern",
+      "dateAdded": "2026-09-09",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }

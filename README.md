@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-19-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-19-2E7D32) ![internships](https://img.shields.io/badge/internships-16-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -9,11 +9,11 @@ Entry-level software, tech, product, and quant jobs for new graduates across **I
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ---
-### Browse 34 Roles
+### Browse 35 Roles
 
 💼 **[Full-Time Roles](#-full-time-roles)** (19)
 
-🎓 **[Internship Roles](#-internship-roles)** (15)
+🎓 **[Internship Roles](#-internship-roles)** (16)
 
 ---
 
@@ -235,6 +235,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Application Engineering Intern (Summer 2027)</td>
 <td>Hyderabad<br>Bengaluru, India</td>
 <td><a href="https://www.google.com/about/careers/applications/jobs/results/127840103736189638-application-engineering-intern">Apply</a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Application Engineering Intern, Winter 2027 (English)</td>
+<td>Bengaluru, India</td>
+<td><a href="https://www.google.com/about/careers/applications/jobs/results/92840449600824006-application-engineering-intern">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
