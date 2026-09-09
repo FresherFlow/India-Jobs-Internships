@@ -1,6 +1,52 @@
 export const VALID_TYPES = ["JOB", "INTERNSHIP", "WALKIN"];
 export const VALID_MODES = ["ONSITE", "HYBRID", "REMOTE"];
 
+// ATS / job-platform detection from the application URL's host. Generic
+// infrastructure mapping (platforms, not companies): company career sites
+// and portals get no badge.
+const ATS_PATTERNS = [
+  [/greenhouse\.io/i, "Greenhouse"],
+  [/lever\.co/i, "Lever"],
+  [/myworkdayjobs\.com|myworkdaysite\.com/i, "Workday"],
+  [/taleo\.net/i, "Taleo"],
+  [/ashbyhq\.com/i, "Ashby"],
+  [/keka\.com/i, "Keka"],
+  [/eightfold\.ai/i, "Eightfold"],
+  [/oraclecloud\.com/i, "Oracle HCM"],
+  [/successfactors\./i, "SAP SuccessFactors"],
+  [/workable\.com/i, "Workable"],
+  [/bamboohr\.com/i, "BambooHR"],
+  [/recruit\.zoho\.com/i, "Zoho Recruit"],
+  [/icims\.com/i, "iCIMS"],
+  [/jobvite\.com/i, "Jobvite"],
+  [/smartrecruiters\.com/i, "SmartRecruiters"],
+  [/applytojob\.com/i, "ApplyToJob"],
+  [/wellfound\.com/i, "Wellfound"],
+  [/internshala\.com/i, "Internshala"],
+  [/unstop\.com/i, "Unstop"],
+  [/ycombinator\.com/i, "YC Jobs"],
+  [/cutshort\.io/i, "Cutshort"],
+  [/naukri\.com/i, "Naukri"],
+  [/hirist\.com/i, "Hirist"],
+  [/instahyre\.com/i, "Instahyre"],
+  [/peoplestrong\.com/i, "PeopleStrong"],
+  [/ultipro\.com/i, "UKG"],
+  [/talismatic\.com/i, "Talismatic"],
+  [/screenloop\.com/i, "Screenloop"],
+  [/dover\.com/i, "Dover"],
+  [/gusto\.com/i, "Gusto"],
+  [/linkedin\.com/i, "LinkedIn"],
+  [/indeed\.com/i, "Indeed"],
+  [/docs\.google\.com\/forms/i, "Google Form"],
+];
+
+/** Platform name for an application URL, or "" for company-owned sites. */
+export function atsFor(applyLink) {
+  const u = String(applyLink || "");
+  for (const [re, name] of ATS_PATTERNS) if (re.test(u)) return name;
+  return "";
+}
+
 // The repo is "Jobs + Internships" and that is the ONLY split. It comes
 // from the title text alone: contains "intern" -> INTERNSHIP,
 // contains "walk-in"/"walk in" -> WALKIN, everything else -> JOB.
@@ -29,6 +75,7 @@ export function normalizeJob(r, dateAdded) {
   // No website -> no logo -> the site shows a letter monogram instead.
   const website = typeof r.companyWebsite === "string" ? r.companyWebsite.trim().replace(/\/$/, "") : "";
   const logo = r.companyLogoUrl ?? (website ? `https://www.google.com/s2/favicons?domain=${website.replace(/^https?:\/\//, "").split("/")[0]}&sz=128` : "");
+  const ats = r.ats ?? atsFor(r.applyLink);
 
   return {
     id: r.id ?? hashJobId(r.applyLink, r.title),
@@ -55,6 +102,9 @@ export function normalizeJob(r, dateAdded) {
     // Hidden ordering clock (exact creation second). Display keeps using
     // dateAdded ("09 Sep 26"); this field is never shown, only sorted on.
     ...(r.addedAt ? { addedAt: r.addedAt } : {}),
+    // ATS badge, derived from the link host (never stored per-company).
+    ...(ats ? { ats } : {}),
+    ...(website ? { companyWebsite: r.companyWebsite } : {}),
     ...(logo ? { companyLogoUrl: logo } : {}),
   };
 }
