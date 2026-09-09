@@ -549,6 +549,22 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_wdzeyp",
+      "title": "Apprentice",
+      "company": "Textron",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Multiple locations"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1543603",
+      "dateAdded": "2026-09-09",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }

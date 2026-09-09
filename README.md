@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-17-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-18-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -9,9 +9,9 @@ Entry-level software, tech, product, and quant jobs for new graduates across **I
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ---
-### Browse 32 Roles
+### Browse 33 Roles
 
-💼 **[Full-Time Roles](#-full-time-roles)** (17)
+💼 **[Full-Time Roles](#-full-time-roles)** (18)
 
 🎓 **[Internship Roles](#-internship-roles)** (15)
 
@@ -142,6 +142,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Engineer</td>
 <td>Multiple locations, India</td>
 <td><a href="https://careers.qualcomm.com/careers/job/446720186473?hl=en-US&amp;domain=qualcomm.com">Apply</a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Textron</strong></td>
+<td>Apprentice</td>
+<td>Multiple locations, India</td>
+<td><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1543603">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
