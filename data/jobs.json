@@ -670,6 +670,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_t7vwr2",
+      "title": "Central Operations Support Executive, IN External Fulfillment",
+      "company": "Amazon",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Karnataka"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.amazon.jobs/en/jobs/10449085/central-operations-support-executive-in-external-fulfillment",
+      "companyWebsite": "https://amazon.com",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T17:36:32.847Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
