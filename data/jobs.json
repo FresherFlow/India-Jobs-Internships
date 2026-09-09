@@ -722,6 +722,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_m3c3mr",
+      "title": "Co-op/Intern",
+      "company": "GE Appliances",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://haier.wd3.myworkdayjobs.com/en-US/GE_Appliances/job/IND-Bangalore-KA/Co-op-Intern_REQ-26671",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T17:38:57.605Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
