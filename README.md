@@ -240,7 +240,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <tr>
 <td><strong>Google</strong></td>
 <td>Application Engineering Intern (Summer 2027)</td>
-<td>Hyderabad<br>Bengaluru, India</td>
+<td>Bengaluru, India</td>
 <td><a href="https://www.google.com/about/careers/applications/jobs/results/127840103736189638-application-engineering-intern">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
