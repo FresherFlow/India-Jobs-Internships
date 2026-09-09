@@ -89,8 +89,8 @@ function newJobFromIssue(fields) {
   const company = get(fields, "Company Name");
   const title = get(fields, "Job Title");
   const location = get(fields, "Location");
-  const website = get(fields, "Company website");
-  const active = get(fields, "Is this posting currently accepting applications?");
+  const website = get(fields, "Company website", "Company website (optional)");
+  const active = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
 
   if (!applyLink || !company || !title) {
     return null;
@@ -148,8 +148,8 @@ function handleEdit(jobs, fields) {
   const company = get(fields, "Company Name");
   const title = get(fields, "Job Title");
   const location = get(fields, "Location");
-  const website = get(fields, "Company website");
-  const active = get(fields, "Is this posting currently accepting applications?");
+  const website = get(fields, "Company website", "Company website (optional)");
+  const active = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
 
   if (company) j.company = company;
   if (title) {

@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-20-2E7D32) ![internships](https://img.shields.io/badge/internships-17-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-16-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -9,11 +9,11 @@ Entry-level software, tech, product, and quant jobs for new graduates across **I
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ---
-### Browse 37 Roles
+### Browse 31 Roles
 
-💼 **[Full-Time Roles](#-full-time-roles)** (20)
+💼 **[Full-Time Roles](#-full-time-roles)** (16)
 
-🎓 **[Internship Roles](#-internship-roles)** (17)
+🎓 **[Internship Roles](#-internship-roles)** (15)
 
 ---
 
@@ -40,13 +40,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>DXC Technology</strong></td>
-<td>Analyst III Infrastructure Services</td>
-<td>Bengaluru, India</td>
-<td><a href="https://careers.dxc.com/job/22666273/analyst-iii-infrastructure-services-bangalore-in/?source=DXCCompany-CareerSite">Apply</a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>EY</strong></td>
 <td>Associate Consultant - Business Consulting (Risk)</td>
 <td>Mumbai, India</td>
@@ -58,13 +51,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Future Talent Pipeline</td>
 <td>Bengaluru, India</td>
 <td><a href="https://careers.gf.com/careers/job/563980770500596">Apply</a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>HCLTech</strong></td>
-<td>Campus Trainee</td>
-<td>Chennai, India</td>
-<td><a href="https://careers.hcltech.com/job/Campus-Trainee/146888-en_US">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -152,20 +138,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Qualcomm</strong></td>
-<td>Engineer</td>
-<td>Multiple locations, India</td>
-<td><a href="https://careers.qualcomm.com/careers/job/446720186473?hl=en-US&amp;domain=qualcomm.com">Apply</a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Textron</strong></td>
-<td>Apprentice</td>
-<td>Multiple locations, India</td>
-<td><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1543603">Apply</a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>WTW</strong></td>
 <td>2027 Management Trainee Program - Corporate Risk &amp; Broking</td>
 <td>Gurugram<br>Mumbai, India</td>
@@ -245,13 +217,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Application Engineering Intern, Winter 2027 (English)</td>
-<td>Bengaluru, India</td>
-<td><a href="https://www.google.com/about/careers/applications/jobs/results/92840449600824006-application-engineering-intern">Apply</a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Honeywell</strong></td>
 <td>Intern (Bachelor's)</td>
 <td>Bengaluru, India</td>
@@ -263,13 +228,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern, Development</td>
 <td>Pune, India</td>
 <td><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7561">Apply</a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>MSD</strong></td>
-<td>Information Technology Intern 🔒</td>
-<td>Hyderabad, India</td>
-<td><a href="https://jobs.msd.com/gb/en/job/MSD1GBR414760ENGB/Information-Technology-Intern">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
