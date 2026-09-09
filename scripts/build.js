@@ -1,7 +1,7 @@
 ﻿import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { buildFeed, jobsToMarkdownTable } from "./feed.js";
+import { buildFeed, jobsToMarkdownTable, fmtDate } from "./feed.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -65,13 +65,19 @@ async function writeReadme(feed) {
     );
   }).filter(Boolean);
 
+  const jobs = feed.jobs.filter((j) => j.type !== "INTERNSHIP").length;
+  const internships = feed.jobs.filter((j) => j.type === "INTERNSHIP").length;
+  const updated = fmtDate(feed.lastUpdated).replace(/ /g, "_");
+
   const readme = `# India Jobs and Internships
+
+![jobs](https://img.shields.io/badge/jobs-${jobs}-2E7D32) ![internships](https://img.shields.io/badge/internships-${internships}-E86A1C) ![updated](https://img.shields.io/badge/updated-${updated}-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
-Structured JSON feed: [data/jobs.json](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) · [filterable site](https://fresherflow.github.io/India-Jobs-Internships/)
+[![site](https://img.shields.io/badge/site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![data](https://img.shields.io/badge/data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![contribute](https://img.shields.io/badge/contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new/choose)
 
-**Contribute by submitting an [issue](https://github.com/FresherFlow/India-Jobs-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md).**
+See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ---
 ### Browse ${feed.count} Roles

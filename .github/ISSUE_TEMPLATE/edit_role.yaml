@@ -52,18 +52,6 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: sponsorship
-    attributes:
-      label: Does this job offer sponsorship?
-      description: For information only (India roles may not specify sponsorship).
-      multiple: false
-      options:
-        - Offers Sponsorship
-        - Does Not Offer Sponsorship
-        - Other
-    validations:
-      required: false
-  - type: dropdown
     id: active
     attributes:
       label: Is this posting currently accepting applications?
@@ -74,13 +62,6 @@ body:
         - "No"
     validations:
       required: false
-  - type: checkboxes
-    id: advanced_degree
-    attributes:
-      label: Advanced Degree Requirements
-      description: Check this box only if this position specifically requires a Master's degree, PhD, or other advanced degree (and does NOT accept Bachelor's degrees).
-      options:
-        - label: "This position requires a Master's degree or higher"
   - type: checkboxes
     id: is_visible
     attributes:

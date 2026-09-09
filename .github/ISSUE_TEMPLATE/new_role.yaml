@@ -8,6 +8,8 @@ body:
       value: |
         Thanks for contributing! Keep it short — we only need the essentials.
         A maintainer will review your submission and add it to the feed once approved.
+
+        **Leave the Title box at the top exactly as it is** — the bot names your issue from the Company + Job Title you type below.
   - type: input
     id: url
     attributes:

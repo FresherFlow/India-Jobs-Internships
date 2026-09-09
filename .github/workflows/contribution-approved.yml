@@ -28,6 +28,12 @@ jobs:
         env:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
 
+      - name: Name the issue from Company + Job Title
+        if: steps.append.outputs.ok == 'true' && contains(github.event.issue.labels.*.name, 'new_role')
+        run: gh issue edit ${{ github.event.issue.number }} --title "New Role: ${{ steps.append.outputs.company }} - ${{ steps.append.outputs.title }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Rebuild feed (README.md, docs/index.html)
         run: node scripts/build.js
 

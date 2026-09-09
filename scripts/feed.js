@@ -125,7 +125,7 @@ export function jobsToMarkdownTable(jobs) {
       `<td>${esc(job.title)}${closed}</td>\n` +
       `<td>${fmtLocation(job.locations)}</td>\n` +
       `<td><a href="${esc(job.applyLink, true)}">Apply</a></td>\n` +
-      `<td>${esc(job.dateAdded)}</td>\n` +
+      `<td>${fmtDate(job.dateAdded)}</td>\n` +
       "</tr>\n"
     );
   });
@@ -136,6 +136,15 @@ export function jobsToMarkdownTable(jobs) {
 function esc(s, attr = false) {
   const out = s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   return attr ? out.replace(/"/g, "&quot;") : out;
+}
+
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+/** "2026-09-09" -> "09 Sep 26". Anything else passes through untouched. */
+export function fmtDate(iso) {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(String(iso || ""));
+  if (!m) return iso || "";
+  return `${m[3]} ${MONTHS[+m[2] - 1] || m[2]} ${m[1].slice(2)}`;
 }
 
 export function fmtLocation(locations) {
