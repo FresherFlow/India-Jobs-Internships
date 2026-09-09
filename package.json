@@ -1,0 +1,12 @@
+﻿{
+  "name": "india-jobs-internships",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Community-maintained list of new grad (fresher) full-time roles and internships in India, with a machine-readable JSON feed and a GitHub Pages site.",
+  "scripts": {
+    "seed": "node scripts/generateSeed.js",
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate.js"
+  }
+}

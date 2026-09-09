@@ -1,0 +1,83 @@
+﻿name: Contribution Approved
+
+on:
+  issues:
+    types: ["labeled"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == 'approved'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Append contribution to data/jobs.json
+        id: append
+        run: node scripts/process-contribution.js
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+
+      - name: Rebuild feed (README.md, docs/index.html)
+        run: node scripts/build.js
+
+      - name: Commit + push
+        run: |
+          git config user.name "FresherFlow Bot"
+          git config user.email "bot@fresherflow.in"
+          git add data/jobs.json README.md docs/index.html
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "feat: add ${{ steps.append.outputs.company }} - ${{ steps.append.outputs.title }}"
+            git push
+          fi
+
+      - name: Comment on issue
+        if: always() && steps.append.outputs.ok == 'true'
+        run: |
+          if [ "${{ steps.append.outputs.bulk }}" = "true" ]; then
+            gh issue comment ${{ github.event.issue.number }} --body "${{ steps.append.outputs.summary }} Auto-closing issue."
+          elif [ "${{ steps.append.outputs.removed }}" = "true" ]; then
+            gh issue comment ${{ github.event.issue.number }} --body "This job was permanently removed. Auto-closing issue."
+          elif [ "${{ steps.append.outputs.duplicate }}" = "true" ]; then
+            gh issue comment ${{ github.event.issue.number }} --body "This role is already in the feed :) Auto-closing issue."
+          else
+            gh issue comment ${{ github.event.issue.number }} --body "Your contribution was accepted. Auto-closing issue."
+          fi
+          gh issue close ${{ github.event.issue.number }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Comment on issue (error)
+        if: failure()
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body "There was an error with our GitHub Action. Please check the workflow logs."
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

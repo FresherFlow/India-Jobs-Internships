@@ -1,0 +1,410 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FresherFlow · India Jobs and Internships</title>
+  <meta name="description" content="Verified entry-level jobs and internships across India. Every role links to a real posting." />
+  <meta name="theme-color" content="#FFF9EE" id="theme-color" />
+  <link rel="icon" href="https://github.com/FresherFlow/FresherFlow/raw/main/apps/web/public/icon-512x512.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,900&family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --paper: #FFF9EE;
+      --card: #FFFFFF;
+      --ink: #1B1440;
+      --ink-soft: #57517E;
+      --line: #E7DCC2;
+      --marigold: #E86A1C;
+      --marigold-deep: #C24E0C;
+      --peacock: #0E7C7B;
+      --peacock-deep: #0A5B5B;
+      --stamp: #C2402A;
+      --shadow: #1B1440;
+      --stub-bg: #FFFBF1;
+      --kicker-text: #FFE9C9;
+      --on-warm: #1B1440;
+      --chip-on: #FFF3DC;
+      --on-accent: #FFFFFF;
+      --mono-bg: #1B1440;
+      --mono-text: #FFE9C9;
+      --edge: #1B1440;
+      --radius: 14px;
+    }
+    html { color-scheme: light; }
+    [data-theme="dark"] {
+      color-scheme: dark;
+      --paper: #121112; --card: #1C1B1E; --ink: #F5EFE4; --ink-soft: #A39E93;
+      --line: #38342F; --marigold: #F2913D; --marigold-deep: #F7A55C;
+      --peacock: #45CFC9; --peacock-deep: #2AA3A2; --stamp: #E0684E;
+      --shadow: rgba(0,0,0,.6);
+      --stub-bg: #232227;
+      --kicker-text: #161416;
+      --on-warm: #161416;
+      --chip-on: #161416;
+      --on-accent: #062A2A;
+      --mono-bg: #F5EFE4;
+      --mono-text: #161416;
+      --edge: #3A3733;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0; background: var(--paper); color: var(--ink);
+      font-family: "Space Grotesk", system-ui, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    /* ---- masthead ---- */
+    .masthead {
+      max-width: 1080px; margin: 0 auto; padding: 40px 24px 8px;
+      display: grid; grid-template-columns: 1fr auto; gap: 24px; align-items: start;
+    }
+    .eyebrow {
+      font-family: "IBM Plex Mono", monospace; font-size: 12px;
+      letter-spacing: .18em; text-transform: uppercase; color: var(--peacock);
+      margin: 0 0 12px; display: flex; align-items: center; gap: 9px;
+    }
+    .brand { width: 24px; height: 24px; border-radius: 7px; }
+    h1 {
+      font-family: "Fraunces", serif; font-weight: 900;
+      font-size: clamp(40px, 6vw, 72px); line-height: .98;
+      margin: 0; letter-spacing: -0.02em; text-wrap: balance;
+    }
+    .lede { color: var(--ink-soft); font-size: 16px; max-width: 52ch; margin: 14px 0 0; }
+    .stats { display: flex; gap: 28px; margin: 22px 0 0; flex-wrap: wrap; }
+    .stat b { font-family: "Fraunces", serif; font-size: 30px; display: block; line-height: 1; font-variant-numeric: tabular-nums; }
+    .stat span { font-family: "IBM Plex Mono", monospace; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); }
+    .stamp {
+      font-family: "IBM Plex Mono", monospace; font-size: 12px; font-weight: 500;
+      letter-spacing: .1em; text-transform: uppercase; color: var(--stamp);
+      border: 2px solid var(--stamp); border-radius: 8px;
+      padding: 10px 14px; transform: rotate(4deg);
+      text-align: center; line-height: 1.5; background: rgba(194,64,42,.05);
+      white-space: nowrap;
+    }
+    .rule { max-width: 1080px; margin: 24px auto 0; padding: 0 24px; }
+    .rule hr { border: 0; border-top: 2px solid var(--edge); }
+
+    /* ---- filter counter ---- */
+    .counter {
+      position: sticky; top: 0; z-index: 10;
+      background: color-mix(in srgb, var(--paper) 94%, transparent);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--line);
+    }
+    .counter-inner {
+      max-width: 1080px; margin: 0 auto; padding: 14px 24px;
+      display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+    }
+    .search {
+      flex: 1 1 240px; display: flex; align-items: center; gap: 8px;
+      background: var(--card); border: 1.5px solid var(--edge);
+      border-radius: 999px; padding: 9px 16px;
+    }
+    .search input {
+      border: 0; outline: 0; background: transparent; width: 100%;
+      font: inherit; font-size: 15px; color: var(--ink);
+    }
+    .search input::placeholder { color: var(--ink-soft); opacity: 1; }
+    .search:focus-within { border-color: var(--peacock); box-shadow: 0 0 0 3px rgba(14,124,123,.18); }
+    .chips { display: flex; gap: 8px; flex-wrap: wrap; }
+    .chip {
+      font: inherit; font-size: 13px; font-weight: 700; cursor: pointer;
+      border: 1.5px solid var(--edge); background: transparent; color: var(--ink);
+      border-radius: 999px; padding: 8px 14px; touch-action: manipulation;
+    }
+    .chip[aria-pressed="true"] { background: var(--ink); color: var(--chip-on); }
+    .modes { display: flex; border: 1.5px solid var(--edge); border-radius: 999px; overflow: hidden; }
+    .modes button {
+      font: inherit; font-size: 13px; font-weight: 700; cursor: pointer;
+      border: 0; background: transparent; color: var(--ink); padding: 8px 13px;
+      touch-action: manipulation;
+    }
+    .modes button + button { border-left: 1.5px solid var(--edge); }
+    .modes button[aria-pressed="true"] { background: var(--peacock); color: var(--on-accent); }
+    .count {
+      margin-left: auto; font-family: "IBM Plex Mono", monospace;
+      font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-soft);
+      font-variant-numeric: tabular-nums;
+    }
+
+    /* ---- hall tickets ---- */
+    main { max-width: 1080px; margin: 0 auto; padding: 20px 24px 56px; }
+    .group-label {
+      font-family: "IBM Plex Mono", monospace; font-size: 12px;
+      letter-spacing: .16em; text-transform: uppercase; color: var(--ink-soft);
+      margin: 30px 0 12px; display: flex; align-items: center; gap: 10px;
+    }
+    .group-label::after { content: ""; flex: 1; border-top: 1px dashed var(--line); }
+    .ticket {
+      display: grid; grid-template-columns: 1fr 190px;
+      background: var(--card); border: 1.5px solid var(--edge);
+      border-radius: var(--radius); margin-bottom: 14px; overflow: hidden;
+      box-shadow: 4px 4px 0 var(--shadow);
+    }
+    .ticket-main { padding: 18px 20px; overflow-wrap: anywhere; }
+    .ticket-top { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 6px; }
+    .kicker {
+      font-family: "IBM Plex Mono", monospace; font-size: 11px; font-weight: 500;
+      letter-spacing: .12em; text-transform: uppercase;
+      background: var(--ink); color: var(--kicker-text); border-radius: 6px; padding: 3px 8px;
+    }
+    .kicker.internship { background: var(--marigold); color: var(--on-warm); }
+    .org { display: flex; gap: 12px; align-items: center; }
+    .logowrap { position: relative; width: 40px; height: 40px; flex: none; }
+    .mono {
+      position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+      font-family: "Fraunces", serif; font-weight: 900; font-size: 20px;
+      background: var(--mono-bg); color: var(--mono-text); border-radius: 10px;
+    }
+    .logo {
+      position: relative; width: 40px; height: 40px; display: block;
+      border-radius: 10px; border: 1.5px solid var(--edge);
+      background: #fff; object-fit: contain;
+    }
+    .company { font-family: "IBM Plex Mono", monospace; font-size: 12px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); }
+    .role { font-family: "Fraunces", serif; font-weight: 700; font-size: 22px; margin: 2px 0 6px; line-height: 1.15; }
+    .meta { color: var(--ink-soft); font-size: 14px; display: flex; gap: 14px; flex-wrap: wrap; }
+    .meta b { color: var(--ink); font-weight: 700; }
+    .faang {
+      font-size: 11px; font-weight: 700; letter-spacing: .08em;
+      color: var(--marigold-deep); border: 1.5px solid var(--marigold-deep);
+      border-radius: 999px; padding: 1px 9px; text-transform: uppercase;
+    }
+    .ticket-stub {
+      border-left: 2px dashed var(--edge); padding: 18px;
+      display: flex; flex-direction: column; justify-content: center; gap: 8px;
+      background: var(--stub-bg); position: relative;
+    }
+    .added { font-family: "IBM Plex Mono", monospace; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-soft); }
+    .apply {
+      display: block; text-align: center; text-decoration: none;
+      font-weight: 700; font-size: 15px; color: var(--on-accent);
+      background: var(--peacock); border-radius: 10px; padding: 11px;
+      border: 1.5px solid var(--peacock-deep); touch-action: manipulation;
+    }
+    .apply:hover { background: var(--peacock-deep); }
+    .ticket.is-closed { opacity: .72; box-shadow: none; }
+    .ticket.is-closed .apply { background: transparent; color: var(--stamp); border-color: var(--stamp); pointer-events: none; }
+    .closed-stamp {
+      font-family: "IBM Plex Mono", monospace; font-size: 11px; font-weight: 500;
+      letter-spacing: .14em; color: var(--stamp); border: 1.5px solid var(--stamp);
+      border-radius: 6px; padding: 2px 8px; transform: rotate(-3deg); text-transform: uppercase;
+    }
+    .empty { padding: 40px 0; color: var(--ink-soft); font-size: 16px; }
+    footer { border-top: 2px solid var(--edge); }
+    .cta {
+      max-width: 1080px; margin: 0 auto; padding: 34px 24px;
+      display: flex; gap: 20px; align-items: center; justify-content: space-between; flex-wrap: wrap;
+    }
+    .cta h2 { font-family: "Fraunces", serif; font-weight: 900; font-size: clamp(24px, 3.4vw, 32px); margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+    .cta p { color: var(--ink-soft); margin: 8px 0 0; font-size: 15px; max-width: 52ch; }
+    .apply.big { padding: 14px 30px; font-size: 16px; flex: none; }
+    .footer-inner {
+      max-width: 1080px; margin: 0 auto; padding: 20px 24px 40px;
+      display: flex; gap: 16px; flex-wrap: wrap; justify-content: space-between;
+      font-size: 13px; color: var(--ink-soft);
+    }
+    footer a { color: var(--marigold-deep); font-weight: 700; }
+    a:focus-visible, .chip:focus-visible, .modes button:focus-visible, .apply:focus-visible {
+      outline: 2px solid var(--peacock); outline-offset: 2px;
+    }
+    /* ---- dark mode ---- */
+    [data-theme="dark"] .stamp { background: rgba(224,104,78,.08); }
+    @media (max-width: 680px) {
+      .masthead { grid-template-columns: 1fr; padding: 28px 18px 4px; }
+      .stamp { justify-self: start; transform: rotate(-2deg); }
+      .counter-inner { padding: 12px 16px; }
+      main { padding: 14px 16px 44px; }
+      .rule { padding: 0 16px; }
+      .ticket { grid-template-columns: 1fr; }
+      .ticket-main { padding: 14px 16px; }
+      .role { font-size: 19px; }
+      .ticket-stub { border-left: 0; border-top: 2px dashed var(--edge); padding: 14px 16px; }
+      .apply { padding: 13px; }
+      .count { margin-left: 0; }
+      .stats { gap: 18px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+  </style>
+                      <!--FEED--><script>window.__FEED__ = {"lastUpdated":"2026-09-09T14:12:54.211Z","count":31,"jobs":[{"id":"job_2o5ytv","title":"Software Engineer I (Fresher)","company":"Microsoft","type":"JOB","status":"PUBLISHED","locations":["Hyderabad"],"workMode":"ONSITE","applyLink":"https://apply.careers.microsoft.com/careers/job/1970393556957951","dateAdded":"2026-09-09","tags":["FAANG"],"notesHighlights":"Entry level software engineering, Hyderabad.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_7ixxj6","title":"Application Engineering Intern (Summer 2027)","company":"Google","type":"INTERNSHIP","status":"PUBLISHED","locations":["Hyderabad","Bengaluru"],"workMode":"ONSITE","applyLink":"https://www.google.com/about/careers/applications/jobs/results/127840103736189638-application-engineering-intern","dateAdded":"2026-09-09","tags":["FAANG"],"notesHighlights":"Summer 2027 internship, application engineering track.","requiredSkills":[],"allowedPassoutYears":[2027]},{"id":"job_d8yt7","title":"SDE I Intern (University Talent Acquisition)","company":"Amazon","type":"INTERNSHIP","status":"PUBLISHED","locations":["Multiple locations"],"workMode":"ONSITE","applyLink":"https://www.amazon.jobs/en-gb/jobs/10506481/sde-i-intern-amazon-university-talent-acquisition","dateAdded":"2026-09-09","tags":["FAANG"],"notesHighlights":"Amazon student programs internship for 2027.","requiredSkills":[],"allowedPassoutYears":[2027]},{"id":"job_151c8l","title":"Software Engineer I","company":"Honeywell","type":"JOB","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"HYBRID","applyLink":"https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155609","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Entry-level SWE, Bengaluru (Hybrid). Aerospace org.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_7i9eu3","title":"Graduate Engineer Trainee","company":"Pitney Bowes","type":"JOB","status":"PUBLISHED","locations":["Noida"],"workMode":"ONSITE","applyLink":"https://pitneybowes.wd1.myworkdayjobs.com/PBCareers/job/IN-Sector-142-Noida/Graduate-Engineer-Trainee_R22095","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Graduate Engineer Trainee, Noida. Off-campus intake.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_rofqy2","title":"Apprentice, Product Program Management","company":"Pearson","type":"JOB","status":"PUBLISHED","locations":["Noida"],"workMode":"ONSITE","applyLink":"https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25348","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Apprenticeship, Product Program Management, Noida.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_kn8rxx","title":"2027 Management Trainee Program - Corporate Risk & Broking","company":"WTW","type":"JOB","status":"PUBLISHED","locations":["Gurugram","Mumbai"],"workMode":"ONSITE","applyLink":"https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605153","dateAdded":"2026-09-09","tags":["MT Program"],"notesHighlights":"Early careers 2027 Management Trainee Program, multiple locations.","requiredSkills":[],"allowedPassoutYears":[2027]},{"id":"job_y0sfxy","title":"Apprentice (Engineering)","company":"Itron","type":"JOB","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://itron.wd5.myworkdayjobs.com/en-GB/Itron/job/India-Bangalore/Apprentice_JR102245-1","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Engineering apprenticeship, Bengaluru.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_wwgh4j","title":"Analyst (Off-campus 2026)","company":"Kantar","type":"JOB","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://kantar.wd3.myworkdayjobs.com/KANTAR/job/Bangalore-Prestige-Technology-Park/Analyst_R102561","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Analytics/insights analyst, Bengaluru.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_gd4ma0","title":"Associate Software Engineer","company":"HMH","type":"JOB","status":"PUBLISHED","locations":["Pune"],"workMode":"ONSITE","applyLink":"https://careers.hmhco.com/go/TempIntern-Opportunities/2398000/","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Batch 2023-2026, Pune campus.","requiredSkills":[],"allowedPassoutYears":[2023,2024,2025,2026]},{"id":"job_40a1ux","title":"Associate Consultant - Business Consulting (Risk)","company":"EY","type":"JOB","status":"PUBLISHED","locations":["Mumbai"],"workMode":"ONSITE","applyLink":"https://careers.ey.com/ey/job/Mumbai-Associate-Consultant-Business-Consulting-Risk-National-CNS-Risk-Risk-Management-Mumbai-MH-400028/1430050633/","dateAdded":"2026-09-09","tags":[],"notesHighlights":"2026 recruitment, business/risk consulting entry-level, Mumbai.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_xjn6fo","title":"Future Talent Pipeline","company":"GlobalFoundries","type":"JOB","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://careers.gf.com/careers/job/563980770500596","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Off-campus future talent pipeline, Bangalore.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_lgmswh","title":"Associate - Automation","company":"Neolytix","type":"JOB","status":"PUBLISHED","locations":["Gurugram"],"workMode":"ONSITE","applyLink":"https://neolytix.applytojob.com/apply/cpTwcChJ77/Associate-Automation","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Entry-level automation associate, Gurugram.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_nws040","title":"Front-End Engineer Intern 2027","company":"Amazon","type":"INTERNSHIP","status":"PUBLISHED","locations":["Hyderabad"],"workMode":"ONSITE","applyLink":"https://www.amazon.jobs/en-gb/jobs/10502000/front-end-engineer-intern-2027","dateAdded":"2026-09-09","tags":["FAANG"],"notesHighlights":"Front-end engineering intern (ADCI Hyderabad), 2027.","requiredSkills":["React","JavaScript"],"allowedPassoutYears":[2027]},{"id":"job_nakh4q","title":"Data Engineer Intern 2027","company":"Amazon","type":"INTERNSHIP","status":"PUBLISHED","locations":["Multiple locations"],"workMode":"ONSITE","applyLink":"https://www.amazon.jobs/en-gb/jobs/10496769/data-engineer-intern-2027","dateAdded":"2026-09-09","tags":["FAANG"],"notesHighlights":"Data engineering internship, 2027.","requiredSkills":[],"allowedPassoutYears":[2027]},{"id":"job_m7pq8m","title":"Management Consulting Intern 2027","company":"PwC","type":"INTERNSHIP","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://pwc.wd3.myworkdayjobs.com/crm_campus_careers_site/job/Bangalore/Management-Consulting---Intern---2027_755056WD","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Management Consulting internship (Acceleration Center), 2027.","requiredSkills":[],"allowedPassoutYears":[2027]},{"id":"job_o5w9i4","title":"Cyber Security Intern","company":"Eurofins","type":"INTERNSHIP","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://jobs.smartrecruiters.com/Eurofins/744000142623140-intern","dateAdded":"2026-09-09","tags":["Cybersecurity"],"notesHighlights":"Cyber security internship, Bengaluru.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_w5epb6","title":"Intern (Bachelor's)","company":"Honeywell","type":"INTERNSHIP","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155475","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Bachelor's-level internship, Bengaluru (on-site).","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_aenxdu","title":"Research Intern - AI","company":"GE HealthCare","type":"INTERNSHIP","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://careers.gehealthcare.com/global/en/job/R4043882/Research-Intern-AI","dateAdded":"2026-09-09","tags":["AI"],"notesHighlights":"AI research internship, Bengaluru.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_85u6jx","title":"Intern, Development","company":"Icertis","type":"INTERNSHIP","status":"PUBLISHED","locations":["Pune"],"workMode":"ONSITE","applyLink":"https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7561","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Development internship, Pune (on-site).","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_rz7djv","title":"Mobile Engineer Intern (React Native)","company":"SuperKalam","type":"INTERNSHIP","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://www.ycombinator.com/companies/superkalam/jobs/Umo6XZ4-mobile-engineer-react-native-internship","dateAdded":"2026-09-09","tags":["Startup"],"notesHighlights":"React Native mobile internship; ~25k stipend.","salaryRange":"₹25,000","salaryPeriod":"MONTHLY","requiredSkills":["React Native"],"allowedPassoutYears":[]},{"id":"job_d4wsj","title":"AI/ML Intern","company":"Tower Research Capital","type":"INTERNSHIP","status":"PUBLISHED","locations":["Gurugram"],"workMode":"ONSITE","applyLink":"https://tower-research.com/open-positions/?gh_jid=8143756","dateAdded":"2026-09-09","tags":["Quant","AI"],"notesHighlights":"AI/ML internship, 2027 cycle.","requiredSkills":[],"allowedPassoutYears":[2027]},{"id":"job_3gcrc1","title":"Software Engineer Intern","company":"Overt Minds","type":"INTERNSHIP","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://careers.overtminds.com/jobs/Careers/41152000010397485/Software-Engineer-Intern","dateAdded":"2026-09-09","tags":[],"notesHighlights":"SWE internship, Bangalore North.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_2ohx0h","title":"Security Engineering Intern - Security Research","company":"DarkRange","type":"INTERNSHIP","status":"PUBLISHED","locations":["Remote"],"workMode":"REMOTE","applyLink":"https://darkrange.ai/careers/role/20f56e42-bb7c-4c79-a14f-47ed4fccb508","dateAdded":"2026-09-09","tags":["Security"],"notesHighlights":"Security research internship (remote).","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_h08dh1","title":"Intern Executive Engineer - LEAP Engine MRO","company":"Safran","type":"INTERNSHIP","status":"PUBLISHED","locations":["Hyderabad"],"workMode":"ONSITE","applyLink":"https://www.safran-group.com/jobs/india/shamshabad-hyderabad/intern-executive-engineer-leap-engine-mro-mf-184878","dateAdded":"2026-09-09","tags":["Aerospace"],"notesHighlights":"Aerospace/LEAP engine MRO internship, Hyderabad.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_xtr88x","title":"Marketing and Strategy Intern","company":"SLB","type":"INTERNSHIP","status":"PUBLISHED","locations":["Gurugram"],"workMode":"ONSITE","applyLink":"https://slb.eightfold.ai/careers/job/563499732619440","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Marketing & strategy internship, Gurugram.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_xmetdt","title":"Associate Software Engineer","company":"Capgemini","type":"JOB","status":"PUBLISHED","locations":["Bengaluru"],"workMode":"ONSITE","applyLink":"https://www.capgemini.com/jobs/538629-en_GB+sap_btp","dateAdded":"2026-09-09","tags":[],"notesHighlights":"SAP BTP software engineering, Bengaluru.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_6b6ewp","title":"Software Developer (Fresher)","company":"Jasmin Infotech","type":"JOB","status":"PUBLISHED","locations":["Chennai"],"workMode":"ONSITE","applyLink":"https://jasmin-infotech.com/careers/software-developer","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Fresher application development role, Chennai. B.Sc/BCA eligible.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_6vxxyi","title":"Graduate Engineering Trainee (BU Quay)","company":"Konecranes","type":"JOB","status":"PUBLISHED","locations":["Pune"],"workMode":"ONSITE","applyLink":"https://www.linkedin.com/jobs/view/4461871636/","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Graduate engineering trainee, Pune.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_f4funf","title":"Software Engineer Trainee","company":"Novac Technology Solutions","type":"JOB","status":"PUBLISHED","locations":["Chennai"],"workMode":"ONSITE","applyLink":"https://www.linkedin.com/jobs/view/4463369516/","dateAdded":"2026-09-09","tags":[],"notesHighlights":"Software engineer trainee, Chennai.","requiredSkills":[],"allowedPassoutYears":[]},{"id":"job_ieso8u","title":"Associate Consultant – AI Engineering (Gen AI)","company":"KPMG","type":"JOB","status":"PUBLISHED","locations":["Mumbai"],"workMode":"ONSITE","applyLink":"https://www.linkedin.com/jobs/view/4464004639/","dateAdded":"2026-09-09","tags":["AI"],"notesHighlights":"AI engineering & generative AI solutions, Mumbai.","requiredSkills":[],"allowedPassoutYears":[]}]};</script>  <!--/FEED-->
+</head>
+<body>
+  <header class="masthead">
+    <div>
+      <p class="eyebrow"><img class="brand" src="https://github.com/FresherFlow/FresherFlow/raw/main/apps/web/public/icon-512x512.png" alt="" width="24" height="24" />FresherFlow · India</p>
+      <h1>India Jobs & Internships</h1>
+      <p class="lede">Real entry-level postings with working application links — no invented URLs, refreshed daily. If a link is dead, it gets marked closed.</p>
+      <div class="stats">
+        <div class="stat"><b id="stat-open">–</b><span>Open roles</span></div>
+        <div class="stat"><b id="stat-intern">–</b><span>Internships</span></div>
+        <div class="stat"><b id="stat-updated">–</b><span>Last updated</span></div>
+      </div>
+    </div>
+    <div class="stamp" id="stamp">Verified<br />India list</div>
+  </header>
+  <div class="rule"><hr /></div>
+
+  <div class="counter">
+    <div class="counter-inner">
+      <label class="search"><span aria-hidden="true">⌕</span><input id="q" type="search" placeholder="Search company, role, city…" autocomplete="off" aria-label="Search roles" /></label>
+      <div class="chips" role="group" aria-label="Jobs or internships">
+        <button class="chip" data-kind="" aria-pressed="true">All</button>
+        <button class="chip" data-kind="job" aria-pressed="false">Jobs</button>
+        <button class="chip" data-kind="internship" aria-pressed="false">Internships</button>
+      </div>
+      <div class="modes" role="group" aria-label="Work mode">
+        <button data-mode="" aria-pressed="true">Any</button>
+        <button data-mode="onsite" aria-pressed="false">Onsite</button>
+        <button data-mode="hybrid" aria-pressed="false">Hybrid</button>
+        <button data-mode="remote" aria-pressed="false">Remote</button>
+      </div>
+      <span class="count" id="count" aria-live="polite">Loading…</span>
+      <button class="chip" id="theme" aria-pressed="false" title="Toggle dark mode">Dark</button>
+    </div>
+  </div>
+
+  <main id="list"><div class="empty">Loading verified roles…</div></main>
+
+  <footer>
+    <div class="cta">
+      <div>
+        <h2>Know a fresher role we're missing?</h2>
+        <p>Paste the posting link — it takes a minute. A maintainer reviews every submission before it goes live.</p>
+      </div>
+      <a class="apply big" href="https://github.com/FresherFlow/India-Jobs-Internships/issues/new/choose">Add a role →</a>
+    </div>
+    <div class="footer-inner">
+      <span><a href="https://github.com/FresherFlow/India-Jobs-Internships">GitHub repo</a> · Data: <a href="https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json">data/jobs.json</a> · Verify each posting before applying.</span>
+      <span>Part of <a href="https://github.com/FresherFlow">FresherFlow</a></span>
+    </div>
+  </footer>
+
+  <script>
+    const state = { jobs: [], q: "", kind: "", mode: "" };
+
+    function load() {
+      const feed = window.__FEED__ || { jobs: [], lastUpdated: "" };
+      state.jobs = feed.jobs || [];
+      paintStats(feed);
+      render();
+    }
+
+    function paintStats(feed) {
+      const open = state.jobs.filter((j) => j.status !== "EXPIRED").length;
+      const intern = state.jobs.filter((j) => j.type === "INTERNSHIP" && j.status !== "EXPIRED").length;
+      document.getElementById("stat-open").textContent = open;
+      document.getElementById("stat-intern").textContent = intern;
+      const d = (feed.lastUpdated || "").slice(0, 10);
+      document.getElementById("stat-updated").textContent = d || "—";
+    }
+
+    function render() {
+      const q = state.q.trim().toLowerCase();
+      const rows = state.jobs.filter((j) => {
+        const isIntern = j.type === "INTERNSHIP";
+        if (state.kind === "job" && isIntern) return false;
+        if (state.kind === "internship" && !isIntern) return false;
+        if (state.mode && String(j.workMode || "").toLowerCase() !== state.mode) return false;
+        if (q) {
+          const hay = (j.company + " " + j.title + " " + (j.locations || []).join(" ")).toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      }).sort((a, b) => (a.dateAdded === b.dateAdded
+        ? a.company.localeCompare(b.company)
+        : a.dateAdded < b.dateAdded ? 1 : -1));
+
+      document.getElementById("count").textContent = rows.length + " role" + (rows.length === 1 ? "" : "s");
+
+      const list = document.getElementById("list");
+      if (rows.length === 0) {
+        list.innerHTML = '<div class="empty">No roles match your filters. Know one we\'re missing? <a href="https://github.com/FresherFlow/India-Jobs-Internships/issues/new/choose">Add it →</a></div>';
+        return;
+      }
+
+      const groups = [["job", "Full-time roles", (j) => j.type !== "INTERNSHIP"], ["internship", "Internships", (j) => j.type === "INTERNSHIP"]];
+      let html = "";
+      for (const [kind, title, match] of groups) {
+        const items = rows.filter(match);
+        if (!items.length) continue;
+        html += `<div class="group-label">${title} · ${items.length}</div>`;
+        html += items.map((j) => {
+          const closed = j.status === "EXPIRED";
+          const faang = (j.tags || []).some((t) => String(t).toLowerCase().includes("faang"));
+          const loc = (j.locations || []).join(" · ") + ", India";
+          const initial = String(j.company || "?").trim().charAt(0).toUpperCase();
+          return `<article class="ticket${closed ? " is-closed" : ""}">
+            <div class="ticket-main">
+              <div class="ticket-top">
+                <span class="kicker ${kind}">${kind === "job" ? "Job" : "Internship"}</span>
+                ${faang ? '<span class="faang">FAANG+</span>' : ""}
+                ${closed ? '<span class="closed-stamp">Closed</span>' : ""}
+              </div>
+              <div class="org">
+                <span class="logowrap"><span class="mono">${escapeHtml(initial)}</span>${j.companyLogoUrl ? `<img class="logo" src="${escapeAttr(j.companyLogoUrl)}" alt="" width="40" height="40" loading="lazy" onerror="this.remove()">` : ""}</span>
+                <div>
+                  <div class="company">${escapeHtml(j.company)}</div>
+                  <div class="role">${escapeHtml(j.title)}</div>
+                </div>
+              </div>
+              <div class="meta"><span><b>📍</b> ${escapeHtml(loc)}</span><span><b>◐</b> ${escapeHtml((j.workMode || "ONSITE").toLowerCase())}</span></div>
+            </div>
+            <div class="ticket-stub">
+              <span class="added">Added ${escapeHtml(j.dateAdded || "")}</span>
+              <a class="apply" href="${escapeAttr(j.applyLink)}" target="_blank" rel="noopener">${closed ? "Closed" : "Apply →"}</a>
+            </div>
+          </article>`;
+        }).join("");
+      }
+      list.innerHTML = html;
+    }
+
+    function escapeHtml(s) {
+      return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+    }
+    function escapeAttr(s) { return escapeHtml(s); }
+
+    document.getElementById("q").addEventListener("input", (e) => { state.q = e.target.value; render(); });
+    document.querySelectorAll(".chip").forEach((b) => b.addEventListener("click", () => {
+      state.kind = b.dataset.kind;
+      document.querySelectorAll(".chip").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      render();
+    }));
+    document.querySelectorAll(".modes button").forEach((b) => b.addEventListener("click", () => {
+      state.mode = b.dataset.mode;
+      document.querySelectorAll(".modes button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      render();
+    }));
+
+    const themeBtn = document.getElementById("theme");
+    const themeColor = document.getElementById("theme-color");
+    function paintTheme() {
+      const dark = document.documentElement.dataset.theme === "dark";
+      themeBtn.textContent = dark ? "Light" : "Dark";
+      themeBtn.setAttribute("aria-pressed", String(dark));
+      if (themeColor) themeColor.setAttribute("content", dark ? "#121112" : "#FFF9EE");
+    }
+    (function initTheme() {
+      let t = "";
+      try { t = localStorage.getItem("ff-theme") || ""; } catch (e) {}
+      if (!t && window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches) t = "dark";
+      if (t === "dark") document.documentElement.dataset.theme = "dark";
+      paintTheme();
+    })();
+    themeBtn.addEventListener("click", () => {
+      const dark = document.documentElement.dataset.theme !== "dark";
+      if (dark) document.documentElement.dataset.theme = "dark";
+      else delete document.documentElement.dataset.theme;
+      try { localStorage.setItem("ff-theme", dark ? "dark" : "light"); } catch (e) {}
+      paintTheme();
+    });
+
+    load();
+  </script>
+</body>
+</html>

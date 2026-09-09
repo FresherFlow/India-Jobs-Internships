@@ -1,0 +1,57 @@
+name: Add New Role
+description: Submit a new-grad (fresher) full-time role or internship in India
+title: "New Role: <Company> - <Title>"
+labels: ["new_role"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! Keep it short — we only need the essentials.
+        A maintainer will review your submission and add it to the feed once approved.
+  - type: input
+    id: url
+    attributes:
+      label: Link to Job Posting
+      description: Direct application / posting URL.
+      placeholder: https://example.com/careers/sde
+    validations:
+      required: true
+  - type: input
+    id: company
+    attributes:
+      label: Company Name
+      placeholder: ex. Google
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Job Title
+      placeholder: ex. Software Engineer I (Fresher)
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Separate multiple cities with " | ". Add "Remote" if applicable.
+      placeholder: Bengaluru | Hyderabad | Remote
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Company website (optional)
+      description: The company's own site, e.g. https://example.com — used to show its logo. Leave empty if unsure.
+      placeholder: https://example.com
+    validations:
+      required: false
+  - type: dropdown
+    id: active
+    attributes:
+      label: Is the posting currently accepting applications?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true

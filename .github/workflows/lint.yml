@@ -1,0 +1,19 @@
+﻿name: Lint
+
+on:
+  push:
+    paths:
+      - 'scripts/**'
+  pull_request:
+    paths:
+      - 'scripts/**'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Validate feed
+        run: node scripts/validate.js

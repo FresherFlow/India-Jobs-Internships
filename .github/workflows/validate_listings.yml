@@ -1,0 +1,19 @@
+﻿name: Validate Listings
+
+on:
+  push:
+    paths:
+      - 'data/jobs.json'
+  pull_request:
+    paths:
+      - 'data/jobs.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Validate data/jobs.json
+        run: node scripts/validate.js

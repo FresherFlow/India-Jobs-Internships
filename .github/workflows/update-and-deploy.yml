@@ -1,0 +1,56 @@
+﻿name: Update feed & deploy
+
+on:
+  schedule:
+    # Daily at 06:00 UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build feed (regenerates README.md + bakes feed into docs/index.html)
+        run: node scripts/build.js
+
+      - name: Commit regenerated data
+        run: |
+          git config user.name "FresherFlow Bot"
+          git config user.email "bot@fresherflow.in"
+          git add data/jobs.json README.md docs/index.html
+          if git diff --cached --quiet; then
+            echo "No changes to commit";
+          else
+            git commit -m "chore: regenerate job feed $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
