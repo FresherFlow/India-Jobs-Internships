@@ -705,6 +705,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_k9bytv",
+      "title": "Intern",
+      "company": "Infosys",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.linkedin.com/jobs/view/4460493715/",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T17:38:09.339Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }

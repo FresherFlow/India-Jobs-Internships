@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-23-2E7D32) ![internships](https://img.shields.io/badge/internships-16-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-23-2E7D32) ![internships](https://img.shields.io/badge/internships-17-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -23,6 +23,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Infosys</strong></td>
+<td>Intern</td>
+<td>Bengaluru</td>
+<td><a href="https://www.linkedin.com/jobs/view/4460493715/">Apply</a></td>
+<td>09 Sep 26</td>
+</tr>
 <tr>
 <td><strong>V Patrol</strong></td>
 <td>Python Developer</td>
