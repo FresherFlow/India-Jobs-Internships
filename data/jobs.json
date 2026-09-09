@@ -565,6 +565,22 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_bknqh7",
+      "title": "Campus Trainee",
+      "company": "HCLTech",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.hcltech.com/job/Campus-Trainee/146888-en_US",
+      "dateAdded": "2026-09-09",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }

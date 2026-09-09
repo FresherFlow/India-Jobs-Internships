@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-18-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-19-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -9,9 +9,9 @@ Entry-level software, tech, product, and quant jobs for new graduates across **I
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ---
-### Browse 33 Roles
+### Browse 34 Roles
 
-💼 **[Full-Time Roles](#-full-time-roles)** (18)
+💼 **[Full-Time Roles](#-full-time-roles)** (19)
 
 🎓 **[Internship Roles](#-internship-roles)** (15)
 
@@ -51,6 +51,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Future Talent Pipeline</td>
 <td>Bengaluru, India</td>
 <td><a href="https://careers.gf.com/careers/job/563980770500596">Apply</a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>HCLTech</strong></td>
+<td>Campus Trainee</td>
+<td>Chennai, India</td>
+<td><a href="https://careers.hcltech.com/job/Campus-Trainee/146888-en_US">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
