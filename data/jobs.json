@@ -533,6 +533,22 @@
         "AI"
       ],
       "notesHighlights": "AI engineering & generative AI solutions, Mumbai."
+    },
+    {
+      "id": "job_ig5xxn",
+      "title": "Engineer",
+      "company": "Qualcomm",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Multiple locations"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.qualcomm.com/careers/job/446720186473?hl=en-US&domain=qualcomm.com",
+      "dateAdded": "2026-09-09",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }

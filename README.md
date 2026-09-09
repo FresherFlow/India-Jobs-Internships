@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-16-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-17-2E7D32) ![internships](https://img.shields.io/badge/internships-15-E86A1C) ![updated](https://img.shields.io/badge/updated-09_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -9,9 +9,9 @@ Entry-level software, tech, product, and quant jobs for new graduates across **I
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ---
-### Browse 31 Roles
+### Browse 32 Roles
 
-💼 **[Full-Time Roles](#-full-time-roles)** (16)
+💼 **[Full-Time Roles](#-full-time-roles)** (17)
 
 🎓 **[Internship Roles](#-internship-roles)** (15)
 
@@ -135,6 +135,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Graduate Engineer Trainee</td>
 <td>Noida, India</td>
 <td><a href="https://pitneybowes.wd1.myworkdayjobs.com/PBCareers/job/IN-Sector-142-Noida/Graduate-Engineer-Trainee_R22095">Apply</a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td>Engineer</td>
+<td>Multiple locations, India</td>
+<td><a href="https://careers.qualcomm.com/careers/job/446720186473?hl=en-US&amp;domain=qualcomm.com">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
