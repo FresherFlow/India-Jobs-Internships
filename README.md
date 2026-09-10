@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-51-2E7D32) ![internships](https://img.shields.io/badge/internships-44-E86A1C) ![updated](https://img.shields.io/badge/updated-10_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-50-2E7D32) ![internships](https://img.shields.io/badge/internships-44-E86A1C) ![updated](https://img.shields.io/badge/updated-10_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -623,13 +623,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate Software Engineer</td>
 <td>Pune</td>
 <td><a href="https://careers.hmhco.com/go/TempIntern-Opportunities/2398000/">Apply</a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Kantar</strong></td>
-<td>Analyst (Off-campus 2026)</td>
-<td>Bengaluru</td>
-<td><a href="https://kantar.wd3.myworkdayjobs.com/KANTAR/job/Bangalore-Prestige-Technology-Park/Analyst_R102561">Apply</a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
