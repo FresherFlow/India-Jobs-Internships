@@ -2292,6 +2292,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_380js9",
+      "title": "Marketing Intern - CRM (Loyalty)",
+      "company": "Darwinbox",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://cliqonnect.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6a84081ecd8ca",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T14:52:33.996Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
