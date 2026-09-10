@@ -2309,6 +2309,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_d7zbo1",
+      "title": "SDE Intern",
+      "company": "Spyne",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurugram"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://spyneai.keka.com/careers/jobdetails/156605",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T16:39:49.035Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
