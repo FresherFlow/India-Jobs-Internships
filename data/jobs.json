@@ -2485,6 +2485,22 @@
       "tags": [],
       "companyWebsite": "https://f5.com",
       "addedAt": "2026-09-10T15:41:15.591Z"
+    },
+    {
+      "id": "job_6ecefh",
+      "title": "Human Resources Intern",
+      "company": "Deloitte",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Delhi"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.linkedin.com/jobs/view/4461895062/",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T16:41:11.070Z",
+      "tags": [],
+      "companyWebsite": "https://deloitte.com"
     }
   ]
 }
