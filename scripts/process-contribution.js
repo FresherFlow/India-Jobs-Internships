@@ -239,7 +239,7 @@ async function main() {
   if (!issue) throw new Error("No issue in event payload");
 
   const fields = parseIssueBody(issue.body);
-  const labels = (issue.labels || []).map((l) => String(l.name || "").toLowerCase());
+  const labels = (issue.labels || []).map((l) => String(l?.name || "").toLowerCase());
 
   if (labels.includes("bulk_mark_inactive")) {
     const jobs = (await readData()).jobs;

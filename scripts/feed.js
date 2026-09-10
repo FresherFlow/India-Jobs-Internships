@@ -182,7 +182,7 @@ export function jobsToMarkdownTable(jobs) {
       `<td>${companyCell}</td>\n` +
       `<td>${esc(job.title)}${closed}</td>\n` +
       `<td>${fmtLocation(job.locations)}</td>\n` +
-      `<td style="text-align: center;"><a href="${esc(job.applyLink, true)}" style="display: inline-block; padding: 6px 14px; background: #0E7C7B; color: #ffffff; text-decoration: none; border-radius: 8px; font-weight: 700; font-size: 13px;">Apply</a></td>\n` +
+      `<td align="center"><a href="${esc(job.applyLink, true)}"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>\n` +
       `<td>${fmtDate(job.dateAdded)}</td>\n` +
       "</tr>\n"
     );

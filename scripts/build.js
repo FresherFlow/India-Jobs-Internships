@@ -51,11 +51,11 @@ async function writeReadme(feed) {
 
   const readme = `# India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-${jobs}-2E7D32) ![internships](https://img.shields.io/badge/internships-${internships}-E86A1C) ![updated](https://img.shields.io/badge/updated-${updated}-777777)
+![Jobs](https://img.shields.io/badge/Jobs-${jobs}-2E7D32) ![Internships](https://img.shields.io/badge/Internships-${internships}-E86A1C) ![Updated](https://img.shields.io/badge/Updated-${updated}-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+
+**Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
-
-[![site](https://img.shields.io/badge/site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![data](https://img.shields.io/badge/data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![contribute](https://img.shields.io/badge/contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
