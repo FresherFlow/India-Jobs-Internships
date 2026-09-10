@@ -1,10 +1,10 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-50-2E7D32) ![internships](https://img.shields.io/badge/internships-43-E86A1C) ![updated](https://img.shields.io/badge/updated-10_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-51-2E7D32) ![internships](https://img.shields.io/badge/internships-43-E86A1C) ![updated](https://img.shields.io/badge/updated-10_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
-[![site](https://img.shields.io/badge/site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![data](https://img.shields.io/badge/data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![contribute](https://img.shields.io/badge/contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new/choose)
+[![site](https://img.shields.io/badge/site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![data](https://img.shields.io/badge/data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![contribute](https://img.shields.io/badge/contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
@@ -23,6 +23,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Wise</strong></td>
+<td>Payment Operations Specialist - Global Processing</td>
+<td>Hyderabad</td>
+<td><a href="https://wise.jobs/job/payment-operations-specialist-global-processing-in-hyderabad-jid-3675">Apply</a></td>
+<td>10 Sep 26</td>
+</tr>
 <tr>
 <td><strong>Innomatics Research Labs</strong></td>
 <td>Junior Data Scientist (Mentor)</td>
@@ -459,7 +466,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 <tr>
 <td><strong>KPMG</strong></td>
-<td>Associate Consultant – AI Engineering (Gen AI)</td>
+<td>Associate Consultant â€“ AI Engineering (Gen AI)</td>
 <td>Mumbai</td>
 <td><a href="https://www.linkedin.com/jobs/view/4464004639/">Apply</a></td>
 <td>09 Sep 26</td>

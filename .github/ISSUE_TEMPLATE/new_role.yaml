@@ -1,4 +1,4 @@
-name: Add New Role
+﻿name: Add New Role
 description: Submit a new-grad (fresher) full-time role or internship in India
 title: "New Role: <Company> - <Title>"
 labels: ["new_role"]
@@ -40,14 +40,6 @@ body:
       placeholder: Bengaluru | Hyderabad | Remote
     validations:
       required: true
-  - type: input
-    id: website
-    attributes:
-      label: Company website (optional)
-      description: The company's own site, e.g. https://example.com — used to show its logo. Leave empty if unsure.
-      placeholder: https://example.com
-    validations:
-      required: false
   - type: dropdown
     id: active
     attributes:

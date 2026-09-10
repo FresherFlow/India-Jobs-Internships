@@ -1,4 +1,5 @@
 ﻿name: Contribution Approved
+run-name: "Issue #${{ github.event.issue.number }} labeled '${{ github.event.label.name }}'"
 
 on:
   issues:
@@ -37,6 +38,22 @@ jobs:
       - name: Rebuild feed (README.md, docs/index.html)
         run: node scripts/build.js
 
+      - name: Refuse junk data
+        if: steps.append.outputs.bulk != 'true'
+        run: |
+          COMPANY="${{ steps.append.outputs.company }}"
+          TITLE="${{ steps.append.outputs.title }}"
+          BAD=0
+          for v in "$COMPANY" "$TITLE"; do
+            case "$v" in ""|"_No response_"|"None") BAD=1 ;; esac
+          done
+          if [ "$BAD" = "1" ]; then
+            echo "Refusing to commit junk company/title - alerting instead"
+            exit 1
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit + push
         run: |
           git config user.name "FresherFlow Bot"
@@ -55,9 +72,11 @@ jobs:
           if [ "${{ steps.append.outputs.bulk }}" = "true" ]; then
             gh issue comment ${{ github.event.issue.number }} --body "${{ steps.append.outputs.summary }} Auto-closing issue."
           elif [ "${{ steps.append.outputs.removed }}" = "true" ]; then
-            gh issue comment ${{ github.event.issue.number }} --body "This job was permanently removed. Auto-closing issue."
+            gh issue comment ${{ github.event.issue.number }} --body "Permanently removed ${{ steps.append.outputs.company }} - ${{ steps.append.outputs.title }}. Auto-closing issue."
           elif [ "${{ steps.append.outputs.duplicate }}" = "true" ]; then
             gh issue comment ${{ github.event.issue.number }} --body "This role is already in the feed :) Auto-closing issue."
+          elif [ -n "${{ steps.append.outputs.summary }}" ]; then
+            gh issue comment ${{ github.event.issue.number }} --body "Updated ${{ steps.append.outputs.company }} - ${{ steps.append.outputs.title }}: ${{ steps.append.outputs.summary }}. Auto-closing issue."
           else
             gh issue comment ${{ github.event.issue.number }} --body "Your contribution was accepted. Auto-closing issue."
           fi

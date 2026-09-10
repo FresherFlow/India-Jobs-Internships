@@ -47,9 +47,18 @@ function parseIssueBody(body) {
       .map((l) => l.trim())
       .filter(Boolean);
     if (items.every((l) => /^[-*]\s*(\[.\])?\s*/.test(l))) {
-      const checked = items.find((l) => /^[-*]\s*\[x\]/i.test(l));
+      const checked = items.filter((l) => /^[-*]\s*\[x\]/i.test(l));
       const first = items.find((l) => /^[-*]\s*/.test(l));
-      fields[label] = (checked || first || "").replace(/^[-*]\s*(\[.\])?\s*/i, "");
+      // Location multi-pick may render one city per bullet: keep them all.
+      // Everywhere else keeps single-pick semantics (first checked, else first).
+      const picked =
+        label === "Location" && !checked.length
+          ? items.map((l) => l.replace(/^[-*]\s*(\[.\])?\s*/i, ""))
+          : [(checked[0] || first || "").replace(/^[-*]\s*(\[.\])?\s*/i, "")];
+      fields[label] = picked.join("\n");
+      // Removal consent lives ONLY in a checked box. An unchecked "- [ ]"
+      // parses to the same text, so record the box state separately.
+      if (/permanently remove/i.test(label)) fields.__removeChecked = checked.length > 0;
     } else if (items.length > 1) {
       // multi-line answer (e.g. a textarea): keep each line separate
       fields[label] = items.join("\n");
@@ -62,21 +71,31 @@ function parseIssueBody(body) {
 
 function get(fields, ...labels) {
   for (const l of labels) {
-    if (fields[l] && String(fields[l]).trim()) return String(fields[l]).trim();
+    const v = fields[l] ? String(fields[l]).trim() : "";
+    // GitHub writes "_No response_" for empty optional fields: never data.
+    if (v && v !== "_No response_") return v;
   }
   return "";
 }
 
-function toLocations(raw) {
-  if (!raw) return ["Multiple locations"];
-  return raw
-    .split("|")
-    .map((s) => s.trim())
-    .filter(Boolean);
+function toLocations(...raws) {
+  const out = [];
+  for (const raw of raws) {
+    if (!raw) continue;
+    for (const s of String(raw).split(/[\r\n|,]+/)) {
+      const t = s.trim().replace(/^Other$/i, "");
+      if (t && !out.some((x) => x.toLowerCase() === t.toLowerCase())) out.push(t);
+    }
+  }
+  return out.length ? out : ["Multiple locations"];
 }
 
 // Job vs internship comes from the TITLE text alone: contains "intern" ->
 // INTERNSHIP, contains "walk-in"/"walk in" -> WALKIN, else JOB.
+function isNone(v) {
+  return String(v || "").trim().toLowerCase() === "none";
+}
+
 function typeFromTitle(title) {
   const t = String(title || "").toLowerCase();
   if (t.includes("intern")) return "INTERNSHIP";
@@ -89,8 +108,11 @@ function newJobFromIssue(fields) {
   const company = get(fields, "Company Name");
   const title = get(fields, "Job Title");
   const location = get(fields, "Location");
+  const locationOther = get(fields, "Other city");
   const website = get(fields, "Company website", "Company website (optional)");
-  const active = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
+  const activeRaw = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
+  // Untouched dropdowns submit "None" — that is NOT a "No".
+  const active = activeRaw && !isNone(activeRaw) ? activeRaw : "";
 
   if (!applyLink || !company || !title) {
     return null;
@@ -101,8 +123,8 @@ function newJobFromIssue(fields) {
     title,
     company,
     type: typeFromTitle(title),
-    status: String(active).toLowerCase().startsWith("n") ? "EXPIRED" : "PUBLISHED",
-    locations: toLocations(location),
+    status: active.toLowerCase().startsWith("n") ? "EXPIRED" : "PUBLISHED",
+    locations: toLocations(location, locationOther),
     workMode: "ONSITE",
     applyLink,
     ...(website ? { companyWebsite: String(website).trim() } : {}),
@@ -139,29 +161,47 @@ function handleEdit(jobs, fields) {
   const index = jobs.findIndex((j) => j.applyLink === applyLink);
   if (index === -1) return { ok: false, error: `No job found with URL ${applyLink}` };
 
-  const remove = get(fields, "Permanently remove this job from the list?");
-  if (String(remove).toLowerCase().startsWith("yes")) {
-    jobs.splice(index, 1);
-    return { ok: true, duplicate: false, removed: true };
+  // Remove ONLY on an explicitly checked box (see __removeChecked).
+  if (fields.__removeChecked) {
+    const [gone] = jobs.splice(index, 1);
+    return { ok: true, duplicate: false, removed: true, job: gone };
   }
 
   const j = jobs[index];
   const company = get(fields, "Company Name");
   const title = get(fields, "Job Title");
   const location = get(fields, "Location");
+  const locationOther = get(fields, "Other city");
   const website = get(fields, "Company website", "Company website (optional)");
-  const active = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
+  const activeRaw = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
+  const active = activeRaw && !isNone(activeRaw) ? activeRaw : "";
 
-  if (company) j.company = company;
-  if (title) {
+  const changes = [];
+  if (company && company !== j.company) {
+    changes.push(`company set to ${company}`);
+    j.company = company;
+  }
+  if (title && title !== j.title) {
     j.title = title;
     j.type = typeFromTitle(title);
+    changes.push(`title set to ${title}`);
   }
-  if (location) j.locations = toLocations(location);
-  if (website) j.companyWebsite = String(website).trim();
-  if (active) j.status = String(active).toLowerCase().startsWith("n") ? "EXPIRED" : "PUBLISHED";
+  if (location || locationOther) {
+    const locs = toLocations(location, locationOther);
+    changes.push(`location set to ${locs.join(", ")}`);
+    j.locations = locs;
+  }
+  if (website && String(website).trim() !== (j.companyWebsite || "")) {
+    j.companyWebsite = String(website).trim();
+    changes.push("website added");
+  }
+  if (active) {
+    const closed = String(active).toLowerCase().startsWith("n");
+    j.status = closed ? "EXPIRED" : "PUBLISHED";
+    changes.push(closed ? "marked closed" : "marked open");
+  }
   j.id = hashJobId(j.applyLink, j.title);
-  return { ok: true, duplicate: false, job: j };
+  return { ok: true, duplicate: false, job: j, summary: changes.length ? changes.join("; ") : "no field changes" };
 }
 
 function handleBulk(jobs, fields) {

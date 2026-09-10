@@ -43,8 +43,10 @@ async function writeSite(feed) {
 //    row, not split into sections — the site filters handle narrowing.
 // ---------------------------------------------------------------------------
 async function writeReadme(feed) {
-  const jobs = feed.jobs.filter((j) => j.type !== "INTERNSHIP").length;
-  const internships = feed.jobs.filter((j) => j.type === "INTERNSHIP").length;
+  // Dead rows stay in data/jobs.json (history) but never display.
+  const open = feed.jobs.filter((j) => j.status !== "EXPIRED");
+  const jobs = open.filter((j) => j.type !== "INTERNSHIP").length;
+  const internships = open.filter((j) => j.type === "INTERNSHIP").length;
   const updated = fmtDate(feed.lastUpdated).replace(/ /g, "_");
 
   const readme = `# India Jobs and Internships
@@ -53,7 +55,7 @@ async function writeReadme(feed) {
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
-[![site](https://img.shields.io/badge/site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![data](https://img.shields.io/badge/data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![contribute](https://img.shields.io/badge/contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new/choose)
+[![site](https://img.shields.io/badge/site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![data](https://img.shields.io/badge/data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![contribute](https://img.shields.io/badge/contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
@@ -61,7 +63,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 
 ## 🆕 Latest Roles
 
-${jobsToMarkdownTable(feed.jobs)}
+${jobsToMarkdownTable(open)}
 `;
 
   await writeFile(path.join(ROOT, "README.md"), readme);

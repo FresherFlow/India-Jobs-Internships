@@ -388,7 +388,7 @@
       "requiredSkills": [
         "React Native"
       ],
-      "salaryRange": "₹25,000",
+      "salaryRange": "\u00e2\u201a\u00b925,000",
       "salaryPeriod": "MONTHLY",
       "addedAt": "2026-09-09T00:20:00.000Z"
     },
@@ -549,7 +549,7 @@
     {
       "id": "job_ieso8u",
       "company": "KPMG",
-      "title": "Associate Consultant – AI Engineering (Gen AI)",
+      "title": "Associate Consultant \u00e2\u20ac\u201c AI Engineering (Gen AI)",
       "type": "JOB",
       "status": "PUBLISHED",
       "locations": [
@@ -754,7 +754,7 @@
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "MONTHLY",
-      "salaryRange": "₹10,000 - ₹14,000",
+      "salaryRange": "\u00e2\u201a\u00b910,000 - \u00e2\u201a\u00b914,000",
       "jobFunction": "",
       "requiredSkills": [
         "Node.js",
@@ -986,7 +986,7 @@
       ],
       "workMode": "REMOTE",
       "salaryPeriod": "MONTHLY",
-      "salaryRange": "₹30,000 - ₹50,000",
+      "salaryRange": "\u00e2\u201a\u00b930,000 - \u00e2\u201a\u00b950,000",
       "jobFunction": "",
       "requiredSkills": [],
       "allowedDegrees": [],
@@ -1101,7 +1101,7 @@
       ],
       "workMode": "REMOTE",
       "salaryPeriod": "YEARLY",
-      "salaryRange": "₹3.5L - ₹12L",
+      "salaryRange": "\u00e2\u201a\u00b93.5L - \u00e2\u201a\u00b912L",
       "jobFunction": "",
       "requiredSkills": [
         "JavaScript",
@@ -1367,7 +1367,7 @@
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "YEARLY",
-      "salaryRange": "₹3.6L - ₹4.2L",
+      "salaryRange": "\u00e2\u201a\u00b93.6L - \u00e2\u201a\u00b94.2L",
       "jobFunction": "",
       "requiredSkills": [
         "Python",
@@ -1401,7 +1401,7 @@
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "MONTHLY",
-      "salaryRange": "₹25,000 - ₹35,000",
+      "salaryRange": "\u00e2\u201a\u00b925,000 - \u00e2\u201a\u00b935,000",
       "jobFunction": "",
       "requiredSkills": [],
       "allowedDegrees": [],
@@ -2253,6 +2253,24 @@
       "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeV_6Ulpc8g25TYYQfijJME6VF-wUDN52pODxrLGVBMEa8ibg/viewform",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T17:41:01.932Z"
+    },
+    {
+      "id": "job_t32zds",
+      "title": "Payment Operations Specialist - Global Processing",
+      "company": "Wise",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://wise.jobs/job/payment-operations-specialist-global-processing-in-hyderabad-jid-3675",
+      "companyWebsite": "https://wise.com",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T02:40:51.998Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
