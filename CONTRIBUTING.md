@@ -14,7 +14,7 @@ site, and auto-closes your issue.
 | Template | Use it when… |
 |---|---|
 | **Add New Role** | Submitting a new full-time role, internship, or walk-in. |
-| **Edit Role** | Updating an existing role (location, title, accepting/not accepting) or permanently removing a fake/off-topic one. |
+| **Edit Role** | Updating an existing role (location, title, skills, batches, accepting/not accepting) or permanently removing a fake/off-topic one. |
 | **Bulk Mark Roles as Inactive** | Marking several postings as closed in one batch (one URL per line, must match our feed). |
 | **New Feature Request** | Ideas to improve the repo or the site. |
 | **Miscellaneous Issue** | Questions and other feedback. |
@@ -26,9 +26,11 @@ site, and auto-closes your issue.
    - **Link to Job Posting** — a real, working application/posting URL
    - **Company Name**
    - **Job Title** — this decides the section: titles containing "intern" go to Internships, everything else to Jobs
-   - **Location** (separate cities with `|`, add `Remote` if applicable)
-   - **Company website** (optional — used to show the company logo)
-   - **Currently accepting applications?**
+    - **Location** (separate cities with `|`, add `Remote` if applicable)
+    - **Company website** (optional — used to show the company logo)
+    - **Required Skills** (optional — comma-separated, e.g. `React, JavaScript`)
+    - **Allowed Passout Years** (optional — e.g. `2027`)
+    - **Currently accepting applications?**
 3. A maintainer adds the **`approved`** label and the bot does the rest.
 
 One submission per role, even if from the same company.

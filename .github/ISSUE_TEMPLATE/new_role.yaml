@@ -40,6 +40,22 @@ body:
       placeholder: Bengaluru | Hyderabad | Remote
     validations:
       required: true
+  - type: input
+    id: skills
+    attributes:
+      label: Required Skills
+      description: Comma-separated, e.g. React, JavaScript. Leave empty if unsure.
+      placeholder: ex. React, JavaScript
+    validations:
+      required: false
+  - type: input
+    id: years
+    attributes:
+      label: Allowed Passout Years
+      description: Hiring batches, e.g. 2027 or 2025, 2026. Leave empty if open to all.
+      placeholder: ex. 2027
+    validations:
+      required: false
   - type: dropdown
     id: active
     attributes:

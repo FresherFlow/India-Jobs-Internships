@@ -15,10 +15,9 @@
         "FAANG"
       ],
       "notesHighlights": "Entry level software engineering, Hyderabad.",
-      "requiredSkills": [],
-      "allowedPassoutYears": [],
       "id": "job_2o5ytv",
-      "addedAt": "2026-09-09T00:00:00.000Z"
+      "addedAt": "2026-09-09T00:00:00.000Z",
+      "companyWebsite": "https://microsoft.com"
     },
     {
       "company": "Google",
@@ -35,12 +34,12 @@
         "FAANG"
       ],
       "notesHighlights": "Summer 2027 internship, application engineering track.",
-      "requiredSkills": [],
+      "id": "job_7ixxj6",
+      "addedAt": "2026-09-09T00:01:00.000Z",
+      "companyWebsite": "https://google.com",
       "allowedPassoutYears": [
         2027
-      ],
-      "id": "job_7ixxj6",
-      "addedAt": "2026-09-09T00:01:00.000Z"
+      ]
     },
     {
       "company": "Amazon",
@@ -57,12 +56,12 @@
         "FAANG"
       ],
       "notesHighlights": "Amazon student programs internship for 2027.",
-      "requiredSkills": [],
+      "id": "job_d8yt7",
+      "addedAt": "2026-09-09T00:02:00.000Z",
+      "companyWebsite": "https://amazon.com",
       "allowedPassoutYears": [
         2027
-      ],
-      "id": "job_d8yt7",
-      "addedAt": "2026-09-09T00:02:00.000Z"
+      ]
     },
     {
       "id": "job_151c8l",
@@ -78,7 +77,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Entry-level SWE, Bengaluru (Hybrid). Aerospace org.",
-      "addedAt": "2026-09-09T00:03:00.000Z"
+      "addedAt": "2026-09-09T00:03:00.000Z",
+      "companyWebsite": "https://honeywell.com"
     },
     {
       "id": "job_7i9eu3",
@@ -94,7 +94,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Graduate Engineer Trainee, Noida. Off-campus intake.",
-      "addedAt": "2026-09-09T00:04:00.000Z"
+      "addedAt": "2026-09-09T00:04:00.000Z",
+      "companyWebsite": "https://pitneybowes.com"
     },
     {
       "id": "job_rofqy2",
@@ -110,7 +111,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Apprenticeship, Product Program Management, Noida.",
-      "addedAt": "2026-09-09T00:05:00.000Z"
+      "addedAt": "2026-09-09T00:05:00.000Z",
+      "companyWebsite": "https://pearson.com"
     },
     {
       "id": "job_kn8rxx",
@@ -129,10 +131,11 @@
         "MT Program"
       ],
       "notesHighlights": "Early careers 2027 Management Trainee Program, multiple locations.",
+      "addedAt": "2026-09-09T00:06:00.000Z",
+      "companyWebsite": "https://wtw.com",
       "allowedPassoutYears": [
         2027
-      ],
-      "addedAt": "2026-09-09T00:06:00.000Z"
+      ]
     },
     {
       "id": "job_y0sfxy",
@@ -148,7 +151,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Engineering apprenticeship, Bengaluru.",
-      "addedAt": "2026-09-09T00:07:00.000Z"
+      "addedAt": "2026-09-09T00:07:00.000Z",
+      "companyWebsite": "https://itron.com"
     },
     {
       "id": "job_wwgh4j",
@@ -164,7 +168,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Analytics/insights analyst, Bengaluru.",
-      "addedAt": "2026-09-09T00:08:00.000Z"
+      "addedAt": "2026-09-09T00:08:00.000Z",
+      "companyWebsite": "https://kantar.com"
     },
     {
       "id": "job_gd4ma0",
@@ -180,13 +185,14 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Batch 2023-2026, Pune campus.",
+      "addedAt": "2026-09-09T00:09:00.000Z",
+      "companyWebsite": "https://hmhco.com",
       "allowedPassoutYears": [
         2023,
         2024,
         2025,
         2026
-      ],
-      "addedAt": "2026-09-09T00:09:00.000Z"
+      ]
     },
     {
       "id": "job_40a1ux",
@@ -202,7 +208,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "2026 recruitment, business/risk consulting entry-level, Mumbai.",
-      "addedAt": "2026-09-09T00:10:00.000Z"
+      "addedAt": "2026-09-09T00:10:00.000Z",
+      "companyWebsite": "https://ey.com"
     },
     {
       "id": "job_xjn6fo",
@@ -218,7 +225,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Off-campus future talent pipeline, Bangalore.",
-      "addedAt": "2026-09-09T00:11:00.000Z"
+      "addedAt": "2026-09-09T00:11:00.000Z",
+      "companyWebsite": "https://gf.com"
     },
     {
       "id": "job_lgmswh",
@@ -252,14 +260,15 @@
         "FAANG"
       ],
       "notesHighlights": "Front-end engineering intern (ADCI Hyderabad), 2027.",
+      "addedAt": "2026-09-09T00:13:00.000Z",
+      "companyWebsite": "https://amazon.com",
       "requiredSkills": [
         "React",
         "JavaScript"
       ],
       "allowedPassoutYears": [
         2027
-      ],
-      "addedAt": "2026-09-09T00:13:00.000Z"
+      ]
     },
     {
       "id": "job_nakh4q",
@@ -277,10 +286,11 @@
         "FAANG"
       ],
       "notesHighlights": "Data engineering internship, 2027.",
+      "addedAt": "2026-09-09T00:14:00.000Z",
+      "companyWebsite": "https://amazon.com",
       "allowedPassoutYears": [
         2027
-      ],
-      "addedAt": "2026-09-09T00:14:00.000Z"
+      ]
     },
     {
       "id": "job_m7pq8m",
@@ -296,10 +306,11 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Management Consulting internship (Acceleration Center), 2027.",
+      "addedAt": "2026-09-09T00:15:00.000Z",
+      "companyWebsite": "https://pwc.com",
       "allowedPassoutYears": [
         2027
-      ],
-      "addedAt": "2026-09-09T00:15:00.000Z"
+      ]
     },
     {
       "id": "job_o5w9i4",
@@ -317,7 +328,8 @@
         "Cybersecurity"
       ],
       "notesHighlights": "Cyber security internship, Bengaluru.",
-      "addedAt": "2026-09-09T00:16:00.000Z"
+      "addedAt": "2026-09-09T00:16:00.000Z",
+      "companyWebsite": "https://eurofins.com"
     },
     {
       "id": "job_w5epb6",
@@ -333,7 +345,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Bachelor's-level internship, Bengaluru (on-site).",
-      "addedAt": "2026-09-09T00:17:00.000Z"
+      "addedAt": "2026-09-09T00:17:00.000Z",
+      "companyWebsite": "https://honeywell.com"
     },
     {
       "id": "job_aenxdu",
@@ -351,7 +364,8 @@
         "AI"
       ],
       "notesHighlights": "AI research internship, Bengaluru.",
-      "addedAt": "2026-09-09T00:18:00.000Z"
+      "addedAt": "2026-09-09T00:18:00.000Z",
+      "companyWebsite": "https://gehealthcare.com"
     },
     {
       "id": "job_85u6jx",
@@ -367,7 +381,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Development internship, Pune (on-site).",
-      "addedAt": "2026-09-09T00:19:00.000Z"
+      "addedAt": "2026-09-09T00:19:00.000Z",
+      "companyWebsite": "https://icertis.com"
     },
     {
       "id": "job_rz7djv",
@@ -385,12 +400,12 @@
         "Startup"
       ],
       "notesHighlights": "React Native mobile internship; ~25k stipend.",
-      "requiredSkills": [
-        "React Native"
-      ],
       "salaryRange": "â‚¹25,000",
       "salaryPeriod": "MONTHLY",
-      "addedAt": "2026-09-09T00:20:00.000Z"
+      "addedAt": "2026-09-09T00:20:00.000Z",
+      "requiredSkills": [
+        "React Native"
+      ]
     },
     {
       "id": "job_d4wsj",
@@ -409,10 +424,11 @@
         "AI"
       ],
       "notesHighlights": "AI/ML internship, 2027 cycle.",
+      "addedAt": "2026-09-09T00:21:00.000Z",
+      "companyWebsite": "https://tower-research.com",
       "allowedPassoutYears": [
         2027
-      ],
-      "addedAt": "2026-09-09T00:21:00.000Z"
+      ]
     },
     {
       "id": "job_3gcrc1",
@@ -428,7 +444,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "SWE internship, Bangalore North.",
-      "addedAt": "2026-09-09T00:22:00.000Z"
+      "addedAt": "2026-09-09T00:22:00.000Z",
+      "companyWebsite": "https://overtminds.com"
     },
     {
       "id": "job_2ohx0h",
@@ -446,7 +463,8 @@
         "Security"
       ],
       "notesHighlights": "Security research internship (remote).",
-      "addedAt": "2026-09-09T00:23:00.000Z"
+      "addedAt": "2026-09-09T00:23:00.000Z",
+      "companyWebsite": "https://darkrange.ai"
     },
     {
       "id": "job_h08dh1",
@@ -464,7 +482,8 @@
         "Aerospace"
       ],
       "notesHighlights": "Aerospace/LEAP engine MRO internship, Hyderabad.",
-      "addedAt": "2026-09-09T00:24:00.000Z"
+      "addedAt": "2026-09-09T00:24:00.000Z",
+      "companyWebsite": "https://safran-group.com"
     },
     {
       "id": "job_xtr88x",
@@ -480,7 +499,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Marketing & strategy internship, Gurugram.",
-      "addedAt": "2026-09-09T00:25:00.000Z"
+      "addedAt": "2026-09-09T00:25:00.000Z",
+      "companyWebsite": "https://slb.com"
     },
     {
       "id": "job_xmetdt",
@@ -496,7 +516,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "SAP BTP software engineering, Bengaluru.",
-      "addedAt": "2026-09-09T00:26:00.000Z"
+      "addedAt": "2026-09-09T00:26:00.000Z",
+      "companyWebsite": "https://capgemini.com"
     },
     {
       "id": "job_6b6ewp",
@@ -512,7 +533,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Fresher application development role, Chennai. B.Sc/BCA eligible.",
-      "addedAt": "2026-09-09T00:27:00.000Z"
+      "addedAt": "2026-09-09T00:27:00.000Z",
+      "companyWebsite": "https://jasmin-infotech.com"
     },
     {
       "id": "job_6vxxyi",
@@ -528,7 +550,8 @@
       "dateAdded": "2026-09-09",
       "tags": [],
       "notesHighlights": "Graduate engineering trainee, Pune.",
-      "addedAt": "2026-09-09T00:28:00.000Z"
+      "addedAt": "2026-09-09T00:28:00.000Z",
+      "companyWebsite": "https://konecranes.com"
     },
     {
       "id": "job_f4funf",
@@ -562,7 +585,8 @@
         "AI"
       ],
       "notesHighlights": "AI engineering & generative AI solutions, Mumbai.",
-      "addedAt": "2026-09-09T00:30:00.000Z"
+      "addedAt": "2026-09-09T00:30:00.000Z",
+      "companyWebsite": "https://kpmg.com"
     },
     {
       "id": "job_ig5xxn",
@@ -577,8 +601,6 @@
       "applyLink": "https://careers.qualcomm.com/careers/job/446720186473?hl=en-US&domain=qualcomm.com",
       "dateAdded": "2026-09-09",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": [],
       "addedAt": "2026-09-09T00:31:00.000Z",
       "companyWebsite": "https://qualcomm.com"
     },
@@ -595,8 +617,6 @@
       "applyLink": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1543603",
       "dateAdded": "2026-09-09",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": [],
       "addedAt": "2026-09-09T00:32:00.000Z",
       "companyWebsite": "https://textron.com"
     },
@@ -613,8 +633,6 @@
       "applyLink": "https://careers.hcltech.com/job/Campus-Trainee/146888-en_US",
       "dateAdded": "2026-09-09",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": [],
       "addedAt": "2026-09-09T00:33:00.000Z",
       "companyWebsite": "https://hcltech.com"
     },
@@ -631,8 +649,6 @@
       "applyLink": "https://www.google.com/about/careers/applications/jobs/results/92840449600824006-application-engineering-intern",
       "dateAdded": "2026-09-09",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": [],
       "addedAt": "2026-09-09T00:34:00.000Z",
       "companyWebsite": "https://google.com"
     },
@@ -649,8 +665,6 @@
       "applyLink": "https://careers.dxc.com/job/22666273/analyst-iii-infrastructure-services-bangalore-in/?source=DXCCompany-CareerSite",
       "dateAdded": "2026-09-09",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": [],
       "addedAt": "2026-09-09T00:35:00.000Z",
       "companyWebsite": "https://dxc.com"
     },
@@ -668,8 +682,7 @@
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T17:35:18.887Z",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "companyWebsite": "https://corrohealth.com"
     },
     {
       "id": "job_t7vwr2",
@@ -685,9 +698,7 @@
       "companyWebsite": "https://amazon.com",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T17:36:32.847Z",
-      "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "tags": []
     },
     {
       "id": "job_qa0gt5",
@@ -702,9 +713,7 @@
       "applyLink": "https://unstop.com/jobs/python-developer-v-patrol-1748639?lb=vhj6xFV",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T17:37:21.387Z",
-      "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "tags": []
     },
     {
       "id": "job_k9bytv",
@@ -720,8 +729,7 @@
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T17:38:09.339Z",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "companyWebsite": "https://infosys.com"
     },
     {
       "id": "job_m3c3mr",
@@ -738,8 +746,7 @@
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T17:38:57.605Z",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "companyWebsite": "https://geappliances.com"
     },
     {
       "id": "job_z8izlu",
@@ -756,10 +763,6 @@
       "salaryPeriod": "MONTHLY",
       "salaryRange": "â‚¹10,000 - â‚¹14,000",
       "jobFunction": "",
-      "requiredSkills": [
-        "Node.js",
-        "Next.js"
-      ],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -771,7 +774,11 @@
       "dateAdded": "2026-09-09",
       "n": 8,
       "dateFound": "9/6/2026 14:42:44",
-      "addedAt": "2026-09-09T17:40:10.932Z"
+      "addedAt": "2026-09-09T17:40:10.932Z",
+      "requiredSkills": [
+        "Node.js",
+        "Next.js"
+      ]
     },
     {
       "id": "job_hoxdhv",
@@ -787,7 +794,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "Operations",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -815,7 +821,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -845,7 +850,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -873,7 +877,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -901,7 +904,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -922,14 +924,13 @@
       "status": "PUBLISHED",
       "title": "Graduate Engineer Trainee",
       "company": "GE HealthCare",
-      "companyWebsite": "",
+      "companyWebsite": "https://gehealthcare.com",
       "locations": [
         "Bengaluru"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "Manufacturing",
-      "requiredSkills": [],
       "allowedDegrees": [
         "UG"
       ],
@@ -959,7 +960,6 @@
       "workMode": "REMOTE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -988,7 +988,6 @@
       "salaryPeriod": "MONTHLY",
       "salaryRange": "â‚¹30,000 - â‚¹50,000",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1016,7 +1015,6 @@
       "workMode": "REMOTE",
       "salaryPeriod": "",
       "jobFunction": "Applied AI",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1037,14 +1035,13 @@
       "status": "PUBLISHED",
       "title": "AI Engineer Intern- Product Support",
       "company": "Zycus",
-      "companyWebsite": "",
+      "companyWebsite": "https://zycus.com",
       "locations": [
         "Mumbai"
       ],
       "workMode": "HYBRID",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1072,7 +1069,6 @@
       "workMode": "REMOTE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1103,14 +1099,6 @@
       "salaryPeriod": "YEARLY",
       "salaryRange": "â‚¹3.5L - â‚¹12L",
       "jobFunction": "",
-      "requiredSkills": [
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Git",
-        "Shopify"
-      ],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1120,7 +1108,15 @@
       "updatedAt": "",
       "applyLink": "https://wellfound.com/jobs/4521224-product-engineer-clone",
       "dateAdded": "2026-09-09",
-      "addedAt": "2026-09-09T17:40:22.932Z"
+      "addedAt": "2026-09-09T17:40:22.932Z",
+      "requiredSkills": [
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Git",
+        "Shopify"
+      ]
     },
     {
       "n": 25,
@@ -1131,7 +1127,7 @@
       "status": "PUBLISHED",
       "title": "AI Engineering Intern (Python)",
       "company": "Valura.AI",
-      "companyWebsite": "",
+      "companyWebsite": "https://valura.ai",
       "locations": [
         "Chennai",
         "Gandhinagar",
@@ -1140,7 +1136,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1161,14 +1156,13 @@
       "status": "PUBLISHED",
       "title": "Product Intern",
       "company": "Livspace",
-      "companyWebsite": "",
+      "companyWebsite": "https://livspace.com",
       "locations": [
         "Bengaluru"
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "Product",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1189,14 +1183,13 @@
       "status": "PUBLISHED",
       "title": "Intern - Product Management",
       "company": "Aereo",
-      "companyWebsite": "",
+      "companyWebsite": "https://aereo.io",
       "locations": [
         "Bengaluru"
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "Product",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1217,14 +1210,13 @@
       "status": "PUBLISHED",
       "title": "Intern, SDET",
       "company": "Icertis",
-      "companyWebsite": "",
+      "companyWebsite": "https://icertis.com",
       "locations": [
         "Pune"
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "Engineering",
-      "requiredSkills": [],
       "allowedDegrees": [
         "UG"
       ],
@@ -1254,7 +1246,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "Manufacturing",
-      "requiredSkills": [],
       "allowedDegrees": [
         "UG"
       ],
@@ -1277,14 +1268,13 @@
       "status": "PUBLISHED",
       "title": "AI Interns",
       "company": "Zycus",
-      "companyWebsite": "",
+      "companyWebsite": "https://zycus.com",
       "locations": [
         "Mumbai"
       ],
       "workMode": "HYBRID",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1305,14 +1295,13 @@
       "status": "PUBLISHED",
       "title": "Supply Chain Analyst 1",
       "company": "Emerson",
-      "companyWebsite": "",
+      "companyWebsite": "https://emerson.com",
       "locations": [
         "Maharashtra"
       ],
       "workMode": "HYBRID",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1333,14 +1322,13 @@
       "status": "PUBLISHED",
       "title": "Software Test Engineer",
       "company": "Emerson",
-      "companyWebsite": "",
+      "companyWebsite": "https://emerson.com",
       "locations": [
         "Pune"
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1369,12 +1357,6 @@
       "salaryPeriod": "YEARLY",
       "salaryRange": "â‚¹3.6L - â‚¹4.2L",
       "jobFunction": "",
-      "requiredSkills": [
-        "Python",
-        "Machine Learning",
-        "SQL",
-        "AWS"
-      ],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1384,7 +1366,13 @@
       "updatedAt": "",
       "applyLink": "https://wellfound.com/jobs/4246036-intern-data-engineer",
       "dateAdded": "2026-09-09",
-      "addedAt": "2026-09-09T17:40:31.932Z"
+      "addedAt": "2026-09-09T17:40:31.932Z",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "SQL",
+        "AWS"
+      ]
     },
     {
       "n": 48,
@@ -1403,7 +1391,6 @@
       "salaryPeriod": "MONTHLY",
       "salaryRange": "â‚¹25,000 - â‚¹35,000",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1431,11 +1418,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [
-        "WordPress",
-        "PHP",
-        "JavaScript"
-      ],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1445,7 +1427,12 @@
       "updatedAt": "",
       "applyLink": "https://bicsom.co/jobs/web-developer-fresher/",
       "dateAdded": "2026-09-09",
-      "addedAt": "2026-09-09T17:40:33.932Z"
+      "addedAt": "2026-09-09T17:40:33.932Z",
+      "requiredSkills": [
+        "WordPress",
+        "PHP",
+        "JavaScript"
+      ]
     },
     {
       "n": 52,
@@ -1464,7 +1451,6 @@
       "workMode": "REMOTE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1485,14 +1471,13 @@
       "status": "PUBLISHED",
       "title": "Analyst - Tech Consulting",
       "company": "EY",
-      "companyWebsite": "",
+      "companyWebsite": "https://ey.com",
       "locations": [
         "Bengaluru"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1513,14 +1498,13 @@
       "status": "PUBLISHED",
       "title": "Diploma Engineer Trainee, Quality",
       "company": "Konecranes",
-      "companyWebsite": "",
+      "companyWebsite": "https://konecranes.com",
       "locations": [
         "Multiple locations"
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1541,16 +1525,13 @@
       "status": "PUBLISHED",
       "title": "Graduate Engineering Trainee - BU Quay and Horizontal & Yard",
       "company": "Konecranes",
-      "companyWebsite": "",
+      "companyWebsite": "https://konecranes.com",
       "locations": [
         "Pune"
       ],
       "workMode": "HYBRID",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [
-        "AutoCAD"
-      ],
       "allowedDegrees": [
         "UG"
       ],
@@ -1562,7 +1543,10 @@
       "updatedAt": "",
       "applyLink": "https://jobs.smartrecruiters.com/Konecranes/744000147815712",
       "dateAdded": "2026-09-09",
-      "addedAt": "2026-09-09T17:40:37.932Z"
+      "addedAt": "2026-09-09T17:40:37.932Z",
+      "requiredSkills": [
+        "AutoCAD"
+      ]
     },
     {
       "n": 68,
@@ -1573,14 +1557,13 @@
       "status": "PUBLISHED",
       "title": "Application Support Analyst",
       "company": "DHL",
-      "companyWebsite": "",
+      "companyWebsite": "https://dhl.com",
       "locations": [
         "Indore"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1608,7 +1591,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1636,7 +1618,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1664,7 +1645,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1692,7 +1672,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1713,14 +1692,13 @@
       "status": "PUBLISHED",
       "title": "Analyst III Business Process Transactions",
       "company": "DXC Technology",
-      "companyWebsite": "",
+      "companyWebsite": "https://dxc.com",
       "locations": [
         "Noida"
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1741,14 +1719,13 @@
       "status": "PUBLISHED",
       "title": "Intern",
       "company": "Magna",
-      "companyWebsite": "",
+      "companyWebsite": "https://magna.com",
       "locations": [
         "Pune"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1776,7 +1753,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1804,7 +1780,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1825,14 +1800,13 @@
       "status": "PUBLISHED",
       "title": "Intern, Human Resources",
       "company": "Avient",
-      "companyWebsite": "",
+      "companyWebsite": "https://avient.com",
       "locations": [
         "Gujarat"
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1860,7 +1834,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1881,16 +1854,13 @@
       "status": "PUBLISHED",
       "title": "Intern - Account Receivable",
       "company": "GLG",
-      "companyWebsite": "",
+      "companyWebsite": "https://glg.com",
       "locations": [
         "Gurugram"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [
-        "Microsoft Excel"
-      ],
       "allowedDegrees": [
         "UG"
       ],
@@ -1902,7 +1872,10 @@
       "updatedAt": "",
       "applyLink": "https://glg.com/job/7761097003?gh_jid=7761097003&gh_src=Jobinsider",
       "dateAdded": "2026-09-09",
-      "addedAt": "2026-09-09T17:40:49.932Z"
+      "addedAt": "2026-09-09T17:40:49.932Z",
+      "requiredSkills": [
+        "Microsoft Excel"
+      ]
     },
     {
       "n": 100,
@@ -1920,7 +1893,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1948,7 +1920,6 @@
       "workMode": "REMOTE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -1976,7 +1947,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2004,7 +1974,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2025,14 +1994,13 @@
       "status": "PUBLISHED",
       "title": "NATA Trainee",
       "company": "Invesco",
-      "companyWebsite": "",
+      "companyWebsite": "https://invesco.com",
       "locations": [
         "Hyderabad"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2053,14 +2021,13 @@
       "status": "PUBLISHED",
       "title": "NATA Trainee",
       "company": "Invesco",
-      "companyWebsite": "",
+      "companyWebsite": "https://invesco.com",
       "locations": [
         "Hyderabad"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2081,7 +2048,7 @@
       "status": "PUBLISHED",
       "title": "Technical Internship 2027",
       "company": "NXP",
-      "companyWebsite": "",
+      "companyWebsite": "https://nxp.com",
       "locations": [
         "Bengaluru",
         "Noida"
@@ -2089,7 +2056,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [
         "UG",
         "PG"
@@ -2120,10 +2086,6 @@
       "workMode": "ONSITE",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [
-        "Java",
-        "Data Structures & Algorithms"
-      ],
       "allowedDegrees": [
         "UG",
         "PG"
@@ -2136,7 +2098,11 @@
       "updatedAt": "",
       "applyLink": "https://jobs.smartrecruiters.com/linkedin3/744000148299359",
       "dateAdded": "2026-09-09",
-      "addedAt": "2026-09-09T17:40:57.932Z"
+      "addedAt": "2026-09-09T17:40:57.932Z",
+      "requiredSkills": [
+        "Java",
+        "Data Structures & Algorithms"
+      ]
     },
     {
       "n": 124,
@@ -2147,14 +2113,13 @@
       "status": "PUBLISHED",
       "title": "Supply Chain Intelligence Analyst",
       "company": "Molex",
-      "companyWebsite": "",
+      "companyWebsite": "https://molex.com",
       "locations": [
         "Bengaluru"
       ],
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2182,7 +2147,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2210,7 +2174,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2238,11 +2201,6 @@
       "workMode": "",
       "salaryPeriod": "",
       "jobFunction": "",
-      "requiredSkills": [
-        "Python",
-        "Machine Learning",
-        "Tableau"
-      ],
       "allowedDegrees": [],
       "allowedCourses": [],
       "allowedSpecializations": [],
@@ -2252,7 +2210,12 @@
       "updatedAt": "",
       "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeV_6Ulpc8g25TYYQfijJME6VF-wUDN52pODxrLGVBMEa8ibg/viewform",
       "dateAdded": "2026-09-09",
-      "addedAt": "2026-09-09T17:41:01.932Z"
+      "addedAt": "2026-09-09T17:41:01.932Z",
+      "requiredSkills": [
+        "Python",
+        "Machine Learning",
+        "Tableau"
+      ]
     },
     {
       "id": "job_t32zds",
@@ -2268,9 +2231,7 @@
       "companyWebsite": "https://wise.com",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T02:40:51.998Z",
-      "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "tags": []
     },
     {
       "id": "job_73ynrf",
@@ -2289,9 +2250,7 @@
       "companyWebsite": "https://hsbc.com",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T05:01:37.340Z",
-      "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "tags": []
     },
     {
       "id": "job_380js9",
@@ -2307,8 +2266,7 @@
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T14:52:33.996Z",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "companyWebsite": "https://darwinbox.in"
     },
     {
       "id": "job_d7zbo1",
@@ -2323,9 +2281,210 @@
       "applyLink": "https://spyneai.keka.com/careers/jobdetails/156605",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T16:39:49.035Z",
+      "tags": []
+    },
+    {
+      "id": "job_mdmweo",
+      "title": "Intern - Product Management",
+      "company": "Amberstudent",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://amberstudent.keka.com/careers/jobdetails/140739",
+      "dateAdded": "2026-09-10",
       "tags": [],
-      "requiredSkills": [],
-      "allowedPassoutYears": []
+      "companyWebsite": "https://amberstudent.com",
+      "addedAt": "2026-09-10T15:41:03.591Z"
+    },
+    {
+      "id": "job_80x1tq",
+      "title": "Intern (Bachelor's)",
+      "company": "Honeywell",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157521",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://honeywell.com",
+      "addedAt": "2026-09-10T15:41:04.591Z",
+      "requiredSkills": [
+        "SAP",
+        "US GAAP"
+      ]
+    },
+    {
+      "id": "job_fbfiak",
+      "title": "Exposure Modelling Summer Intern",
+      "company": "Moody's",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://career8.successfactors.com/career?company=MoodysProd&career_ns=job_listing&career_job_req_id=14579&lang=en_US",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://moodys.com",
+      "addedAt": "2026-09-10T15:41:05.591Z"
+    },
+    {
+      "id": "job_e2o9in",
+      "title": "Associate Software Engineer",
+      "company": "NielsenIQ",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/nielseniq/744000148465919",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://nielseniq.com",
+      "addedAt": "2026-09-10T15:41:06.591Z",
+      "requiredSkills": [
+        "Angular",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "job_56v2fu",
+      "title": "Junior IT support engineer",
+      "company": "ALS",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://alsglobal.wd103.myworkdayjobs.com/External/job/Bangalore-India/Junior-IT-support-engineer_R8842",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://alsglobal.com",
+      "addedAt": "2026-09-10T15:41:07.591Z"
+    },
+    {
+      "id": "job_vmqvgy",
+      "title": "International Research Intern",
+      "company": "Brainwonders",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Delhi",
+        "Mumbai",
+        "Bengaluru",
+        "Kolkata",
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/brainwonders/744000148431712",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "addedAt": "2026-09-10T15:41:08.591Z"
+    },
+    {
+      "id": "job_4ffxqf",
+      "title": "Graduate Engineer Trainee",
+      "company": "Wipro",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurugram"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.wipro.com/job/Gurugram-Graduate-Engineer-Trainee-IND-122016/199868-en_US/",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://wipro.com",
+      "addedAt": "2026-09-10T15:41:09.591Z"
+    },
+    {
+      "id": "job_vpejoq",
+      "title": "Data and AI Engineering Intern",
+      "company": "Electronic Arts",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://jobs.ea.com/en_US/careers/JobDetail/Data-and-AI-Engineering-Intern/215934",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://ea.com",
+      "addedAt": "2026-09-10T15:41:10.591Z"
+    },
+    {
+      "id": "job_9b3cj4",
+      "title": "Intern",
+      "company": "Gartner",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurgaon"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Intern_114012/",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://gartner.com",
+      "addedAt": "2026-09-10T15:41:11.591Z"
+    },
+    {
+      "id": "job_p0l9hn",
+      "title": "Diploma Engineer Trainee",
+      "company": "Johnson Controls",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.johnsoncontrols.com/job/WD30277943",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://johnsoncontrols.com",
+      "addedAt": "2026-09-10T15:41:13.591Z"
+    },
+    {
+      "id": "job_vvr42g",
+      "title": "Software Engineer Intern",
+      "company": "Electronic Arts",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216034",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://ea.com",
+      "addedAt": "2026-09-10T15:41:14.591Z"
+    },
+    {
+      "id": "job_59kdw6",
+      "title": "Software Engineer Apprentice",
+      "company": "F5",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1038677",
+      "dateAdded": "2026-09-10",
+      "tags": [],
+      "companyWebsite": "https://f5.com",
+      "addedAt": "2026-09-10T15:41:15.591Z"
     }
   ]
 }

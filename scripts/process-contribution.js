@@ -96,6 +96,35 @@ function isNone(v) {
   return String(v || "").trim().toLowerCase() === "none";
 }
 
+// Optional skills: comma/pipe/newline separated, de-duplicated.
+// A lone "None" means none (never stored as a skill).
+function toSkills(...raws) {
+  const out = [];
+  for (const raw of raws) {
+    if (!raw) continue;
+    for (const s of String(raw).split(/[\r\n|,;]+/)) {
+      const t = s.trim();
+      if (!t || isNone(t)) continue;
+      if (!out.some((x) => x.toLowerCase() === t.toLowerCase())) out.push(t);
+    }
+  }
+  return out;
+}
+
+// Optional batches: 4-digit years only, sorted. Anything else is ignored,
+// so "None" or free text can never pollute the field.
+function toYears(...raws) {
+  const out = [];
+  for (const raw of raws) {
+    if (!raw) continue;
+    for (const m of String(raw).matchAll(/\b(20\d{2})\b/g)) {
+      const y = Number(m[1]);
+      if (!out.includes(y)) out.push(y);
+    }
+  }
+  return out.sort((a, b) => a - b);
+}
+
 function typeFromTitle(title) {
   const t = String(title || "").toLowerCase();
   if (t.includes("intern")) return "INTERNSHIP";
@@ -113,6 +142,8 @@ function newJobFromIssue(fields) {
   const activeRaw = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
   // Untouched dropdowns submit "None" — that is NOT a "No".
   const active = activeRaw && !isNone(activeRaw) ? activeRaw : "";
+  const skills = get(fields, "Required Skills", "Required skills", "Skills");
+  const years = get(fields, "Allowed Passout Years", "Allowed passout years", "Passout Years");
 
   if (!applyLink || !company || !title) {
     return null;
@@ -131,8 +162,8 @@ function newJobFromIssue(fields) {
     dateAdded: today,
     addedAt: new Date().toISOString(),
     tags: [],
-    requiredSkills: [],
-    allowedPassoutYears: [],
+    requiredSkills: toSkills(skills),
+    allowedPassoutYears: toYears(years),
   };
 }
 
@@ -175,6 +206,8 @@ function handleEdit(jobs, fields) {
   const website = get(fields, "Company website", "Company website (optional)");
   const activeRaw = get(fields, "Is this posting currently accepting applications?", "Is the posting currently accepting applications?");
   const active = activeRaw && !isNone(activeRaw) ? activeRaw : "";
+  const skillsRaw = get(fields, "Required Skills", "Required skills", "Skills");
+  const yearsRaw = get(fields, "Allowed Passout Years", "Allowed passout years", "Passout Years");
 
   const changes = [];
   if (company && company !== j.company) {
@@ -194,6 +227,32 @@ function handleEdit(jobs, fields) {
   if (website && String(website).trim() !== (j.companyWebsite || "")) {
     j.companyWebsite = String(website).trim();
     changes.push("website added");
+  }
+  // Skills/batches touch only when the issue actually filled them in.
+  // Untouched renders as "_No response_" (or missing) and means keep current;
+  // a lone "None" clears the field.
+  const touched = (...labels) =>
+    labels.some((l) => {
+      const v = fields[l] ? String(fields[l]).trim() : "";
+      return v !== "" && v !== "_No response_";
+    });
+  if (touched("Required Skills", "Required skills", "Skills")) {
+    const sk = isNone(skillsRaw) ? [] : toSkills(skillsRaw);
+    if (JSON.stringify(sk) !== JSON.stringify(j.requiredSkills || [])) {
+      j.requiredSkills = sk;
+      changes.push(sk.length ? `skills set to ${sk.join(", ")}` : "skills cleared");
+    }
+  }
+  if (touched("Allowed Passout Years", "Allowed passout years", "Passout Years")) {
+    const yr = toYears(yearsRaw);
+    // Junk with no years in it is ignored (never wipes); only real
+    // years or a lone "None" apply.
+    if (yr.length > 0 || isNone(yearsRaw)) {
+      if (JSON.stringify(yr) !== JSON.stringify(j.allowedPassoutYears || [])) {
+        j.allowedPassoutYears = yr;
+        changes.push(yr.length ? `batches set to ${yr.join(", ")}` : "batches cleared");
+      }
+    }
   }
   if (active) {
     const closed = String(active).toLowerCase().startsWith("n");

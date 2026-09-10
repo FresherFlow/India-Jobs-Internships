@@ -180,7 +180,7 @@ export function jobsToMarkdownTable(jobs) {
     return (
       "<tr>\n" +
       `<td>${companyCell}</td>\n` +
-      `<td>${esc(job.title)}${closed}</td>\n` +
+      `<td>${esc(job.title)}${closed}${extrasLine(job)}</td>\n` +
       `<td>${fmtLocation(job.locations)}</td>\n` +
       `<td align="center"><a href="${esc(job.applyLink, true)}"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>\n` +
       `<td>${fmtDate(job.dateAdded)}</td>\n` +
@@ -189,6 +189,18 @@ export function jobsToMarkdownTable(jobs) {
   });
 
   return thead + rows.join("") + "</tbody>\n</table>\n";
+}
+
+/** Second line under the role: skills + batch, only when present. */
+function extrasLine(job) {
+  const bits = [];
+  const skills = Array.isArray(job.requiredSkills) ? job.requiredSkills.filter(Boolean) : [];
+  if (skills.length) bits.push(esc(skills.join(", ")));
+  const years = Array.isArray(job.allowedPassoutYears)
+    ? job.allowedPassoutYears.filter(Number.isInteger)
+    : [];
+  if (years.length) bits.push((years.length > 1 ? "Batches of " : "Batch of ") + years.join(", "));
+  return bits.length ? `<br><small>${bits.join(" · ")}</small>` : "";
 }
 
 function esc(s, attr = false) {

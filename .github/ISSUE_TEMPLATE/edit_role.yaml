@@ -51,6 +51,22 @@ body:
       placeholder: ex. https://example.com
     validations:
       required: false
+  - type: input
+    id: skills
+    attributes:
+      label: Required Skills
+      description: Comma-separated, e.g. React, JavaScript. Leave empty to keep current. Type "None" to clear.
+      placeholder: ex. React, JavaScript
+    validations:
+      required: false
+  - type: input
+    id: years
+    attributes:
+      label: Allowed Passout Years
+      description: Hiring batches, e.g. 2027 or 2025, 2026. Leave empty to keep current. Type "None" to clear.
+      placeholder: ex. 2027
+    validations:
+      required: false
   - type: dropdown
     id: active
     attributes:
