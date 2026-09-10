@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![jobs](https://img.shields.io/badge/jobs-51-2E7D32) ![internships](https://img.shields.io/badge/internships-43-E86A1C) ![updated](https://img.shields.io/badge/updated-10_Sep_26-777777)
+![jobs](https://img.shields.io/badge/jobs-51-2E7D32) ![internships](https://img.shields.io/badge/internships-44-E86A1C) ![updated](https://img.shields.io/badge/updated-10_Sep_26-777777)
 
 Entry-level software, tech, product, and quant jobs for new graduates across **India**. Every role links to a real, specific posting — no invented URLs. Roles come from the FresherFlow discovery pipeline plus community submissions, refreshed daily.
 
@@ -23,6 +23,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>HSBC</strong></td>
+<td>Financial Operations Interns</td>
+<td>Chennai<br>Tamil Nadu<br>Gurugram<br>Bangalore</td>
+<td><a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=LN7n8rpZ_kmMaEzTM_lrASznGuMMCmJKok1dLkj0t-xUODlRT0FSMVRCSE1QTjQ4UURSMlBKTkRLTy4u">Apply</a></td>
+<td>10 Sep 26</td>
+</tr>
 <tr>
 <td><strong>Wise</strong></td>
 <td>Payment Operations Specialist - Global Processing</td>

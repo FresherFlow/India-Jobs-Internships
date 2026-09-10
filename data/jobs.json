@@ -388,7 +388,7 @@
       "requiredSkills": [
         "React Native"
       ],
-      "salaryRange": "\u00e2\u201a\u00b925,000",
+      "salaryRange": "â‚¹25,000",
       "salaryPeriod": "MONTHLY",
       "addedAt": "2026-09-09T00:20:00.000Z"
     },
@@ -549,7 +549,7 @@
     {
       "id": "job_ieso8u",
       "company": "KPMG",
-      "title": "Associate Consultant \u00e2\u20ac\u201c AI Engineering (Gen AI)",
+      "title": "Associate Consultant â€“ AI Engineering (Gen AI)",
       "type": "JOB",
       "status": "PUBLISHED",
       "locations": [
@@ -754,7 +754,7 @@
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "MONTHLY",
-      "salaryRange": "\u00e2\u201a\u00b910,000 - \u00e2\u201a\u00b914,000",
+      "salaryRange": "â‚¹10,000 - â‚¹14,000",
       "jobFunction": "",
       "requiredSkills": [
         "Node.js",
@@ -986,7 +986,7 @@
       ],
       "workMode": "REMOTE",
       "salaryPeriod": "MONTHLY",
-      "salaryRange": "\u00e2\u201a\u00b930,000 - \u00e2\u201a\u00b950,000",
+      "salaryRange": "â‚¹30,000 - â‚¹50,000",
       "jobFunction": "",
       "requiredSkills": [],
       "allowedDegrees": [],
@@ -1101,7 +1101,7 @@
       ],
       "workMode": "REMOTE",
       "salaryPeriod": "YEARLY",
-      "salaryRange": "\u00e2\u201a\u00b93.5L - \u00e2\u201a\u00b912L",
+      "salaryRange": "â‚¹3.5L - â‚¹12L",
       "jobFunction": "",
       "requiredSkills": [
         "JavaScript",
@@ -1367,7 +1367,7 @@
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "YEARLY",
-      "salaryRange": "\u00e2\u201a\u00b93.6L - \u00e2\u201a\u00b94.2L",
+      "salaryRange": "â‚¹3.6L - â‚¹4.2L",
       "jobFunction": "",
       "requiredSkills": [
         "Python",
@@ -1401,7 +1401,7 @@
       ],
       "workMode": "ONSITE",
       "salaryPeriod": "MONTHLY",
-      "salaryRange": "\u00e2\u201a\u00b925,000 - \u00e2\u201a\u00b935,000",
+      "salaryRange": "â‚¹25,000 - â‚¹35,000",
       "jobFunction": "",
       "requiredSkills": [],
       "allowedDegrees": [],
@@ -2268,6 +2268,27 @@
       "companyWebsite": "https://wise.com",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T02:40:51.998Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_73ynrf",
+      "title": "Financial Operations Interns",
+      "company": "HSBC",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai",
+        "Tamil Nadu",
+        "Gurugram",
+        "Bangalore"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=LN7n8rpZ_kmMaEzTM_lrASznGuMMCmJKok1dLkj0t-xUODlRT0FSMVRCSE1QTjQ4UURSMlBKTkRLTy4u",
+      "companyWebsite": "https://hsbc.com",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T05:01:37.340Z",
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
