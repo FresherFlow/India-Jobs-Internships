@@ -149,13 +149,17 @@ export function jobsToMarkdownTable(jobs) {
   const stamp = (j) => j.addedAt ?? j.dateAdded ?? "";
   const sorted = jobs
     .slice()
-    .sort((a, b) =>
-      stamp(a) === stamp(b)
+    .sort((a, b) => {
+      // EXPIRED never on top: sink closed rows to the bottom (SimplifyJobs-style).
+      const ac = a.status === "EXPIRED" ? 1 : 0;
+      const bc = b.status === "EXPIRED" ? 1 : 0;
+      if (ac !== bc) return ac - bc;
+      return stamp(a) === stamp(b)
         ? a.company.localeCompare(b.company)
         : stamp(a) < stamp(b)
           ? 1
-          : -1,
-    );
+          : -1;
+    });
 
   const thead =
     "<table style=\"width: 100%; border-collapse: collapse;\">\n" +
@@ -178,7 +182,7 @@ export function jobsToMarkdownTable(jobs) {
       `<td>${companyCell}</td>\n` +
       `<td>${esc(job.title)}${closed}</td>\n` +
       `<td>${fmtLocation(job.locations)}</td>\n` +
-      `<td><a href="${esc(job.applyLink, true)}">Apply</a></td>\n` +
+      `<td style="text-align: center;"><a href="${esc(job.applyLink, true)}" style="display: inline-block; padding: 6px 14px; background: #0E7C7B; color: #ffffff; text-decoration: none; border-radius: 8px; font-weight: 700; font-size: 13px;">Apply</a></td>\n` +
       `<td>${fmtDate(job.dateAdded)}</td>\n` +
       "</tr>\n"
     );
