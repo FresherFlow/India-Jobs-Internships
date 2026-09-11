@@ -4,7 +4,7 @@
       "company": "Microsoft",
       "title": "Software Engineer I (Fresher)",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -45,7 +45,7 @@
       "company": "Amazon",
       "title": "SDE I Intern (University Talent Acquisition)",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Multiple locations"
       ],
@@ -317,7 +317,7 @@
       "company": "Eurofins",
       "title": "Cyber Security Intern",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -435,7 +435,7 @@
       "company": "Overt Minds",
       "title": "Software Engineer Intern",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -558,7 +558,7 @@
       "company": "Novac Technology Solutions",
       "title": "Software Engineer Trainee",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Chennai"
       ],
@@ -2076,7 +2076,7 @@
       "id": "job_4pk29h",
       "slug": "software-engineering-intern-at-linkedin-4pk29h",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Software Engineering Intern",
       "company": "LinkedIn",
       "companyWebsite": "https://linkedin.com",
@@ -2164,7 +2164,7 @@
       "id": "job_gy3pak",
       "slug": "information-technology-intern-at-msd-gy3pak",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Information Technology Intern",
       "company": "MSD",
       "companyWebsite": "https://msd.com",
@@ -2222,7 +2222,7 @@
       "title": "Payment Operations Specialist - Global Processing",
       "company": "Wise",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -2340,7 +2340,7 @@
       "title": "Associate Software Engineer",
       "company": "NielsenIQ",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Chennai"
       ],

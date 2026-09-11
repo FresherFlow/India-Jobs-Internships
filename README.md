@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-55-2E7D32) ![Internships](https://img.shields.io/badge/Internships-54-E86A1C) ![Updated](https://img.shields.io/badge/Updated-10_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-51-2E7D32) ![Internships](https://img.shields.io/badge/Internships-49-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -94,13 +94,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>10 Sep 26</td>
 </tr>
 <tr>
-<td><strong>NielsenIQ</strong></td>
-<td>Associate Software Engineer<br><small>Angular, TypeScript</small></td>
-<td>Chennai</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/nielseniq/744000148465919"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Moody's</strong></td>
 <td>Exposure Modelling Summer Intern</td>
 <td>Noida</td>
@@ -136,24 +129,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>10 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Wise</strong></td>
-<td>Payment Operations Specialist - Global Processing</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://wise.jobs/job/payment-operations-specialist-global-processing-in-hyderabad-jid-3675"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Innomatics Research Labs</strong></td>
 <td>Junior Data Scientist (Mentor)<br><small>Python, Machine Learning, Tableau</small></td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeV_6Ulpc8g25TYYQfijJME6VF-wUDN52pODxrLGVBMEa8ibg/viewform"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>MSD</strong></td>
-<td>Information Technology Intern</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://jobs.msd.com/gb/en/job/MSD1GBR414760ENGB/Information-Technology-Intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -168,13 +147,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Supply Chain Intelligence Analyst</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://koch.avature.net/en_US/careers/JobDetail/194013"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>LinkedIn</strong></td>
-<td>Software Engineering Intern<br><small>Java, Data Structures &amp; Algorithms</small></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/linkedin3/744000148299359"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -584,13 +556,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Novac Technology Solutions</strong></td>
-<td>Software Engineer Trainee</td>
-<td>Chennai</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4463369516/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Konecranes</strong></td>
 <td>Graduate Engineering Trainee (BU Quay)</td>
 <td>Pune</td>
@@ -633,13 +598,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Overt Minds</strong></td>
-<td>Software Engineer Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://careers.overtminds.com/jobs/Careers/41152000010397485/Software-Engineer-Intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Tower Research Capital</strong></td>
 <td>AI/ML Intern<br><small>Batch of 2027</small></td>
 <td>Gurugram</td>
@@ -672,13 +630,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern (Bachelor's)</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155475"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Eurofins</strong></td>
-<td>Cyber Security Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Eurofins/744000142623140-intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -766,24 +717,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td>SDE I Intern (University Talent Acquisition)<br><small>Batch of 2027</small></td>
-<td>Multiple locations</td>
-<td align="center"><a href="https://www.amazon.jobs/en-gb/jobs/10506481/sde-i-intern-amazon-university-talent-acquisition"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Google</strong></td>
 <td>Application Engineering Intern (Summer 2027)<br><small>Batch of 2027</small></td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/127840103736189638-application-engineering-intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td>Software Engineer I (Fresher)</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393556957951"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 </tbody>
