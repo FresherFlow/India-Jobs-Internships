@@ -2519,6 +2519,118 @@
       "requiredSkills": [],
       "allowedPassoutYears": [],
       "companyWebsite": "https://www.peoplehum.com/"
+    },
+    {
+      "id": "job_2uvj6b",
+      "company": "Capita (Ventura)",
+      "title": "Apprentice",
+      "type": "JOB",
+      "locations": [
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Pune/Apprentice_10119455",
+      "companyWebsite": "https://capita.com",
+      "status": "PUBLISHED",
+      "tags": [],
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:47:23.223Z"
+    },
+    {
+      "id": "job_551q2k",
+      "company": "AtkinsRéalis",
+      "title": "Intern",
+      "type": "INTERNSHIP",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-163438",
+      "companyWebsite": "https://atkinsrealis.com",
+      "status": "PUBLISHED",
+      "tags": [],
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_dsgykj",
+      "company": "SymphonyAI",
+      "title": "Apprentice - Software Engineer",
+      "type": "JOB",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.symphonyai.com/jobs/2983?lang=en-us",
+      "companyWebsite": "https://symphonyai.com",
+      "status": "PUBLISHED",
+      "tags": [],
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_r7yty9",
+      "company": "Deloitte USI",
+      "title": "Service Associate - Global Data Management (Data Validation)",
+      "type": "JOB",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH-FY27-Enabling-Areas-GFS-DMS-Global-Data-Management-Data-validation-Service-Associate-Associate-Analyst/365722",
+      "companyWebsite": "https://deloitte.com",
+      "status": "PUBLISHED",
+      "tags": [],
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_bd0xvi",
+      "company": "HARMAN",
+      "title": "Associate Engineer - AI/ML with Python",
+      "type": "JOB",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://harman.wd3.myworkdayjobs.com/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---AI-ML-with-Python_R-54434-2026",
+      "companyWebsite": "https://harman.com",
+      "status": "PUBLISHED",
+      "tags": [],
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_jm6t2r",
+      "company": "Citi",
+      "title": "Business Analytics Analyst",
+      "type": "JOB",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664",
+      "companyWebsite": "https://citi.com",
+      "status": "PUBLISHED",
+      "tags": [],
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_gnvw7f",
+      "company": "IQVIA",
+      "title": "Product Support Trainee",
+      "type": "JOB",
+      "locations": [
+        "Multiple locations"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.iqvia.com/en/jobs/R1565428-0",
+      "companyWebsite": "https://iqvia.com",
+      "status": "PUBLISHED",
+      "tags": [],
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:47:23.230Z"
     }
   ]
 }

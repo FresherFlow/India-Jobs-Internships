@@ -41,6 +41,14 @@ body:
     validations:
       required: true
   - type: input
+    id: website
+    attributes:
+      label: Company website
+      description: The company's own site, e.g. https://example.com — used to show its logo. Leave empty if unsure.
+      placeholder: ex. https://example.com
+    validations:
+      required: false
+  - type: input
     id: skills
     attributes:
       label: Required Skills

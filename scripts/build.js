@@ -45,6 +45,7 @@ async function writeSite(feed) {
 async function writeReadme(feed) {
   // Dead rows stay in data/jobs.json (history) but never display.
   const open = feed.jobs.filter((j) => j.status !== "EXPIRED");
+  const expired = feed.jobs.filter((j) => j.status === "EXPIRED");
   const jobs = open.filter((j) => j.type !== "INTERNSHIP").length;
   const internships = open.filter((j) => j.type === "INTERNSHIP").length;
   const updated = fmtDate(feed.lastUpdated).replace(/ /g, "_");
@@ -64,6 +65,17 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ## 🆕 Latest Roles
 
 ${jobsToMarkdownTable(open)}
+
+---
+
+<details>
+<summary><b>🔒 Closed roles (${expired.length})</b> <small>— click to expand</small></summary>
+
+<small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
+
+${jobsToMarkdownTable(expired)}
+
+</details>
 `;
 
   await writeFile(path.join(ROOT, "README.md"), readme);

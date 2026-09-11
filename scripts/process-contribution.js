@@ -179,10 +179,10 @@ function handleNew(jobs, fields) {
   const job = newJobFromIssue(fields);
   if (!job) return { ok: false, error: "Missing required fields in issue body." };
   if (jobs.some((j) => j.id === job.id)) {
-    return { ok: true, duplicate: true };
+    return { ok: true, duplicate: true, kind: "duplicate" };
   }
   jobs.push(job);
-  return { ok: true, duplicate: false, job };
+  return { ok: true, duplicate: false, kind: "new", job };
 }
 
 function handleEdit(jobs, fields) {
@@ -195,7 +195,7 @@ function handleEdit(jobs, fields) {
   // Remove ONLY on an explicitly checked box (see __removeChecked).
   if (fields.__removeChecked) {
     const [gone] = jobs.splice(index, 1);
-    return { ok: true, duplicate: false, removed: true, job: gone };
+    return { ok: true, duplicate: false, removed: true, kind: "removed", job: gone };
   }
 
   const j = jobs[index];
@@ -260,7 +260,7 @@ function handleEdit(jobs, fields) {
     changes.push(closed ? "marked closed" : "marked open");
   }
   j.id = hashJobId(j.applyLink, j.title);
-  return { ok: true, duplicate: false, job: j, summary: changes.length ? changes.join("; ") : "no field changes" };
+  return { ok: true, duplicate: false, kind: "edit", job: j, summary: changes.length ? changes.join("; ") : "no field changes" };
 }
 
 function handleBulk(jobs, fields) {
@@ -284,6 +284,7 @@ function handleBulk(jobs, fields) {
     ok: true,
     duplicate: false,
     bulk: true,
+    kind: "bulk",
     summary: `Marked ${changed} role(s) inactive. ${failed.length ? "Not found: " + failed.join(", ") : ""}`,
   };
 }
@@ -321,20 +322,34 @@ async function main() {
 
 function output(summary, issue) {
   const out = process.env.GITHUB_OUTPUT;
+  const job = summary.job;
+  // Always emit company/title so downstream steps (issue rename, junk-guard)
+  // never see empty values. When no job object exists (error/duplicate/etc.)
+  // fall back to the issue title so the run stays identifiable.
+  const kind = summary.kind
+    || (summary.error ? "error" : "")
+    || (summary.removed ? "removed" : "")
+    || (summary.bulk ? "bulk" : "")
+    || (summary.duplicate ? "duplicate" : "")
+    || (summary.ok ? "other" : "error");
+  const title = summary.title ?? (job?.title ?? issue?.title ?? "");
+  const company = summary.company ?? (job?.company ?? "");
+
   if (out) {
     const lines = [
       `ok=${summary.ok}`,
       `duplicate=${summary.duplicate ? "true" : "false"}`,
       `removed=${summary.removed ? "true" : "false"}`,
       `bulk=${summary.bulk ? "true" : "false"}`,
+      `kind=${kind}`,
       `issue_number=${(issue && issue.number) || ""}`,
-      `title=${summary.job ? summary.job.title : ""}`,
-      `company=${summary.job ? summary.job.company : ""}`,
+      `title=${title}`,
+      `company=${company}`,
       `summary=${summary.summary || ""}`,
     ];
     appendFileSync(process.env.GITHUB_OUTPUT, lines.join("\n") + "\n");
   }
-  console.log(JSON.stringify({ ...summary, issueNumber: issue && issue.number }, null, 2));
+  console.log(JSON.stringify({ ...summary, issueNumber: issue && issue.number, kind }, null, 2));
 }
 
 main().catch((err) => {

@@ -1,5 +1,5 @@
 ﻿name: Contribution Approved
-run-name: "Issue #${{ github.event.issue.number }} labeled '${{ github.event.label.name }}'"
+run-name: "Issue #${{ github.event.issue.number }} · ${{ github.event.issue.title }} [${{ github.event.label.name }}]"
 
 on:
   issues:
@@ -29,7 +29,7 @@ jobs:
           GITHUB_EVENT_PATH: ${{ github.event_path }}
 
       - name: Name the issue from Company + Job Title
-        if: steps.append.outputs.ok == 'true' && contains(github.event.issue.labels.*.name, 'new_role')
+        if: steps.append.outputs.ok == 'true' && steps.append.outputs.kind == 'new' && steps.append.outputs.company != '' && steps.append.outputs.title != ''
         run: >
           gh issue edit ${{ github.event.issue.number }} --title "New Role: ${{ steps.append.outputs.company }} - ${{ steps.append.outputs.title }}"
         env:
@@ -39,7 +39,10 @@ jobs:
         run: node scripts/build.js
 
       - name: Refuse junk data
-        if: steps.append.outputs.bulk != 'true'
+        # Only genuine new-role submissions can carry junk company/title.
+        # Edits, removals, duplicates and bulk runs are handled elsewhere, so
+        # they no longer trip this guard.
+        if: steps.append.outputs.kind == 'new'
         run: |
           COMPANY="${{ steps.append.outputs.company }}"
           TITLE="${{ steps.append.outputs.title }}"
@@ -48,7 +51,7 @@ jobs:
             case "$v" in ""|"_No response_"|"None") BAD=1 ;; esac
           done
           if [ "$BAD" = "1" ]; then
-            echo "Refusing to commit junk company/title - alerting instead"
+            echo "Refusing to commit junk company/title for issue #${{ github.event.issue.number }} - alerting instead"
             exit 1
           fi
         env:
