@@ -2501,6 +2501,23 @@
       "addedAt": "2026-09-10T16:41:11.070Z",
       "tags": [],
       "companyWebsite": "https://deloitte.com"
+    },
+    {
+      "id": "job_oainch",
+      "title": "Agentic AI Java Developer",
+      "company": "PeopleHum",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://hris.peoplehum.com/ehire/jobs/peopleHum/91eba036-24fe-4d27-acf6-c8e5e5786657",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T10:28:32.448Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
