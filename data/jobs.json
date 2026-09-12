@@ -2667,6 +2667,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_18en34",
+      "title": "Diploma Engineering Trainee",
+      "company": "Konecranes",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Vadodara",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/Konecranes/744000148930289",
+      "companyWebsite": "https://www.konecranes.com/",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:13:00.728Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
