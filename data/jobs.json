@@ -1207,7 +1207,7 @@
       "id": "job_oio0qu",
       "slug": "intern-sdet-at-icertis-oio0qu",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Intern, SDET",
       "company": "Icertis",
       "companyWebsite": "https://icertis.com",
@@ -2360,7 +2360,7 @@
       "title": "Junior IT support engineer",
       "company": "ALS",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -2475,7 +2475,7 @@
       "title": "Software Engineer Apprentice",
       "company": "F5",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -2611,7 +2611,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664",
       "companyWebsite": "https://citi.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
@@ -2627,7 +2627,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://jobs.iqvia.com/en/jobs/R1565428-0",
       "companyWebsite": "https://iqvia.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"

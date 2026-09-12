@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-56-2E7D32) ![Internships](https://img.shields.io/badge/Internships-50-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-52-2E7D32) ![Internships](https://img.shields.io/badge/Internships-49-E86A1C) ![Updated](https://img.shields.io/badge/Updated-12_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -31,13 +31,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Citi</strong></td>
-<td>Business Analytics Analyst</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Deloitte USI</strong></td>
 <td>Service Associate - Global Data Management (Data Validation)</td>
 <td>Hyderabad</td>
@@ -49,13 +42,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate Engineer - AI/ML with Python</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://harman.wd3.myworkdayjobs.com/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---AI-ML-with-Python_R-54434-2026"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>IQVIA</strong></td>
-<td>Product Support Trainee</td>
-<td>Multiple locations</td>
-<td align="center"><a href="https://jobs.iqvia.com/en/jobs/R1565428-0"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Sep 26</td>
 </tr>
 <tr>
@@ -94,13 +80,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>10 Sep 26</td>
 </tr>
 <tr>
-<td><strong>F5</strong></td>
-<td>Software Engineer Apprentice</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1038677"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Electronic Arts</strong></td>
 <td>Software Engineer Intern</td>
 <td>Hyderabad</td>
@@ -133,13 +112,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>International Research Intern</td>
 <td>Delhi<br>Mumbai<br>Bengaluru<br>Kolkata<br>Chennai</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/brainwonders/744000148431712"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
-<td><strong>ALS</strong></td>
-<td>Junior IT support engineer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://alsglobal.wd103.myworkdayjobs.com/External/job/Bangalore-India/Junior-IT-support-engineer_R8842"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>10 Sep 26</td>
 </tr>
 <tr>
@@ -399,13 +371,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Graduate Engineer Trainee (GET)</td>
 <td>Patan</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4461719645/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Icertis</strong></td>
-<td>Intern, SDET</td>
-<td>Pune</td>
-<td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7563"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -772,7 +737,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (12)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (17)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -788,10 +753,38 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </thead>
 <tbody>
 <tr>
+<td><strong>Citi</strong></td>
+<td>Business Analytics Analyst 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>IQVIA</strong></td>
+<td>Product Support Trainee 🔒</td>
+<td>Multiple locations</td>
+<td align="center"><a href="https://jobs.iqvia.com/en/jobs/R1565428-0"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>F5</strong></td>
+<td>Software Engineer Apprentice 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1038677"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
 <td><strong>Johnson Controls</strong></td>
 <td>Diploma Engineer Trainee 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://jobs.johnsoncontrols.com/job/WD30277943"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
+<td><strong>ALS</strong></td>
+<td>Junior IT support engineer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://alsglobal.wd103.myworkdayjobs.com/External/job/Bangalore-India/Junior-IT-support-engineer_R8842"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>10 Sep 26</td>
 </tr>
 <tr>
@@ -827,6 +820,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Software Engineering Intern 🔒<br><small>Java, Data Structures &amp; Algorithms</small></td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/linkedin3/744000148299359"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Icertis</strong></td>
+<td>Intern, SDET 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7563"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
