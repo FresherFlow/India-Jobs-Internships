@@ -2631,6 +2631,24 @@
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_depz2t",
+      "title": "Associate, Operations",
+      "company": "S&P Global",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurgaon"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "http://careers.spglobal.com/jobs/330786",
+      "companyWebsite": "https://www.spglobal.com/en",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:06:06.755Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
