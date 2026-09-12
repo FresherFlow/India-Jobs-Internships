@@ -2649,6 +2649,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_eu6rs2",
+      "title": "CVAT Annotation Intern",
+      "company": "Origin",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "http://apply.workable.com/origin-10x/j/4B8E3A0B33CVAT%20Annotation%20Intern",
+      "companyWebsite": "https://origin.tech/",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:10:41.876Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
