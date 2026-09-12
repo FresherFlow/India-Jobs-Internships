@@ -2686,6 +2686,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_9fudet",
+      "title": "Associate Software Engineer",
+      "company": "Sandisk",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/Sandisk/744000149008929",
+      "companyWebsite": "https://www.sandisk.com/",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:15:56.373Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
