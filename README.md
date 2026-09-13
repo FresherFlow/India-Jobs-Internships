@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-55-2E7D32) ![Internships](https://img.shields.io/badge/Internships-50-E86A1C) ![Updated](https://img.shields.io/badge/Updated-12_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-53-2E7D32) ![Internships](https://img.shields.io/badge/Internships-49-E86A1C) ![Updated](https://img.shields.io/badge/Updated-13_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -38,13 +38,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>12 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Origin</strong></td>
-<td>CVAT Annotation Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="http://apply.workable.com/origin-10x/j/4B8E3A0B33CVAT%20Annotation%20Intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>12 Sep 26</td>
-</tr>
-<tr>
 <td><strong>S&amp;P Global</strong></td>
 <td>Associate, Operations</td>
 <td>Gurgaon</td>
@@ -77,13 +70,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Apprentice - Software Engineer</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://jobs.symphonyai.com/jobs/2983?lang=en-us"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Capita (Ventura)</strong></td>
-<td>Apprentice</td>
-<td>Pune</td>
-<td align="center"><a href="https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Pune/Apprentice_10119455"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Sep 26</td>
 </tr>
 <tr>
@@ -535,13 +521,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Amazon</strong></td>
-<td>Central Operations Support Executive, IN External Fulfillment</td>
-<td>Karnataka</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10449085/central-operations-support-executive-in-external-fulfillment"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>CorroHealth</strong></td>
 <td>Fresher Trainee HIM</td>
 <td>Noida</td>
@@ -765,7 +744,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (17)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (20)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -781,6 +760,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </thead>
 <tbody>
 <tr>
+<td><strong>Origin</strong></td>
+<td>CVAT Annotation Intern 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="http://apply.workable.com/origin-10x/j/4B8E3A0B33CVAT%20Annotation%20Intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>12 Sep 26</td>
+</tr>
+<tr>
 <td><strong>Citi</strong></td>
 <td>Business Analytics Analyst 🔒</td>
 <td>Bengaluru</td>
@@ -792,6 +778,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Product Support Trainee 🔒</td>
 <td>Multiple locations</td>
 <td align="center"><a href="https://jobs.iqvia.com/en/jobs/R1565428-0"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Capita (Ventura)</strong></td>
+<td>Apprentice 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Pune/Apprentice_10119455"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Sep 26</td>
 </tr>
 <tr>
@@ -855,6 +848,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern, SDET 🔒</td>
 <td>Pune</td>
 <td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7563"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td>Central Operations Support Executive, IN External Fulfillment 🔒</td>
+<td>Karnataka</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10449085/central-operations-support-executive-in-external-fulfillment"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
