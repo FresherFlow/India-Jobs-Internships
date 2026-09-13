@@ -2704,6 +2704,33 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_asrykj",
+      "title": "Full Stack Software Engineer Intern",
+      "company": "Electronic Arts",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.ea.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-Intern/215942",
+      "companyWebsite": "https://www.ea.com",
+      "dateAdded": "2026-09-13",
+      "addedAt": "2026-09-13T07:22:57.948Z",
+      "tags": [],
+      "requiredSkills": [
+        "React.js",
+        "Git",
+        "SQL",
+        "Java",
+        "NoSQL",
+        "Data Structures & Algorithms",
+        "Version Control",
+        "Spring"
+      ],
+      "allowedPassoutYears": []
     }
   ]
 }
