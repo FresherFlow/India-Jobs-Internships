@@ -2811,6 +2811,40 @@
         "Angular"
       ],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_1gpauf",
+      "title": "Full-Stack Intern",
+      "company": "ixigo",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurugram"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/ixigo/744000148960832",
+      "companyWebsite": "https://ixigo.com",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:42:58.457Z",
+      "tags": [],
+      "requiredSkills": [
+        "Python",
+        "Node.js",
+        "Postgres",
+        "Flask",
+        "LLM",
+        "Kubernetes",
+        "FastAPI",
+        "Data",
+        "Visualization",
+        "Data Engineering",
+        "Docker",
+        "TypeScript",
+        "AWS",
+        "Redis",
+        "Observability"
+      ],
+      "allowedPassoutYears": []
     }
   ]
 }
