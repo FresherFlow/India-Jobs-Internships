@@ -2731,6 +2731,31 @@
         "Spring"
       ],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_5dyt8g",
+      "title": "Associate Engineer",
+      "company": "Qualcomm",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://qualcomm.eightfold.ai/careers/job/446720933648",
+      "companyWebsite": "https://www.qualcomm.com",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:02:31.613Z",
+      "tags": [],
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "C/C++",
+        "Software Testing",
+        "C#",
+        "DevOps"
+      ],
+      "allowedPassoutYears": []
     }
   ]
 }
