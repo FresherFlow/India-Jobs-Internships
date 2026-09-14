@@ -2781,6 +2781,36 @@
         "Linux/Unix"
       ],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_afjeq3",
+      "title": "Software Engineer",
+      "company": "Playpower Labs",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.ashbyhq.com/playpowerlabs/6087e852-9d62-4103-aa77-c3773974549a/application?embed=true",
+      "companyWebsite": "https://playpowerlabs.com/",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:29:16.494Z",
+      "tags": [],
+      "requiredSkills": [
+        "JavaScript",
+        "React.js",
+        "Git",
+        "Node.js",
+        "Java",
+        "REST APIs",
+        "HTML/CSS",
+        "Docker",
+        "TypeScript",
+        "DevOps",
+        "Angular"
+      ],
+      "allowedPassoutYears": []
     }
   ]
 }
