@@ -2756,6 +2756,31 @@
         "DevOps"
       ],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_ax9n0a",
+      "title": "Software Development Engineer",
+      "company": "Siemens",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522234",
+      "companyWebsite": "https://siemens.com/",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:23:55.616Z",
+      "tags": [],
+      "requiredSkills": [
+        "C/C++",
+        "Verilog",
+        "Data Structures & Algorithms",
+        "Machine Learning",
+        "VHDL",
+        "Linux/Unix"
+      ],
+      "allowedPassoutYears": []
     }
   ]
 }
