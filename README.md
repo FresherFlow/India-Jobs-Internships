@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-56-2E7D32) ![Internships](https://img.shields.io/badge/Internships-51-E86A1C) ![Updated](https://img.shields.io/badge/Updated-14_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-56-2E7D32) ![Internships](https://img.shields.io/badge/Internships-50-E86A1C) ![Updated](https://img.shields.io/badge/Updated-14_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -78,13 +78,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Gurgaon</td>
 <td align="center"><a href="http://careers.spglobal.com/jobs/330786"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>12 Sep 26</td>
-</tr>
-<tr>
-<td><strong>AtkinsRéalis</strong></td>
-<td>Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-163438"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
 </tr>
 <tr>
 <td><strong>Deloitte USI</strong></td>
@@ -779,7 +772,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (20)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (21)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -800,6 +793,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Bengaluru</td>
 <td align="center"><a href="http://apply.workable.com/origin-10x/j/4B8E3A0B33CVAT%20Annotation%20Intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>12 Sep 26</td>
+</tr>
+<tr>
+<td><strong>AtkinsRéalis</strong></td>
+<td>Intern 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-163438"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
 </tr>
 <tr>
 <td><strong>Citi</strong></td>
