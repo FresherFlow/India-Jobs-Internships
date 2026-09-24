@@ -142,7 +142,7 @@
       "company": "Itron",
       "title": "Apprentice (Engineering)",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -233,7 +233,7 @@
       "company": "Neolytix",
       "title": "Associate - Automation",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Gurugram"
       ],
@@ -275,7 +275,7 @@
       "company": "Amazon",
       "title": "Data Engineer Intern 2027",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Multiple locations"
       ],
@@ -507,7 +507,7 @@
       "company": "Capgemini",
       "title": "Associate Software Engineer",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -541,7 +541,7 @@
       "company": "Konecranes",
       "title": "Graduate Engineering Trainee (BU Quay)",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Pune"
       ],
@@ -593,7 +593,7 @@
       "title": "Engineer",
       "company": "Qualcomm",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Multiple locations"
       ],
@@ -840,7 +840,7 @@
       "id": "job_zeoiu",
       "slug": "associate-information-security-and-compliance-at-datavail-zeoiu",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Associate Information Security and Compliance",
       "company": "Datavail",
       "companyWebsite": "https://capgemini.com",
@@ -894,7 +894,7 @@
       "id": "job_ewz252",
       "slug": "automation-test-engineer-at-capgemini-ewz252",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Automation Test Engineer",
       "company": "Capgemini",
       "companyWebsite": "https://capgemini.com",
@@ -1522,7 +1522,7 @@
       "id": "job_nxzujm",
       "slug": "graduate-engineering-trainee-bu-quay-at-konecranes-nxzujm",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Graduate Engineering Trainee - BU Quay and Horizontal & Yard",
       "company": "Konecranes",
       "companyWebsite": "https://konecranes.com",
@@ -1770,7 +1770,7 @@
       "id": "job_srv3as",
       "slug": "data-analyst-at-capgemini-srv3as",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Data Analyst",
       "company": "Capgemini",
       "companyWebsite": "https://capgemini.com",
@@ -1851,7 +1851,7 @@
       "id": "job_1zw5h0",
       "slug": "intern-account-receivable-at-glg-1zw5h0",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Intern - Account Receivable",
       "company": "GLG",
       "companyWebsite": "https://glg.com",
@@ -1991,7 +1991,7 @@
       "id": "job_71qp6y",
       "slug": "nata-trainee-at-invesco-71qp6y",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "NATA Trainee",
       "company": "Invesco",
       "companyWebsite": "https://invesco.com",
@@ -2018,7 +2018,7 @@
       "id": "job_bcbb38",
       "slug": "nata-trainee-at-invesco-bcbb38",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "NATA Trainee",
       "company": "Invesco",
       "companyWebsite": "https://invesco.com",
@@ -2257,7 +2257,7 @@
       "title": "Marketing Intern - CRM (Loyalty)",
       "company": "Darwinbox",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Mumbai"
       ],
@@ -2304,7 +2304,7 @@
       "title": "Intern (Bachelor's)",
       "company": "Honeywell",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -2411,7 +2411,7 @@
       "title": "Data and AI Engineering Intern",
       "company": "Electronic Arts",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -2427,7 +2427,7 @@
       "title": "Intern",
       "company": "Gartner",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Gurgaon"
       ],
@@ -2563,7 +2563,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://jobs.symphonyai.com/jobs/2983?lang=en-us",
       "companyWebsite": "https://symphonyai.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
@@ -2637,7 +2637,7 @@
       "title": "Associate, Operations",
       "company": "S&P Global",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Gurgaon"
       ],
@@ -2692,7 +2692,7 @@
       "title": "Associate Software Engineer",
       "company": "Sandisk",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -2737,7 +2737,7 @@
       "title": "Associate Engineer",
       "company": "Qualcomm",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -2762,7 +2762,7 @@
       "title": "Software Development Engineer",
       "company": "Siemens",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Noida"
       ],
@@ -2817,7 +2817,7 @@
       "title": "Full-Stack Intern",
       "company": "ixigo",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Gurugram"
       ],
