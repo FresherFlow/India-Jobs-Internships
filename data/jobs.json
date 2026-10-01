@@ -68,7 +68,7 @@
       "company": "Honeywell",
       "title": "Software Engineer I",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -609,7 +609,7 @@
       "title": "Apprentice",
       "company": "Textron",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Multiple locations"
       ],
@@ -1468,7 +1468,7 @@
       "id": "job_wltz7n",
       "slug": "analyst-tech-consulting-at-ey-wltz7n",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Analyst - Tech Consulting",
       "company": "EY",
       "companyWebsite": "https://ey.com",
@@ -1910,7 +1910,7 @@
       "id": "job_jkzro",
       "slug": "qa-test-engineering-intern-at-momentum-jkzro",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "QA Test Engineering Intern",
       "company": "Momentum",
       "companyWebsite": "https://linkedin.com",
@@ -2787,7 +2787,7 @@
       "title": "Software Engineer",
       "company": "Playpower Labs",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Remote"
       ],
