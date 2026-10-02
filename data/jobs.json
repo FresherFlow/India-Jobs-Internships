@@ -85,7 +85,7 @@
       "company": "Pitney Bowes",
       "title": "Graduate Engineer Trainee",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Noida"
       ],
@@ -1236,7 +1236,7 @@
       "id": "job_l1ffru",
       "slug": "graduate-engineer-trainee-get-at-asahi-india-glass-l1ffru",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Graduate Engineer Trainee (GET)",
       "company": "Asahi India Glass",
       "companyWebsite": "",
