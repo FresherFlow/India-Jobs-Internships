@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-34-2E7D32) ![Internships](https://img.shields.io/badge/Internships-39-E86A1C) ![Updated](https://img.shields.io/badge/Updated-05_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-32-2E7D32) ![Internships](https://img.shields.io/badge/Internships-39-E86A1C) ![Updated](https://img.shields.io/badge/Updated-06_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -42,20 +42,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Service Associate - Global Data Management (Data Validation)</td>
 <td>Hyderabad</td>
 <td align="center"><a href="https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH-FY27-Enabling-Areas-GFS-DMS-Global-Data-Management-Data-validation-Service-Associate-Associate-Analyst/365722"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>HARMAN</strong></td>
-<td>Associate Engineer - AI/ML with Python</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://harman.wd3.myworkdayjobs.com/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---AI-ML-with-Python_R-54434-2026"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>PeopleHum</strong></td>
-<td>Agentic AI Java Developer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://hris.peoplehum.com/ehire/jobs/peopleHum/91eba036-24fe-4d27-acf6-c8e5e5786657"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Sep 26</td>
 </tr>
 <tr>
@@ -541,7 +527,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (54)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (56)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -620,6 +606,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Sep 26</td>
 </tr>
 <tr>
+<td><strong>HARMAN</strong></td>
+<td>Associate Engineer - AI/ML with Python 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://harman.wd3.myworkdayjobs.com/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---AI-ML-with-Python_R-54434-2026"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
 <td><strong>IQVIA</strong></td>
 <td>Product Support Trainee 🔒</td>
 <td>Multiple locations</td>
@@ -638,6 +631,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Apprentice 🔒</td>
 <td>Pune</td>
 <td align="center"><a href="https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Pune/Apprentice_10119455"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>PeopleHum</strong></td>
+<td>Agentic AI Java Developer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://hris.peoplehum.com/ehire/jobs/peopleHum/91eba036-24fe-4d27-acf6-c8e5e5786657"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Sep 26</td>
 </tr>
 <tr>
