@@ -249,7 +249,7 @@
       "company": "Amazon",
       "title": "Front-End Engineer Intern 2027",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -1495,7 +1495,7 @@
       "id": "job_pfutnl",
       "slug": "diploma-engineer-trainee-quality-at-konecranes-pfutnl",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Diploma Engineer Trainee, Quality",
       "company": "Konecranes",
       "companyWebsite": "https://konecranes.com",
@@ -1635,7 +1635,7 @@
       "id": "job_qry65i",
       "slug": "enterprise-talent-apprentice-at-hsbc-qry65i",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Enterprise Talent (Apprentice)",
       "company": "HSBC",
       "companyWebsite": "https://hsbc.com",
@@ -2491,7 +2491,7 @@
       "title": "Human Resources Intern",
       "company": "Deloitte",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Delhi"
       ],
