@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-30-2E7D32) ![Internships](https://img.shields.io/badge/Internships-37-E86A1C) ![Updated](https://img.shields.io/badge/Updated-09_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-29-2E7D32) ![Internships](https://img.shields.io/badge/Internships-36-E86A1C) ![Updated](https://img.shields.io/badge/Updated-10_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -23,13 +23,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td>Full Stack Software Engineer Intern<br><small>React.js, Git, SQL, Java, NoSQL, Data Structures &amp; Algorithms, Version Control, Spring</small></td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-Intern/215942"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>13 Sep 26</td>
-</tr>
 <tr>
 <td><strong>Konecranes</strong></td>
 <td>Diploma Engineering Trainee</td>
@@ -154,13 +147,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern</td>
 <td>Pune</td>
 <td align="center"><a href="https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Pune-IN/Intern_R00249640"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>DXC Technology</strong></td>
-<td>Analyst III Business Process Transactions</td>
-<td>Noida</td>
-<td align="center"><a href="https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---HR---NOIDA/Analyst-III-Business-Process-Transactions-LMA-RR-0416492_51583658"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -499,7 +485,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (60)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (62)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -541,6 +527,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Hyderabad</td>
 <td align="center"><a href="https://qualcomm.eightfold.ai/careers/job/446720933648"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>14 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts</strong></td>
+<td>Full Stack Software Engineer Intern 🔒<br><small>React.js, Git, SQL, Java, NoSQL, Data Structures &amp; Algorithms, Version Control, Spring</small></td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-Intern/215942"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>13 Sep 26</td>
 </tr>
 <tr>
 <td><strong>Sandisk</strong></td>
@@ -743,6 +736,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Data Analyst 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://www.capgemini.com/in-en/jobs/538767-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>DXC Technology</strong></td>
+<td>Analyst III Business Process Transactions 🔒</td>
+<td>Noida</td>
+<td align="center"><a href="https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---HR---NOIDA/Analyst-III-Business-Process-Transactions-LMA-RR-0416492_51583658"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>

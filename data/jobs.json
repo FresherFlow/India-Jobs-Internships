@@ -1689,7 +1689,7 @@
       "id": "job_17qa11",
       "slug": "analyst-iii-business-process-at-dxc-17qa11",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Analyst III Business Process Transactions",
       "company": "DXC Technology",
       "companyWebsite": "https://dxc.com",
@@ -2710,7 +2710,7 @@
       "title": "Full Stack Software Engineer Intern",
       "company": "Electronic Arts",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
