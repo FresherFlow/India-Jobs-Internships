@@ -68,7 +68,7 @@
       "company": "Honeywell",
       "title": "Software Engineer I",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -85,7 +85,7 @@
       "company": "Pitney Bowes",
       "title": "Graduate Engineer Trainee",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Noida"
       ],
@@ -142,7 +142,7 @@
       "company": "Itron",
       "title": "Apprentice (Engineering)",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -233,7 +233,7 @@
       "company": "Neolytix",
       "title": "Associate - Automation",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Gurugram"
       ],
@@ -249,7 +249,7 @@
       "company": "Amazon",
       "title": "Front-End Engineer Intern 2027",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -275,7 +275,7 @@
       "company": "Amazon",
       "title": "Data Engineer Intern 2027",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Multiple locations"
       ],
@@ -297,7 +297,7 @@
       "company": "PwC",
       "title": "Management Consulting Intern 2027",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -507,7 +507,7 @@
       "company": "Capgemini",
       "title": "Associate Software Engineer",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -541,7 +541,7 @@
       "company": "Konecranes",
       "title": "Graduate Engineering Trainee (BU Quay)",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Pune"
       ],
@@ -593,7 +593,7 @@
       "title": "Engineer",
       "company": "Qualcomm",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Multiple locations"
       ],
@@ -609,7 +609,7 @@
       "title": "Apprentice",
       "company": "Textron",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Multiple locations"
       ],
@@ -689,7 +689,7 @@
       "title": "Central Operations Support Executive, IN External Fulfillment",
       "company": "Amazon",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Karnataka"
       ],
@@ -720,7 +720,7 @@
       "title": "Intern",
       "company": "Infosys",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -840,7 +840,7 @@
       "id": "job_zeoiu",
       "slug": "associate-information-security-and-compliance-at-datavail-zeoiu",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Associate Information Security and Compliance",
       "company": "Datavail",
       "companyWebsite": "https://capgemini.com",
@@ -894,7 +894,7 @@
       "id": "job_ewz252",
       "slug": "automation-test-engineer-at-capgemini-ewz252",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Automation Test Engineer",
       "company": "Capgemini",
       "companyWebsite": "https://capgemini.com",
@@ -1207,7 +1207,7 @@
       "id": "job_oio0qu",
       "slug": "intern-sdet-at-icertis-oio0qu",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Intern, SDET",
       "company": "Icertis",
       "companyWebsite": "https://icertis.com",
@@ -1236,7 +1236,7 @@
       "id": "job_l1ffru",
       "slug": "graduate-engineer-trainee-get-at-asahi-india-glass-l1ffru",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Graduate Engineer Trainee (GET)",
       "company": "Asahi India Glass",
       "companyWebsite": "",
@@ -1468,7 +1468,7 @@
       "id": "job_wltz7n",
       "slug": "analyst-tech-consulting-at-ey-wltz7n",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Analyst - Tech Consulting",
       "company": "EY",
       "companyWebsite": "https://ey.com",
@@ -1495,7 +1495,7 @@
       "id": "job_pfutnl",
       "slug": "diploma-engineer-trainee-quality-at-konecranes-pfutnl",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Diploma Engineer Trainee, Quality",
       "company": "Konecranes",
       "companyWebsite": "https://konecranes.com",
@@ -1522,7 +1522,7 @@
       "id": "job_nxzujm",
       "slug": "graduate-engineering-trainee-bu-quay-at-konecranes-nxzujm",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Graduate Engineering Trainee - BU Quay and Horizontal & Yard",
       "company": "Konecranes",
       "companyWebsite": "https://konecranes.com",
@@ -1635,7 +1635,7 @@
       "id": "job_qry65i",
       "slug": "enterprise-talent-apprentice-at-hsbc-qry65i",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Enterprise Talent (Apprentice)",
       "company": "HSBC",
       "companyWebsite": "https://hsbc.com",
@@ -1689,7 +1689,7 @@
       "id": "job_17qa11",
       "slug": "analyst-iii-business-process-at-dxc-17qa11",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Analyst III Business Process Transactions",
       "company": "DXC Technology",
       "companyWebsite": "https://dxc.com",
@@ -1770,7 +1770,7 @@
       "id": "job_srv3as",
       "slug": "data-analyst-at-capgemini-srv3as",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Data Analyst",
       "company": "Capgemini",
       "companyWebsite": "https://capgemini.com",
@@ -1851,7 +1851,7 @@
       "id": "job_1zw5h0",
       "slug": "intern-account-receivable-at-glg-1zw5h0",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Intern - Account Receivable",
       "company": "GLG",
       "companyWebsite": "https://glg.com",
@@ -1910,7 +1910,7 @@
       "id": "job_jkzro",
       "slug": "qa-test-engineering-intern-at-momentum-jkzro",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "QA Test Engineering Intern",
       "company": "Momentum",
       "companyWebsite": "https://linkedin.com",
@@ -1991,7 +1991,7 @@
       "id": "job_71qp6y",
       "slug": "nata-trainee-at-invesco-71qp6y",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "NATA Trainee",
       "company": "Invesco",
       "companyWebsite": "https://invesco.com",
@@ -2018,7 +2018,7 @@
       "id": "job_bcbb38",
       "slug": "nata-trainee-at-invesco-bcbb38",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "NATA Trainee",
       "company": "Invesco",
       "companyWebsite": "https://invesco.com",
@@ -2257,7 +2257,7 @@
       "title": "Marketing Intern - CRM (Loyalty)",
       "company": "Darwinbox",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Mumbai"
       ],
@@ -2304,7 +2304,7 @@
       "title": "Intern (Bachelor's)",
       "company": "Honeywell",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -2360,7 +2360,7 @@
       "title": "Junior IT support engineer",
       "company": "ALS",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -2411,7 +2411,7 @@
       "title": "Data and AI Engineering Intern",
       "company": "Electronic Arts",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -2427,7 +2427,7 @@
       "title": "Intern",
       "company": "Gartner",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Gurgaon"
       ],
@@ -2459,7 +2459,7 @@
       "title": "Software Engineer Intern",
       "company": "Electronic Arts",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -2475,7 +2475,7 @@
       "title": "Software Engineer Apprentice",
       "company": "F5",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],
@@ -2491,7 +2491,7 @@
       "title": "Human Resources Intern",
       "company": "Deloitte",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Delhi"
       ],
@@ -2507,7 +2507,7 @@
       "title": "Agentic AI Java Developer",
       "company": "PeopleHum",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -2531,7 +2531,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Pune/Apprentice_10119455",
       "companyWebsite": "https://capita.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.223Z"
@@ -2547,7 +2547,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-163438",
       "companyWebsite": "https://atkinsrealis.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
@@ -2563,7 +2563,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://jobs.symphonyai.com/jobs/2983?lang=en-us",
       "companyWebsite": "https://symphonyai.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
@@ -2595,7 +2595,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://harman.wd3.myworkdayjobs.com/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---AI-ML-with-Python_R-54434-2026",
       "companyWebsite": "https://harman.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
@@ -2611,7 +2611,7 @@
       "workMode": "ONSITE",
       "applyLink": "https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664",
       "companyWebsite": "https://citi.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
@@ -2627,10 +2627,224 @@
       "workMode": "ONSITE",
       "applyLink": "https://jobs.iqvia.com/en/jobs/R1565428-0",
       "companyWebsite": "https://iqvia.com",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_depz2t",
+      "title": "Associate, Operations",
+      "company": "S&P Global",
+      "type": "JOB",
+      "status": "EXPIRED",
+      "locations": [
+        "Gurgaon"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "http://careers.spglobal.com/jobs/330786",
+      "companyWebsite": "https://www.spglobal.com/en",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:06:06.755Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_eu6rs2",
+      "title": "CVAT Annotation Intern",
+      "company": "Origin",
+      "type": "INTERNSHIP",
+      "status": "EXPIRED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "http://apply.workable.com/origin-10x/j/4B8E3A0B33CVAT%20Annotation%20Intern",
+      "companyWebsite": "https://origin.tech/",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:10:41.876Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_18en34",
+      "title": "Diploma Engineering Trainee",
+      "company": "Konecranes",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Vadodara",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/Konecranes/744000148930289",
+      "companyWebsite": "https://www.konecranes.com/",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:13:00.728Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_9fudet",
+      "title": "Associate Software Engineer",
+      "company": "Sandisk",
+      "type": "JOB",
+      "status": "EXPIRED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/Sandisk/744000149008929",
+      "companyWebsite": "https://www.sandisk.com/",
+      "dateAdded": "2026-09-12",
+      "addedAt": "2026-09-12T03:15:56.373Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_asrykj",
+      "title": "Full Stack Software Engineer Intern",
+      "company": "Electronic Arts",
+      "type": "INTERNSHIP",
+      "status": "EXPIRED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.ea.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-Intern/215942",
+      "companyWebsite": "https://www.ea.com",
+      "dateAdded": "2026-09-13",
+      "addedAt": "2026-09-13T07:22:57.948Z",
+      "tags": [],
+      "requiredSkills": [
+        "React.js",
+        "Git",
+        "SQL",
+        "Java",
+        "NoSQL",
+        "Data Structures & Algorithms",
+        "Version Control",
+        "Spring"
+      ],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_5dyt8g",
+      "title": "Associate Engineer",
+      "company": "Qualcomm",
+      "type": "JOB",
+      "status": "EXPIRED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://qualcomm.eightfold.ai/careers/job/446720933648",
+      "companyWebsite": "https://www.qualcomm.com",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:02:31.613Z",
+      "tags": [],
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "C/C++",
+        "Software Testing",
+        "C#",
+        "DevOps"
+      ],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_ax9n0a",
+      "title": "Software Development Engineer",
+      "company": "Siemens",
+      "type": "JOB",
+      "status": "EXPIRED",
+      "locations": [
+        "Noida"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522234",
+      "companyWebsite": "https://siemens.com/",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:23:55.616Z",
+      "tags": [],
+      "requiredSkills": [
+        "C/C++",
+        "Verilog",
+        "Data Structures & Algorithms",
+        "Machine Learning",
+        "VHDL",
+        "Linux/Unix"
+      ],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_afjeq3",
+      "title": "Software Engineer",
+      "company": "Playpower Labs",
+      "type": "JOB",
+      "status": "EXPIRED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.ashbyhq.com/playpowerlabs/6087e852-9d62-4103-aa77-c3773974549a/application?embed=true",
+      "companyWebsite": "https://playpowerlabs.com/",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:29:16.494Z",
+      "tags": [],
+      "requiredSkills": [
+        "JavaScript",
+        "React.js",
+        "Git",
+        "Node.js",
+        "Java",
+        "REST APIs",
+        "HTML/CSS",
+        "Docker",
+        "TypeScript",
+        "DevOps",
+        "Angular"
+      ],
+      "allowedPassoutYears": []
+    },
+    {
+      "id": "job_1gpauf",
+      "title": "Full-Stack Intern",
+      "company": "ixigo",
+      "type": "INTERNSHIP",
+      "status": "EXPIRED",
+      "locations": [
+        "Gurugram"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/ixigo/744000148960832",
+      "companyWebsite": "https://ixigo.com",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T02:42:58.457Z",
+      "tags": [],
+      "requiredSkills": [
+        "Python",
+        "Node.js",
+        "Postgres",
+        "Flask",
+        "LLM",
+        "Kubernetes",
+        "FastAPI",
+        "Data",
+        "Visualization",
+        "Data Engineering",
+        "Docker",
+        "TypeScript",
+        "AWS",
+        "Redis",
+        "Observability"
+      ],
+      "allowedPassoutYears": []
     },
     {
       "id": "job_hm6niw",
@@ -3575,6 +3789,5 @@
       "addedAt": "2026-10-11T00:00:51.000Z",
       "ats": "Keka"
     }
-  ],
-  "count": 170
+  ]
 }

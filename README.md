@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-95-2E7D32) ![Internships](https://img.shields.io/badge/Internships-63-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-68-2E7D32) ![Internships](https://img.shields.io/badge/Internships-49-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -388,18 +388,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>AtkinsRéalis</strong></td>
-<td>Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-163438"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Citi</strong></td>
-<td>Business Analytics Analyst</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
+<td><strong>Konecranes</strong></td>
+<td>Diploma Engineering Trainee</td>
+<td>Vadodara<br>India</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Konecranes/744000148930289"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>12 Sep 26</td>
 </tr>
 <tr>
 <td><strong>Deloitte USI</strong></td>
@@ -409,80 +402,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Sep 26</td>
 </tr>
 <tr>
-<td><strong>HARMAN</strong></td>
-<td>Associate Engineer - AI/ML with Python</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://harman.wd3.myworkdayjobs.com/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---AI-ML-with-Python_R-54434-2026"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>IQVIA</strong></td>
-<td>Product Support Trainee</td>
-<td>Multiple locations</td>
-<td align="center"><a href="https://jobs.iqvia.com/en/jobs/R1565428-0"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>SymphonyAI</strong></td>
-<td>Apprentice - Software Engineer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.symphonyai.com/jobs/2983?lang=en-us"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Capita (Ventura)</strong></td>
-<td>Apprentice</td>
-<td>Pune</td>
-<td align="center"><a href="https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Pune/Apprentice_10119455"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>PeopleHum</strong></td>
-<td>Agentic AI Java Developer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://hris.peoplehum.com/ehire/jobs/peopleHum/91eba036-24fe-4d27-acf6-c8e5e5786657"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td>Human Resources Intern</td>
-<td>Delhi</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461895062/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Spyne</strong></td>
 <td>SDE Intern</td>
 <td>Gurugram</td>
 <td align="center"><a href="https://spyneai.keka.com/careers/jobdetails/156605"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
-<td><strong>F5</strong></td>
-<td>Software Engineer Apprentice</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1038677"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td>Software Engineer Intern</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216034"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Gartner</strong></td>
-<td>Intern</td>
-<td>Gurgaon</td>
-<td align="center"><a href="https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Intern_114012/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Electronic Arts</strong></td>
-<td>Data and AI Engineering Intern</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Data-and-AI-Engineering-Intern/215934"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>10 Sep 26</td>
 </tr>
 <tr>
@@ -500,13 +423,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>10 Sep 26</td>
 </tr>
 <tr>
-<td><strong>ALS</strong></td>
-<td>Junior IT support engineer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://alsglobal.wd103.myworkdayjobs.com/External/job/Bangalore-India/Junior-IT-support-engineer_R8842"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Moody's</strong></td>
 <td>Exposure Modelling Summer Intern</td>
 <td>Noida</td>
@@ -514,24 +430,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>10 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Honeywell</strong></td>
-<td>Intern (Bachelor's)<br><small>SAP, US GAAP</small></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157521"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Amberstudent</strong></td>
 <td>Intern - Product Management</td>
 <td>Pune</td>
 <td align="center"><a href="https://amberstudent.keka.com/careers/jobdetails/140739"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Darwinbox</strong></td>
-<td>Marketing Intern - CRM (Loyalty)</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://cliqonnect.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6a84081ecd8ca"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>10 Sep 26</td>
 </tr>
 <tr>
@@ -563,20 +465,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Invesco</strong></td>
-<td>NATA Trainee</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/NATA-Trainee_R-14983"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>NATA Trainee</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/NATA-Trainee_R-14978"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Atul Auto</strong></td>
 <td>GET Trainee - Engine Durability Engineer</td>
 <td>Pune</td>
@@ -591,24 +479,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Momentum</strong></td>
-<td>QA Test Engineering Intern</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5397912008?gh_src=w0zlrtcu8us"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Micron</strong></td>
 <td>Technician Apprentice</td>
 <td>Gujarat</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/43617841?domain=micron.com"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>GLG</strong></td>
-<td>Intern - Account Receivable<br><small>Microsoft Excel</small></td>
-<td>Gurugram</td>
-<td align="center"><a href="https://glg.com/job/7761097003?gh_jid=7761097003&amp;gh_src=Jobinsider"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -626,13 +500,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Capgemini</strong></td>
-<td>Data Analyst</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.capgemini.com/in-en/jobs/538767-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>LG Ad Solutions</strong></td>
 <td>Software Engineer I</td>
 <td>Bengaluru</td>
@@ -647,24 +514,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>DXC Technology</strong></td>
-<td>Analyst III Business Process Transactions</td>
-<td>Noida</td>
-<td align="center"><a href="https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---HR---NOIDA/Analyst-III-Business-Process-Transactions-LMA-RR-0416492_51583658"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Konrad</strong></td>
 <td>Mobile Developer (Entry Level)</td>
 <td>Gurugram</td>
 <td align="center"><a href="https://www.konrad.com/careers/job/mobile-developer-entry-level_6084536003?gh_src=o1jbap193us"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>HSBC</strong></td>
-<td>Enterprise Talent (Apprentice)</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://portal.careers.hsbc.com/careers/job/563774611993868"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -686,27 +539,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Application Support Analyst</td>
 <td>Indore</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4455707006/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Konecranes</strong></td>
-<td>Graduate Engineering Trainee - BU Quay and Horizontal &amp; Yard<br><small>AutoCAD</small></td>
-<td>Pune</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Konecranes/744000147815712"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Diploma Engineer Trainee, Quality</td>
-<td>Multiple locations</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/Konecranes/744000147834719"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>EY</strong></td>
-<td>Analyst - Tech Consulting</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4462913881/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -756,20 +588,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>AI Interns</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://zycus.talismatic.com/jobs/JXFPUQYF7"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Asahi India Glass</strong></td>
-<td>Graduate Engineer Trainee (GET)</td>
-<td>Patan</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461719645/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Icertis</strong></td>
-<td>Intern, SDET</td>
-<td>Pune</td>
-<td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7563"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -843,13 +661,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Capgemini</strong></td>
-<td>Automation Test Engineer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.capgemini.com/in-en/jobs/491792-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Wipro</strong></td>
 <td>Associate Analyst</td>
 <td>Gurugram</td>
@@ -858,13 +669,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 <tr>
 <td><strong>Datavail</strong></td>
-<td>Associate Information Security and Compliance</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://eifn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ExternalCareerSite/job/1868/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Junior Developer - EPM</td>
 <td>Hyderabad</td>
 <td align="center"><a href="https://eifn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ExternalCareerSite/job/1894/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
@@ -892,24 +696,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Infosys</strong></td>
-<td>Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4460493715/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>V Patrol</strong></td>
 <td>Python Developer</td>
 <td>Gurugram</td>
 <td align="center"><a href="https://unstop.com/jobs/python-developer-v-patrol-1748639?lb=vhj6xFV"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td>Central Operations Support Executive, IN External Fulfillment</td>
-<td>Karnataka</td>
-<td align="center"><a href="https://www.amazon.jobs/en/jobs/10449085/central-operations-support-executive-in-external-fulfillment"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -941,20 +731,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Textron</strong></td>
-<td>Apprentice</td>
-<td>Multiple locations</td>
-<td align="center"><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1543603"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Qualcomm</strong></td>
-<td>Engineer</td>
-<td>Multiple locations</td>
-<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720186473?hl=en-US&amp;domain=qualcomm.com"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>KPMG</strong></td>
 <td>Associate Consultant â€“ AI Engineering (Gen AI)</td>
 <td>Mumbai</td>
@@ -962,24 +738,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Konecranes</strong></td>
-<td>Graduate Engineering Trainee (BU Quay)</td>
-<td>Pune</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/4461871636/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Jasmin Infotech</strong></td>
 <td>Software Developer (Fresher)</td>
 <td>Chennai</td>
 <td align="center"><a href="https://jasmin-infotech.com/careers/software-developer"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Capgemini</strong></td>
-<td>Associate Software Engineer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.capgemini.com/jobs/538629-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -1039,34 +801,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>PwC</strong></td>
-<td>Management Consulting Intern 2027<br><small>Batch of 2027</small></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/crm_campus_careers_site/job/Bangalore/Management-Consulting---Intern---2027_755056WD"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Amazon</strong></td>
-<td>Data Engineer Intern 2027<br><small>Batch of 2027</small></td>
-<td>Multiple locations</td>
-<td align="center"><a href="https://www.amazon.jobs/en-gb/jobs/10496769/data-engineer-intern-2027"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Front-End Engineer Intern 2027<br><small>React, JavaScript · Batch of 2027</small></td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://www.amazon.jobs/en-gb/jobs/10502000/front-end-engineer-intern-2027"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Neolytix</strong></td>
-<td>Associate - Automation</td>
-<td>Gurugram</td>
-<td align="center"><a href="https://neolytix.applytojob.com/apply/cpTwcChJ77/Associate-Automation"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>GlobalFoundries</strong></td>
 <td>Future Talent Pipeline</td>
 <td>Bengaluru</td>
@@ -1088,13 +822,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Itron</strong></td>
-<td>Apprentice (Engineering)</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://itron.wd5.myworkdayjobs.com/en-GB/Itron/job/India-Bangalore/Apprentice_JR102245-1"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>WTW</strong></td>
 <td>2027 Management Trainee Program - Corporate Risk &amp; Broking<br><small>Batch of 2027</small></td>
 <td>Gurugram<br>Mumbai</td>
@@ -1106,20 +833,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Apprentice, Product Program Management</td>
 <td>Noida</td>
 <td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25348"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Pitney Bowes</strong></td>
-<td>Graduate Engineer Trainee</td>
-<td>Noida</td>
-<td align="center"><a href="https://pitneybowes.wd1.myworkdayjobs.com/PBCareers/job/IN-Sector-142-Noida/Graduate-Engineer-Trainee_R22095"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Honeywell</strong></td>
-<td>Software Engineer I</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155609"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -1136,7 +849,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (12)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (62)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1152,6 +865,132 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </thead>
 <tbody>
 <tr>
+<td><strong>ixigo</strong></td>
+<td>Full-Stack Intern 🔒<br><small>Python, Node.js, Postgres, Flask, LLM, Kubernetes, FastAPI, Data, Visualization, Data Engineering, Docker, TypeScript, AWS, Redis, Observability</small></td>
+<td>Gurugram</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/ixigo/744000148960832"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>14 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Playpower Labs</strong></td>
+<td>Software Engineer 🔒<br><small>JavaScript, React.js, Git, Node.js, Java, REST APIs, HTML/CSS, Docker, TypeScript, DevOps, Angular</small></td>
+<td>Remote</td>
+<td align="center"><a href="https://jobs.ashbyhq.com/playpowerlabs/6087e852-9d62-4103-aa77-c3773974549a/application?embed=true"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>14 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Siemens</strong></td>
+<td>Software Development Engineer 🔒<br><small>C/C++, Verilog, Data Structures &amp; Algorithms, Machine Learning, VHDL, Linux/Unix</small></td>
+<td>Noida</td>
+<td align="center"><a href="https://jobs.siemens.com/en_US/externaljobs/JobDetail/522234"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>14 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td>Associate Engineer 🔒<br><small>Python, Java, C/C++, Software Testing, C#, DevOps</small></td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://qualcomm.eightfold.ai/careers/job/446720933648"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>14 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts</strong></td>
+<td>Full Stack Software Engineer Intern 🔒<br><small>React.js, Git, SQL, Java, NoSQL, Data Structures &amp; Algorithms, Version Control, Spring</small></td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Full-Stack-Software-Engineer-Intern/215942"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>13 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Sandisk</strong></td>
+<td>Associate Software Engineer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Sandisk/744000149008929"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>12 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Origin</strong></td>
+<td>CVAT Annotation Intern 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="http://apply.workable.com/origin-10x/j/4B8E3A0B33CVAT%20Annotation%20Intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>12 Sep 26</td>
+</tr>
+<tr>
+<td><strong>S&amp;P Global</strong></td>
+<td>Associate, Operations 🔒</td>
+<td>Gurgaon</td>
+<td align="center"><a href="http://careers.spglobal.com/jobs/330786"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>12 Sep 26</td>
+</tr>
+<tr>
+<td><strong>AtkinsRéalis</strong></td>
+<td>Intern 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://slihrms.wd3.myworkdayjobs.com/Careers/job/AtkinsRalis---Corporate-Office-Bangalore/Intern_R-163438"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td>Business Analytics Analyst 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>HARMAN</strong></td>
+<td>Associate Engineer - AI/ML with Python 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://harman.wd3.myworkdayjobs.com/harman/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer---AI-ML-with-Python_R-54434-2026"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>IQVIA</strong></td>
+<td>Product Support Trainee 🔒</td>
+<td>Multiple locations</td>
+<td align="center"><a href="https://jobs.iqvia.com/en/jobs/R1565428-0"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>SymphonyAI</strong></td>
+<td>Apprentice - Software Engineer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.symphonyai.com/jobs/2983?lang=en-us"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Capita (Ventura)</strong></td>
+<td>Apprentice 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://capita.wd3.myworkdayjobs.com/CapitaGlobal/job/Pune/Apprentice_10119455"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>PeopleHum</strong></td>
+<td>Agentic AI Java Developer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://hris.peoplehum.com/ehire/jobs/peopleHum/91eba036-24fe-4d27-acf6-c8e5e5786657"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td>Human Resources Intern 🔒</td>
+<td>Delhi</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461895062/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
+<td><strong>F5</strong></td>
+<td>Software Engineer Apprentice 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1038677"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts</strong></td>
+<td>Software Engineer Intern 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216034"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
 <td><strong>Johnson Controls</strong></td>
 <td>Diploma Engineer Trainee 🔒</td>
 <td>Bengaluru</td>
@@ -1159,10 +998,45 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>10 Sep 26</td>
 </tr>
 <tr>
+<td><strong>Gartner</strong></td>
+<td>Intern 🔒</td>
+<td>Gurgaon</td>
+<td align="center"><a href="https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Intern_114012/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Electronic Arts</strong></td>
+<td>Data and AI Engineering Intern 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Data-and-AI-Engineering-Intern/215934"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
+<td><strong>ALS</strong></td>
+<td>Junior IT support engineer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://alsglobal.wd103.myworkdayjobs.com/External/job/Bangalore-India/Junior-IT-support-engineer_R8842"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
 <td><strong>NielsenIQ</strong></td>
 <td>Associate Software Engineer 🔒<br><small>Angular, TypeScript</small></td>
 <td>Chennai</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/nielseniq/744000148465919"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Honeywell</strong></td>
+<td>Intern (Bachelor's) 🔒<br><small>SAP, US GAAP</small></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157521"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Darwinbox</strong></td>
+<td>Marketing Intern - CRM (Loyalty) 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://cliqonnect.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6a84081ecd8ca"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>10 Sep 26</td>
 </tr>
 <tr>
@@ -1194,10 +1068,150 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
+<td><strong>Invesco</strong></td>
+<td>NATA Trainee 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/NATA-Trainee_R-14983"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>NATA Trainee 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/NATA-Trainee_R-14978"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Momentum</strong></td>
+<td>QA Test Engineering Intern 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/momentumfinancialservicesgroup/jobs/5397912008?gh_src=w0zlrtcu8us"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>GLG</strong></td>
+<td>Intern - Account Receivable 🔒<br><small>Microsoft Excel</small></td>
+<td>Gurugram</td>
+<td align="center"><a href="https://glg.com/job/7761097003?gh_jid=7761097003&amp;gh_src=Jobinsider"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td>Data Analyst 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.capgemini.com/in-en/jobs/538767-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>DXC Technology</strong></td>
+<td>Analyst III Business Process Transactions 🔒</td>
+<td>Noida</td>
+<td align="center"><a href="https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---HR---NOIDA/Analyst-III-Business-Process-Transactions-LMA-RR-0416492_51583658"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td>Enterprise Talent (Apprentice) 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://portal.careers.hsbc.com/careers/job/563774611993868"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Konecranes</strong></td>
+<td>Graduate Engineering Trainee - BU Quay and Horizontal &amp; Yard 🔒<br><small>AutoCAD</small></td>
+<td>Pune</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Konecranes/744000147815712"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Diploma Engineer Trainee, Quality 🔒</td>
+<td>Multiple locations</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/Konecranes/744000147834719"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>EY</strong></td>
+<td>Analyst - Tech Consulting 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4462913881/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Asahi India Glass</strong></td>
+<td>Graduate Engineer Trainee (GET) 🔒</td>
+<td>Patan</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461719645/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Icertis</strong></td>
+<td>Intern, SDET 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7563"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td>Automation Test Engineer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.capgemini.com/in-en/jobs/491792-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Datavail</strong></td>
+<td>Associate Information Security and Compliance 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://eifn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ExternalCareerSite/job/1868/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Infosys</strong></td>
+<td>Intern 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4460493715/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td>Central Operations Support Executive, IN External Fulfillment 🔒</td>
+<td>Karnataka</td>
+<td align="center"><a href="https://www.amazon.jobs/en/jobs/10449085/central-operations-support-executive-in-external-fulfillment"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Textron</strong></td>
+<td>Apprentice 🔒</td>
+<td>Multiple locations</td>
+<td align="center"><a href="https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=1543603"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Qualcomm</strong></td>
+<td>Engineer 🔒</td>
+<td>Multiple locations</td>
+<td align="center"><a href="https://careers.qualcomm.com/careers/job/446720186473?hl=en-US&amp;domain=qualcomm.com"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
 <td><strong>Novac Technology Solutions</strong></td>
 <td>Software Engineer Trainee 🔒</td>
 <td>Chennai</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4463369516/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Konecranes</strong></td>
+<td>Graduate Engineering Trainee (BU Quay) 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/4461871636/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Capgemini</strong></td>
+<td>Associate Software Engineer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.capgemini.com/jobs/538629-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -1215,10 +1229,59 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
+<td><strong>PwC</strong></td>
+<td>Management Consulting Intern 2027 🔒<br><small>Batch of 2027</small></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://pwc.wd3.myworkdayjobs.com/crm_campus_careers_site/job/Bangalore/Management-Consulting---Intern---2027_755056WD"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Amazon</strong></td>
+<td>Data Engineer Intern 2027 🔒<br><small>Batch of 2027</small></td>
+<td>Multiple locations</td>
+<td align="center"><a href="https://www.amazon.jobs/en-gb/jobs/10496769/data-engineer-intern-2027"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Front-End Engineer Intern 2027 🔒<br><small>React, JavaScript · Batch of 2027</small></td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://www.amazon.jobs/en-gb/jobs/10502000/front-end-engineer-intern-2027"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Neolytix</strong></td>
+<td>Associate - Automation 🔒</td>
+<td>Gurugram</td>
+<td align="center"><a href="https://neolytix.applytojob.com/apply/cpTwcChJ77/Associate-Automation"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
 <td><strong>Kantar</strong></td>
 <td>Analyst (Off-campus 2026) 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://kantar.wd3.myworkdayjobs.com/KANTAR/job/Bangalore-Prestige-Technology-Park/Analyst_R102561"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Itron</strong></td>
+<td>Apprentice (Engineering) 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://itron.wd5.myworkdayjobs.com/en-GB/Itron/job/India-Bangalore/Apprentice_JR102245-1"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Pitney Bowes</strong></td>
+<td>Graduate Engineer Trainee 🔒</td>
+<td>Noida</td>
+<td align="center"><a href="https://pitneybowes.wd1.myworkdayjobs.com/PBCareers/job/IN-Sector-142-Noida/Graduate-Engineer-Trainee_R22095"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Honeywell</strong></td>
+<td>Software Engineer I 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155609"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
