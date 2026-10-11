@@ -2631,6 +2631,950 @@
       "tags": [],
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:47:23.230Z"
+    },
+    {
+      "id": "job_hm6niw",
+      "title": "Career Accelerator Program - Digital IC Design Engineer",
+      "company": "Texas Instruments",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017396?utm_medium=jobboard&utm_source=linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:00.000Z",
+      "ats": "Oracle HCM"
+    },
+    {
+      "id": "job_bd1un9",
+      "title": "Systems Engr I",
+      "company": "Honeywell",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157506?utm_medium=jobboard&utm_source=linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:01.000Z",
+      "ats": "Oracle HCM"
+    },
+    {
+      "id": "job_xszp0q",
+      "title": "Associate Engineer - Engineering Change Management",
+      "company": "Flex",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/India-Chennai/Associate-Engineer---Engineering-Change-Management_WD229483?source=LinkedIn_Slots",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:02.000Z",
+      "ats": "Workday"
+    },
+    {
+      "id": "job_9c02l8",
+      "title": "DevOps Engineer I",
+      "company": "Ansira",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://ansira.wd1.myworkdayjobs.com/Ansira_Careers/job/India-Bengaluru/DevOps-Engineer-I_R1020-1?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:03.000Z",
+      "ats": "Workday"
+    },
+    {
+      "id": "job_gk2h7x",
+      "title": "Intern - System Test / QA (1-year internship)",
+      "company": "Irdeto",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.irdeto.com/job/Noida-Intern-System-Test/1438572400/",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:04.000Z",
+      "companyWebsite": "https://irdeto.com"
+    },
+    {
+      "id": "job_jkxyq1",
+      "title": "Apprentice - CPRL (Chemical Process Research Lab, Generics R&D)",
+      "company": "USV Private Limited",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://usvcareers.peoplestrong.com/job/detail/USV_-C_1889598?Link=Linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:05.000Z",
+      "ats": "PeopleStrong"
+    },
+    {
+      "id": "job_riph0j",
+      "title": "Graduate Engineer Trainee - Physical Design (VLSI)",
+      "company": "HC Robotics",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Kolkata"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.thehirehub.ai/apply/1432",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:06.000Z"
+    },
+    {
+      "id": "job_c34eyc",
+      "title": "Software Engineer (machine vision / industrial software)",
+      "company": "Advance Sensing",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://advancesensing.com/pages/careers/careers/software-engineer.html",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:07.000Z",
+      "companyWebsite": "https://advancesensing.com"
+    },
+    {
+      "id": "job_g1qbgy",
+      "title": "Mechanical Engineering Intern",
+      "company": "Antropi Robotics",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.antropi.world/careers/JO-018814",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:08.000Z",
+      "companyWebsite": "https://antropi.world"
+    },
+    {
+      "id": "job_mvlwyo",
+      "title": "Robotics Software Intern (6 months)",
+      "company": "Antropi Robotics",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.antropi.world/careers/JO-960098",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:09.000Z",
+      "companyWebsite": "https://antropi.world"
+    },
+    {
+      "id": "job_wn10x8",
+      "title": "Junior Fullstack Developer",
+      "company": "GoSuper EdTech",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://gosuperedtech.com/career/junior-fullstack-developer",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:10.000Z",
+      "companyWebsite": "https://gosuperedtech.com"
+    },
+    {
+      "id": "job_aayus2",
+      "title": "AI System Engineer",
+      "company": "GoSuper EdTech",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://gosuperedtech.com/career/ai-system-engineer",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:11.000Z",
+      "companyWebsite": "https://gosuperedtech.com"
+    },
+    {
+      "id": "job_sej73n",
+      "title": "React JS Intern",
+      "company": "VE3",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://ve3.zohorecruit.in/jobs/Careers/80399000019316858/React-JS-Intern?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:12.000Z"
+    },
+    {
+      "id": "job_fswsd9",
+      "title": "Web Developer Intern (2 vacancies)",
+      "company": "KRAN",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Thiruvananthapuram"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://kran.co.in/jobOverview?val=148",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:13.000Z",
+      "companyWebsite": "https://kran.co.in"
+    },
+    {
+      "id": "job_q1e6cm",
+      "title": "MERN Stack Developer (Fresher)",
+      "company": "Nevrio Technologies",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Multiple locations"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://nevrio.tech/jobs/mern-stack-developer-fresher-/",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:14.000Z",
+      "companyWebsite": "https://nevrio.tech"
+    },
+    {
+      "id": "job_78b8zp",
+      "title": "Full-Stack Developer Intern",
+      "company": "Xynvia",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Kozhikode"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://xynvia.com/careers/full-stack-developer-intern/",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:15.000Z",
+      "companyWebsite": "https://xynvia.com"
+    },
+    {
+      "id": "job_pjcnvg",
+      "title": "Java Developer Intern",
+      "company": "DigitalPopeye",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad",
+        "Remote"
+      ],
+      "workMode": "REMOTE",
+      "applyLink": "https://www.digitalpopeye.com/jobs/java-developer-intern/",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:16.000Z",
+      "companyWebsite": "https://digitalpopeye.com"
+    },
+    {
+      "id": "job_gi1ds2",
+      "title": "Associate - .NET Core / React JS with AI",
+      "company": "Virtusa",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.virtusa.com/careers/job-search/global/en/job/VIRVIRGLOBALP104833EXTERNALENGLOBAL/Associate?utm_source=linkedin&utm_medium=phenom-feeds&source=taleo",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:17.000Z",
+      "companyWebsite": "https://virtusa.com"
+    },
+    {
+      "id": "job_eys0ms",
+      "title": "Engineer - Layout",
+      "company": "KONE",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://kone.wd3.myworkdayjobs.com/Careers/job/Chennai-ITECKBS/Engineer---Layout_R0665134/?source=Linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:18.000Z",
+      "ats": "Workday",
+      "companyWebsite": "https://www.kone.com"
+    },
+    {
+      "id": "job_at1t9p",
+      "title": "Android Developer Trainee",
+      "company": "Enveu",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://enveu.keka.com/careers/jobdetails/164903?source=linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:19.000Z",
+      "ats": "Keka",
+      "companyWebsite": "https://enveu.io"
+    },
+    {
+      "id": "job_qzrse6",
+      "title": "Associate Software Engineer",
+      "company": "Dentsu Global Services",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:20.000Z",
+      "ats": "Workday",
+      "companyWebsite": "https://www.dentsu.com"
+    },
+    {
+      "id": "job_csygsn",
+      "title": "Application Engineer - Process Diagnostics & Control (New College Grad)",
+      "company": "Applied Materials",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.appliedmaterials.com/job/-/-/95/100654815152?p_sid=0Ug8Olb&p_uid=2kCy7rzbrS&soure=rd_linkedin_pj&ss=paid&utm_campaign=engineering_india&utm_content=pj_board&utm_medium=jobad&utm_source=linkedin+slotted",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:21.000Z",
+      "companyWebsite": "https://appliedmaterials.com"
+    },
+    {
+      "id": "job_a4dryw",
+      "title": "Software Engineer - P&E IT CPD / COGMD Applications",
+      "company": "Caterpillar",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.caterpillar.com/en/jobs/r0000373272/software-engineer/?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:22.000Z",
+      "companyWebsite": "https://caterpillar.com"
+    },
+    {
+      "id": "job_xrp3n7",
+      "title": "Data Analyst - Global Payment Services",
+      "company": "Barclays",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://search.jobs.barclays/job/-/-/13015/100161893152?src=JB-12860",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:23.000Z",
+      "companyWebsite": "https://barclays.com"
+    },
+    {
+      "id": "job_dlm0lr",
+      "title": "Ops Sup Analyst 1 (entry level)",
+      "company": "Citi",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://jobs.citi.com/job/-/-/287/101620686416?source=APPLICANT_SOURCE-3-354&utm_medium=job_posting&utm_campaign=apac_experienced&utm_content=social_media&utm_term=393693070&ss=paid&utm_source=linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:24.000Z",
+      "companyWebsite": "https://citi.com"
+    },
+    {
+      "id": "job_vd77d8",
+      "title": "Associate D&T Analyst - AI & Automation",
+      "company": "General Mills",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-D-T-Analyst---AI---Automation_10128341?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:25.000Z",
+      "ats": "Workday"
+    },
+    {
+      "id": "job_i2xbek",
+      "title": "Junior Software Developer (Contract)",
+      "company": "Infineon Technologies",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.infineon.com/careers/job/563808971932858?utm_source=linkedin&domain=infineon.com#!source=400",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:26.000Z",
+      "companyWebsite": "https://infineon.com"
+    },
+    {
+      "id": "job_9mcn50",
+      "title": "Apply Now! India Campus Team (general talent application)",
+      "company": "Micron Technology",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad",
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.micron.com/careers/job/44838515?utm_source=linkedin&domain=micron.com&src=LinkedInJobs",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:27.000Z",
+      "companyWebsite": "https://micron.com"
+    },
+    {
+      "id": "job_1prur5",
+      "title": "Engineer - Systems Engineering (FAT / validation testing)",
+      "company": "GE Vernova",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.gevernova.com/engineer-systems-engineering/job/R5054073",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:28.000Z",
+      "companyWebsite": "https://www.gevernova.com"
+    },
+    {
+      "id": "job_w7ir28",
+      "title": "Graduate Engineer Trainee - Maintenance",
+      "company": "Allison Transmission",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chandgad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/736-en_US?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:29.000Z"
+    },
+    {
+      "id": "job_802qh9",
+      "title": "Intern - System (AI-based requirement extraction)",
+      "company": "Valeo",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---System_REQ2026079045/",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:30.000Z",
+      "ats": "Workday",
+      "companyWebsite": "https://www.valeo.com"
+    },
+    {
+      "id": "job_xe0pv7",
+      "title": "Executive / Sr. Executive - Electrical Maintenance Engineer",
+      "company": "Valeo",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Executive---Sr-Executive--Electrical-Maintenance-Engineer-_REQ2025061965-1/?source=Linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:31.000Z",
+      "ats": "Workday",
+      "companyWebsite": "https://www.valeo.com"
+    },
+    {
+      "id": "job_v0zo5",
+      "title": "Students / Trainees - Embedded / Android Software Intern",
+      "company": "HARMAN",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobsearch.harman.com/en_US/careers/JobDetail/Students-Trainees/32994",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:32.000Z",
+      "companyWebsite": "https://www.harman.com"
+    },
+    {
+      "id": "job_mgctvp",
+      "title": "Apprentice - IT Service Desk / Network Support",
+      "company": "SITA",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Delhi"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.sita.aero/jobs/11082?lang=en-us&iis=LinkedIn&iisn=LinkedIn&mode=apply",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:33.000Z",
+      "companyWebsite": "https://sita.aero"
+    },
+    {
+      "id": "job_zfj1jg",
+      "title": "GSOC Engineer",
+      "company": "Telarix (TOMIA / Lumine Group)",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "REMOTE",
+      "applyLink": "https://luminegrp.wd3.myworkdayjobs.com/TOMIA/job/Remote-Bengaluru-India/GSOC-Engineer_JR107870",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:34.000Z",
+      "ats": "Workday"
+    },
+    {
+      "id": "job_3w33iz",
+      "title": "Engineer - Data Center Operations (L1)",
+      "company": "CBTS",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chennai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.cbts.com/careers/job/1443153509914?microsite=cbts.com&domain=cbts.com",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:35.000Z",
+      "companyWebsite": "https://cbts.com"
+    },
+    {
+      "id": "job_pulo2c",
+      "title": "Manual Test Engineer",
+      "company": "Kognivera",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://kognivera.keka.com/careers/jobdetails/164536?source=linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:36.000Z",
+      "ats": "Keka"
+    },
+    {
+      "id": "job_rblr9z",
+      "title": "Spend Data Analyst (Intern)",
+      "company": "Zycus",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://zycus.talismatic.com/jobs/J2OBNT4ZF",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:37.000Z",
+      "ats": "Talismatic",
+      "companyWebsite": "https://www.zycus.com"
+    },
+    {
+      "id": "job_iwzke3",
+      "title": "Full Stack Software Engineer Intern (path to full-time)",
+      "company": "Selah Digital",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://selah.zohorecruit.in/jobs/Careers/213761000001539342/Full-Stack-Software-Engineer-Intern?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:38.000Z"
+    },
+    {
+      "id": "job_jmpij4",
+      "title": "Full Stack Developer (MERN, remote India team)",
+      "company": "Lantern Capital",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "REMOTE",
+      "applyLink": "https://www.lanterncapital.ca/job-postings/full-stack-developer",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:39.000Z",
+      "companyWebsite": "https://lanterncapital.ca"
+    },
+    {
+      "id": "job_sh8gys",
+      "title": "Data Science Intern (3-6 months)",
+      "company": "Prepisely",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Remote"
+      ],
+      "workMode": "REMOTE",
+      "applyLink": "https://prepisely.hireyukti.ai/apply/9a7da2c1-1d89-4906-af5e-6a2447027b46?utm_source=LinkedIn&utm_medium=social&utm_campaign=data-science-intern&ref=9AFE51F2",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:40.000Z"
+    },
+    {
+      "id": "job_ugrvp0",
+      "title": "Engineer I - Software Development",
+      "company": "Accelya",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://accelya.wd103.myworkdayjobs.com/Careers/job/India-Mumbai/Engineer-I---Software-Development_JR102590?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:41.000Z",
+      "ats": "Workday"
+    },
+    {
+      "id": "job_b9f2yb",
+      "title": "GET Mechanical Engineer - PLM / PDLM",
+      "company": "Xylem",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Vadodara"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Vadodara-73-East-Ave/GET-Mechanical-Engineer_R50925?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:42.000Z",
+      "ats": "Workday",
+      "companyWebsite": "https://www.xylem.com"
+    },
+    {
+      "id": "job_lfi5ye",
+      "title": "Graduate Consultant - Geoenvironmental & Geotechnical (UK Operations)",
+      "company": "Arcadis",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Mumbai",
+        "Hyderabad"
+      ],
+      "workMode": "HYBRID",
+      "applyLink": "https://jobs.arcadis.com/careers/job/563671533054839?utm_source=linkedin&domain=arcadis.com&utm_medium=jobboard",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:43.000Z",
+      "companyWebsite": "https://arcadis.com"
+    },
+    {
+      "id": "job_91v6xh",
+      "title": "Trainee - Design (Tower Crane)",
+      "company": "Liebherr",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.liebherr.com/job/Pune-Trainee-Design-%2528Tower-Crane%2529/1417679533/?feedId=335501&jobPipeline=LinkedIn&utm_source=LinkedinJobPostings",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:44.000Z",
+      "companyWebsite": "https://liebherr.com"
+    },
+    {
+      "id": "job_3zx9fk",
+      "title": "Graduate Engineer Trainee - New Part Development",
+      "company": "Allison Transmission",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Chandgad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/748-en_US?source=LinkedIn",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:45.000Z"
+    },
+    {
+      "id": "job_2lz25z",
+      "title": "Specialist, Engineering Services",
+      "company": "JLL",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Specialist--Engineering-Services_REQ537566",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:46.000Z",
+      "ats": "Workday",
+      "companyWebsite": "https://www.jll.com"
+    },
+    {
+      "id": "job_pzyabt",
+      "title": "Project Engineer",
+      "company": "JLL",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Hyderabad"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Project-Engineer_REQ537571",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:47.000Z",
+      "ats": "Workday",
+      "companyWebsite": "https://www.jll.com"
+    },
+    {
+      "id": "job_egcpev",
+      "title": "Apprentice Technician - IT Hardware / Network Support",
+      "company": "SITA",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Vadodara"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.sita.aero/jobs/10784?lang=en-us&iis=LinkedIn&iisn=LinkedIn&mode=apply",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:48.000Z",
+      "companyWebsite": "https://sita.aero"
+    },
+    {
+      "id": "job_4y6uj5",
+      "title": "Jr Engineer (Quality)",
+      "company": "Tempsens Instruments",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Udaipur"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://career.tempsens.com/jobs/Careers/73610000009259240/Jr-Engineer-Quality?source=CareerSite",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:49.000Z",
+      "companyWebsite": "https://tempsens.com"
+    },
+    {
+      "id": "job_yewgho",
+      "title": "Junior Embedded Engineer (Internship to Job)",
+      "company": "City Greens",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://citygreens.zohorecruit.in/jobs/Careers/120768000007616090/Junior-Embedded-Engineer-Internship-to-Job-?source=CareerSite",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:50.000Z"
+    },
+    {
+      "id": "job_fxukaa",
+      "title": "Junior Java Developer (Entry level)",
+      "company": "Kognivera",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://kognivera.keka.com/careers/jobdetails/164537?source=linkedin",
+      "dateAdded": "2026-10-11",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": [],
+      "addedAt": "2026-10-11T00:00:51.000Z",
+      "ats": "Keka"
     }
-  ]
+  ],
+  "count": 170
 }

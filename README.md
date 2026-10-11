@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-56-2E7D32) ![Internships](https://img.shields.io/badge/Internships-50-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Sep_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-95-2E7D32) ![Internships](https://img.shields.io/badge/Internships-63-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -23,6 +23,370 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Kognivera</strong></td>
+<td>Junior Java Developer (Entry level)</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://kognivera.keka.com/careers/jobdetails/164537?source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>City Greens</strong></td>
+<td>Junior Embedded Engineer (Internship to Job)</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://citygreens.zohorecruit.in/jobs/Careers/120768000007616090/Junior-Embedded-Engineer-Internship-to-Job-?source=CareerSite"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Tempsens Instruments</strong></td>
+<td>Jr Engineer (Quality)</td>
+<td>Udaipur</td>
+<td align="center"><a href="https://career.tempsens.com/jobs/Careers/73610000009259240/Jr-Engineer-Quality?source=CareerSite"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>SITA</strong></td>
+<td>Apprentice Technician - IT Hardware / Network Support</td>
+<td>Vadodara</td>
+<td align="center"><a href="https://careers.sita.aero/jobs/10784?lang=en-us&amp;iis=LinkedIn&amp;iisn=LinkedIn&amp;mode=apply"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>JLL</strong></td>
+<td>Project Engineer</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Project-Engineer_REQ537571"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Specialist, Engineering Services</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Specialist--Engineering-Services_REQ537566"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Allison Transmission</strong></td>
+<td>Graduate Engineer Trainee - New Part Development</td>
+<td>Chandgad</td>
+<td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/748-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Liebherr</strong></td>
+<td>Trainee - Design (Tower Crane)</td>
+<td>Pune</td>
+<td align="center"><a href="https://careers.liebherr.com/job/Pune-Trainee-Design-%2528Tower-Crane%2529/1417679533/?feedId=335501&amp;jobPipeline=LinkedIn&amp;utm_source=LinkedinJobPostings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Arcadis</strong></td>
+<td>Graduate Consultant - Geoenvironmental &amp; Geotechnical (UK Operations)</td>
+<td>Bengaluru<br>Mumbai<br>Hyderabad</td>
+<td align="center"><a href="https://jobs.arcadis.com/careers/job/563671533054839?utm_source=linkedin&amp;domain=arcadis.com&amp;utm_medium=jobboard"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Xylem</strong></td>
+<td>GET Mechanical Engineer - PLM / PDLM</td>
+<td>Vadodara</td>
+<td align="center"><a href="https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Vadodara-73-East-Ave/GET-Mechanical-Engineer_R50925?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Accelya</strong></td>
+<td>Engineer I - Software Development</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://accelya.wd103.myworkdayjobs.com/Careers/job/India-Mumbai/Engineer-I---Software-Development_JR102590?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Prepisely</strong></td>
+<td>Data Science Intern (3-6 months)</td>
+<td>Bengaluru<br>Remote</td>
+<td align="center"><a href="https://prepisely.hireyukti.ai/apply/9a7da2c1-1d89-4906-af5e-6a2447027b46?utm_source=LinkedIn&amp;utm_medium=social&amp;utm_campaign=data-science-intern&amp;ref=9AFE51F2"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Lantern Capital</strong></td>
+<td>Full Stack Developer (MERN, remote India team)</td>
+<td>Remote</td>
+<td align="center"><a href="https://www.lanterncapital.ca/job-postings/full-stack-developer"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Selah Digital</strong></td>
+<td>Full Stack Software Engineer Intern (path to full-time)</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://selah.zohorecruit.in/jobs/Careers/213761000001539342/Full-Stack-Software-Engineer-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Zycus</strong></td>
+<td>Spend Data Analyst (Intern)</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://zycus.talismatic.com/jobs/J2OBNT4ZF"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Kognivera</strong></td>
+<td>Manual Test Engineer</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://kognivera.keka.com/careers/jobdetails/164536?source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>CBTS</strong></td>
+<td>Engineer - Data Center Operations (L1)</td>
+<td>Chennai</td>
+<td align="center"><a href="https://jobs.cbts.com/careers/job/1443153509914?microsite=cbts.com&amp;domain=cbts.com"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Telarix (TOMIA / Lumine Group)</strong></td>
+<td>GSOC Engineer</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://luminegrp.wd3.myworkdayjobs.com/TOMIA/job/Remote-Bengaluru-India/GSOC-Engineer_JR107870"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>SITA</strong></td>
+<td>Apprentice - IT Service Desk / Network Support</td>
+<td>Delhi</td>
+<td align="center"><a href="https://careers.sita.aero/jobs/11082?lang=en-us&amp;iis=LinkedIn&amp;iisn=LinkedIn&amp;mode=apply"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>HARMAN</strong></td>
+<td>Students / Trainees - Embedded / Android Software Intern</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobsearch.harman.com/en_US/careers/JobDetail/Students-Trainees/32994"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Valeo</strong></td>
+<td>Executive / Sr. Executive - Electrical Maintenance Engineer</td>
+<td>Pune</td>
+<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Executive---Sr-Executive--Electrical-Maintenance-Engineer-_REQ2025061965-1/?source=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Intern - System (AI-based requirement extraction)</td>
+<td>Chennai</td>
+<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---System_REQ2026079045/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Allison Transmission</strong></td>
+<td>Graduate Engineer Trainee - Maintenance</td>
+<td>Chandgad</td>
+<td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/736-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td>Engineer - Systems Engineering (FAT / validation testing)</td>
+<td>Chennai</td>
+<td align="center"><a href="https://careers.gevernova.com/engineer-systems-engineering/job/R5054073"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td>Apply Now! India Campus Team (general talent application)</td>
+<td>Hyderabad<br>Bengaluru</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44838515?utm_source=linkedin&amp;domain=micron.com&amp;src=LinkedInJobs"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Infineon Technologies</strong></td>
+<td>Junior Software Developer (Contract)</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.infineon.com/careers/job/563808971932858?utm_source=linkedin&amp;domain=infineon.com#!source=400"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>General Mills</strong></td>
+<td>Associate D&amp;T Analyst - AI &amp; Automation</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-D-T-Analyst---AI---Automation_10128341?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td>Ops Sup Analyst 1 (entry level)</td>
+<td>Chennai</td>
+<td align="center"><a href="https://jobs.citi.com/job/-/-/287/101620686416?source=APPLICANT_SOURCE-3-354&amp;utm_medium=job_posting&amp;utm_campaign=apac_experienced&amp;utm_content=social_media&amp;utm_term=393693070&amp;ss=paid&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Barclays</strong></td>
+<td>Data Analyst - Global Payment Services</td>
+<td>Pune</td>
+<td align="center"><a href="https://search.jobs.barclays/job/-/-/13015/100161893152?src=JB-12860"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Caterpillar</strong></td>
+<td>Software Engineer - P&amp;E IT CPD / COGMD Applications</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://careers.caterpillar.com/en/jobs/r0000373272/software-engineer/?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td>Application Engineer - Process Diagnostics &amp; Control (New College Grad)</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.appliedmaterials.com/job/-/-/95/100654815152?p_sid=0Ug8Olb&amp;p_uid=2kCy7rzbrS&amp;soure=rd_linkedin_pj&amp;ss=paid&amp;utm_campaign=engineering_india&amp;utm_content=pj_board&amp;utm_medium=jobad&amp;utm_source=linkedin+slotted"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Dentsu Global Services</strong></td>
+<td>Associate Software Engineer</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Enveu</strong></td>
+<td>Android Developer Trainee</td>
+<td>Noida</td>
+<td align="center"><a href="https://enveu.keka.com/careers/jobdetails/164903?source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>KONE</strong></td>
+<td>Engineer - Layout</td>
+<td>Chennai</td>
+<td align="center"><a href="https://kone.wd3.myworkdayjobs.com/Careers/job/Chennai-ITECKBS/Engineer---Layout_R0665134/?source=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Virtusa</strong></td>
+<td>Associate - .NET Core / React JS with AI</td>
+<td>Chennai</td>
+<td align="center"><a href="https://www.virtusa.com/careers/job-search/global/en/job/VIRVIRGLOBALP104833EXTERNALENGLOBAL/Associate?utm_source=linkedin&amp;utm_medium=phenom-feeds&amp;source=taleo"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>DigitalPopeye</strong></td>
+<td>Java Developer Intern</td>
+<td>Hyderabad<br>Remote</td>
+<td align="center"><a href="https://www.digitalpopeye.com/jobs/java-developer-intern/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Xynvia</strong></td>
+<td>Full-Stack Developer Intern</td>
+<td>Kozhikode</td>
+<td align="center"><a href="https://xynvia.com/careers/full-stack-developer-intern/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Nevrio Technologies</strong></td>
+<td>MERN Stack Developer (Fresher)</td>
+<td>Multiple locations</td>
+<td align="center"><a href="https://nevrio.tech/jobs/mern-stack-developer-fresher-/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>KRAN</strong></td>
+<td>Web Developer Intern (2 vacancies)</td>
+<td>Thiruvananthapuram</td>
+<td align="center"><a href="https://kran.co.in/jobOverview?val=148"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>VE3</strong></td>
+<td>React JS Intern</td>
+<td>Pune</td>
+<td align="center"><a href="https://ve3.zohorecruit.in/jobs/Careers/80399000019316858/React-JS-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>GoSuper EdTech</strong></td>
+<td>AI System Engineer</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://gosuperedtech.com/career/ai-system-engineer"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Junior Fullstack Developer</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://gosuperedtech.com/career/junior-fullstack-developer"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Antropi Robotics</strong></td>
+<td>Robotics Software Intern (6 months)</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.antropi.world/careers/JO-960098"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Mechanical Engineering Intern</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.antropi.world/careers/JO-018814"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Advance Sensing</strong></td>
+<td>Software Engineer (machine vision / industrial software)</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://advancesensing.com/pages/careers/careers/software-engineer.html"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>HC Robotics</strong></td>
+<td>Graduate Engineer Trainee - Physical Design (VLSI)</td>
+<td>Kolkata</td>
+<td align="center"><a href="https://www.thehirehub.ai/apply/1432"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>USV Private Limited</strong></td>
+<td>Apprentice - CPRL (Chemical Process Research Lab, Generics R&amp;D)</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://usvcareers.peoplestrong.com/job/detail/USV_-C_1889598?Link=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Irdeto</strong></td>
+<td>Intern - System Test / QA (1-year internship)</td>
+<td>Noida</td>
+<td align="center"><a href="https://careers.irdeto.com/job/Noida-Intern-System-Test/1438572400/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Ansira</strong></td>
+<td>DevOps Engineer I</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://ansira.wd1.myworkdayjobs.com/Ansira_Careers/job/India-Bengaluru/DevOps-Engineer-I_R1020-1?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Flex</strong></td>
+<td>Associate Engineer - Engineering Change Management</td>
+<td>Chennai</td>
+<td align="center"><a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/India-Chennai/Associate-Engineer---Engineering-Change-Management_WD229483?source=LinkedIn_Slots"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Honeywell</strong></td>
+<td>Systems Engr I</td>
+<td>Chennai</td>
+<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157506?utm_medium=jobboard&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td>Career Accelerator Program - Digital IC Design Engineer</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017396?utm_medium=jobboard&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
 <tr>
 <td><strong>AtkinsRéalis</strong></td>
 <td>Intern</td>
