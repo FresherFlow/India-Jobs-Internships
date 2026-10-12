@@ -3806,6 +3806,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_y45p7e",
+      "title": "RCM Associate (Charge Posting)",
+      "company": "Amperos",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India; India (Remote)"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.ashbyhq.com/amperos/ff6ac54a-1cdd-4800-858d-c291699c1a13?utm_source=jobs.bvp.com",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T14:10:48.131Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
