@@ -3788,6 +3788,24 @@
       "allowedPassoutYears": [],
       "addedAt": "2026-10-11T00:00:51.000Z",
       "ats": "Keka"
+    },
+    {
+      "id": "job_q5mucn",
+      "title": "CPU Compiler Intern - 2027",
+      "company": "NVIDIA",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://nvidia.eightfold.ai/careers/job/893398107737",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T03:48:28.328Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
