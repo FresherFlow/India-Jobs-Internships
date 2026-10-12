@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-68-2E7D32) ![Internships](https://img.shields.io/badge/Internships-50-E86A1C) ![Updated](https://img.shields.io/badge/Updated-12_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-64-2E7D32) ![Internships](https://img.shields.io/badge/Internships-48-E86A1C) ![Updated](https://img.shields.io/badge/Updated-12_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -66,13 +66,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Specialist, Engineering Services</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Specialist--Engineering-Services_REQ537566"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Allison Transmission</strong></td>
 <td>Graduate Engineer Trainee - New Part Development</td>
 <td>Chandgad</td>
@@ -98,13 +91,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>GET Mechanical Engineer - PLM / PDLM</td>
 <td>Vadodara</td>
 <td align="center"><a href="https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Vadodara-73-East-Ave/GET-Mechanical-Engineer_R50925?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Accelya</strong></td>
-<td>Engineer I - Software Development</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://accelya.wd103.myworkdayjobs.com/Careers/job/India-Mumbai/Engineer-I---Software-Development_JR102590?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -164,24 +150,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>HARMAN</strong></td>
-<td>Students / Trainees - Embedded / Android Software Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobsearch.harman.com/en_US/careers/JobDetail/Students-Trainees/32994"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Valeo</strong></td>
 <td>Executive / Sr. Executive - Electrical Maintenance Engineer</td>
 <td>Pune</td>
 <td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Executive---Sr-Executive--Electrical-Maintenance-Engineer-_REQ2025061965-1/?source=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - System (AI-based requirement extraction)</td>
-<td>Chennai</td>
-<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---System_REQ2026079045/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -245,13 +217,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Application Engineer - Process Diagnostics &amp; Control (New College Grad)</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://jobs.appliedmaterials.com/job/-/-/95/100654815152?p_sid=0Ug8Olb&amp;p_uid=2kCy7rzbrS&amp;soure=rd_linkedin_pj&amp;ss=paid&amp;utm_campaign=engineering_india&amp;utm_content=pj_board&amp;utm_medium=jobad&amp;utm_source=linkedin+slotted"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Dentsu Global Services</strong></td>
-<td>Associate Software Engineer</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -364,13 +329,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern - System Test / QA (1-year internship)</td>
 <td>Noida</td>
 <td align="center"><a href="https://careers.irdeto.com/job/Noida-Intern-System-Test/1438572400/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Ansira</strong></td>
-<td>DevOps Engineer I</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://ansira.wd1.myworkdayjobs.com/Ansira_Careers/job/India-Bengaluru/DevOps-Engineer-I_R1020-1?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -856,7 +814,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (62)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (68)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -871,6 +829,48 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>JLL</strong></td>
+<td>Specialist, Engineering Services 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Specialist--Engineering-Services_REQ537566"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Accelya</strong></td>
+<td>Engineer I - Software Development 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://accelya.wd103.myworkdayjobs.com/Careers/job/India-Mumbai/Engineer-I---Software-Development_JR102590?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>HARMAN</strong></td>
+<td>Students / Trainees - Embedded / Android Software Intern 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobsearch.harman.com/en_US/careers/JobDetail/Students-Trainees/32994"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Valeo</strong></td>
+<td>Intern - System (AI-based requirement extraction) 🔒</td>
+<td>Chennai</td>
+<td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---System_REQ2026079045/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Dentsu Global Services</strong></td>
+<td>Associate Software Engineer 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Ansira</strong></td>
+<td>DevOps Engineer I 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://ansira.wd1.myworkdayjobs.com/Ansira_Careers/job/India-Bengaluru/DevOps-Engineer-I_R1020-1?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
 <tr>
 <td><strong>ixigo</strong></td>
 <td>Full-Stack Intern 🔒<br><small>Python, Node.js, Postgres, Flask, LLM, Kubernetes, FastAPI, Data, Visualization, Data Engineering, Docker, TypeScript, AWS, Redis, Observability</small></td>
