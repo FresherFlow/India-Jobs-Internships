@@ -3823,6 +3823,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_ax6ow0",
+      "title": "IT Executive - Patna",
+      "company": "DeHaat",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Patna",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/it-executive-patna-at-dehaat-4477572568",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T00:03:28.573Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
