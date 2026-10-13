@@ -3841,6 +3841,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_9w31e5",
+      "title": "Business Systems Analyst, Anaplan",
+      "company": "NVIDIA",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote - India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://nvidia.eightfold.ai/careers/job/893397970293",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T00:04:00.674Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
