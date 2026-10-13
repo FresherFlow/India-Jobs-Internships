@@ -372,7 +372,7 @@
       "company": "Icertis",
       "title": "Intern, Development",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Pune"
       ],
@@ -1032,7 +1032,7 @@
       "id": "job_9j4cvj",
       "slug": "ai-engineer-intern-product-support-at-zycus-9j4cvj",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "AI Engineer Intern- Product Support",
       "company": "Zycus",
       "companyWebsite": "https://zycus.com",
@@ -1265,7 +1265,7 @@
       "id": "job_wbafic",
       "slug": "ai-interns-at-zycus-wbafic",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "AI Interns",
       "company": "Zycus",
       "companyWebsite": "https://zycus.com",
@@ -3066,7 +3066,7 @@
       "title": "React JS Intern",
       "company": "VE3",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Pune"
       ],
@@ -3521,7 +3521,7 @@
       "title": "Spend Data Analyst (Intern)",
       "company": "Zycus",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Mumbai"
       ],
@@ -3704,7 +3704,7 @@
       "title": "Project Engineer",
       "company": "JLL",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Hyderabad"
       ],

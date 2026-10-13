@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-67-2E7D32) ![Internships](https://img.shields.io/badge/Internships-48-E86A1C) ![Updated](https://img.shields.io/badge/Updated-13_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-66-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-13_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -80,13 +80,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>JLL</strong></td>
-<td>Project Engineer</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Project-Engineer_REQ537571"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Allison Transmission</strong></td>
 <td>Graduate Engineer Trainee - New Part Development</td>
 <td>Chandgad</td>
@@ -133,13 +126,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Full Stack Software Engineer Intern (path to full-time)</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://selah.zohorecruit.in/jobs/Careers/213761000001539342/Full-Stack-Software-Engineer-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Zycus</strong></td>
-<td>Spend Data Analyst (Intern)</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://zycus.talismatic.com/jobs/J2OBNT4ZF"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -287,13 +273,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Web Developer Intern (2 vacancies)</td>
 <td>Thiruvananthapuram</td>
 <td align="center"><a href="https://kran.co.in/jobOverview?val=148"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>VE3</strong></td>
-<td>React JS Intern</td>
-<td>Pune</td>
-<td align="center"><a href="https://ve3.zohorecruit.in/jobs/Careers/80399000019316858/React-JS-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -570,13 +549,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Zycus</strong></td>
-<td>AI Interns</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://zycus.talismatic.com/jobs/JXFPUQYF7"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Aereo</strong></td>
 <td>Intern - Product Management</td>
 <td>Bengaluru</td>
@@ -609,13 +581,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Business Development Intern</td>
 <td>Remote</td>
 <td align="center"><a href="https://aggroso.com/careers/business-development-intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Zycus</strong></td>
-<td>AI Engineer Intern- Product Support</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://zycus.talismatic.com/jobs/J66V3FIXH"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -766,13 +731,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Icertis</strong></td>
-<td>Intern, Development</td>
-<td>Pune</td>
-<td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7561"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>GE HealthCare</strong></td>
 <td>Research Intern - AI</td>
 <td>Bengaluru</td>
@@ -835,7 +793,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (68)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (74)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -852,6 +810,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <tbody>
 <tr>
 <td><strong>JLL</strong></td>
+<td>Project Engineer 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Project-Engineer_REQ537571"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Specialist, Engineering Services 🔒</td>
 <td>Hyderabad</td>
 <td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Specialist--Engineering-Services_REQ537566"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
@@ -862,6 +827,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Engineer I - Software Development 🔒</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://accelya.wd103.myworkdayjobs.com/Careers/job/India-Mumbai/Engineer-I---Software-Development_JR102590?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Zycus</strong></td>
+<td>Spend Data Analyst (Intern) 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://zycus.talismatic.com/jobs/J2OBNT4ZF"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -883,6 +855,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate Software Engineer 🔒</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>VE3</strong></td>
+<td>React JS Intern 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://ve3.zohorecruit.in/jobs/Careers/80399000019316858/React-JS-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1166,6 +1145,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
+<td><strong>Zycus</strong></td>
+<td>AI Interns 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://zycus.talismatic.com/jobs/JXFPUQYF7"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
 <td><strong>Asahi India Glass</strong></td>
 <td>Graduate Engineer Trainee (GET) 🔒</td>
 <td>Patan</td>
@@ -1177,6 +1163,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern, SDET 🔒</td>
 <td>Pune</td>
 <td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7563"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Zycus</strong></td>
+<td>AI Engineer Intern- Product Support 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://zycus.talismatic.com/jobs/J66V3FIXH"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -1247,6 +1240,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Software Engineer Intern 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://careers.overtminds.com/jobs/Careers/41152000010397485/Software-Engineer-Intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Icertis</strong></td>
+<td>Intern, Development 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7561"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
