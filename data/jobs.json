@@ -3894,6 +3894,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_al82no",
+      "title": "Intern - Content Moderation (Hindi & Punjabi)",
+      "company": "ShareChat",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bangalore"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://sharechat.mynexthire.com/employer/jobs?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMjQ3OCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ==",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T22:12:55.687Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
