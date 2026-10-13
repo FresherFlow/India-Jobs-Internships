@@ -3877,6 +3877,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_dvqq45",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "company": "PostEra",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T22:12:24.816Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
