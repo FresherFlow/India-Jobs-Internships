@@ -3858,6 +3858,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_3hfhzh",
+      "title": "SDET II",
+      "company": "Brightmoney",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bangalore Division",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.kula.ai/brightmoney/62167",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T13:22:14.579Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
