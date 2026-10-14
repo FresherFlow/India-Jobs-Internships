@@ -3930,6 +3930,26 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_v1cjh3",
+      "title": "Product (AM) - Source-to-Pay (O2C)",
+      "company": "Purplle",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Vikhroli",
+        "Mumbai",
+        "Maharashtra",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://purplle.turbohire.co/job/publicjobs/ADWCTb8OFF1coU2ef7uBjKRc1qDwd4BpRGlxOKQ8NxP6j4P0JXD2gRwVGtgbttPG",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T21:13:31.547Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
