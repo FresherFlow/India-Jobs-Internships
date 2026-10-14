@@ -3911,6 +3911,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_fhona7",
+      "title": "Android Engineer Intern - 6 months",
+      "company": "Carousell Group",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "KA",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.smartrecruiters.com/CarousellGroup/744000155411579-android-engineer-intern-6-months",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:01:40.269Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
