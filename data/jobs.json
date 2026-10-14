@@ -3950,6 +3950,26 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_6qilvg",
+      "title": "Intern - Talent Acquistion (CPG)",
+      "company": "Purplle",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Vikhroli",
+        "Mumbai",
+        "Maharashtra",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://purplle.turbohire.co/job/publicjobs/9nemm5KKTxJ%2FKDm7BSc_muC35rvBN7pPZjKcQ4zgzs0qdoGBHYXWTcaBvcVW9Jb1",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T21:14:01.259Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
