@@ -4024,6 +4024,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_nj050t",
+      "title": "Junior Motion Designer",
+      "company": "Brightmoney",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bangalore Division",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.kula.ai/brightmoney/62677",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T16:09:15.027Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
