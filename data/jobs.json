@@ -4043,6 +4043,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_hgf6v8",
+      "title": "ADMISSION CONSELOR-WFH",
+      "company": "apna",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.workable.com/j/E47E4A2E42",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T20:51:34.755Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
