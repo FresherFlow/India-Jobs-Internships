@@ -3970,6 +3970,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_k5lhp0",
+      "title": "Customer Support Specialist",
+      "company": "Ultimate Marketing",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T02:46:55.901Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
