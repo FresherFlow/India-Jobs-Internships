@@ -3987,6 +3987,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_dgk1dj",
+      "title": "Product Management Intern",
+      "company": "DeHaat",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurugram",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/product-management-intern-at-dehaat-4478433477",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T10:44:12.588Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
