@@ -4005,6 +4005,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_vfztey",
+      "title": "Solution Area Specialists - Security",
+      "company": "Microsoft",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.careers.microsoft.com/careers/job/1970393557002228",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T10:45:03.638Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
