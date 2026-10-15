@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-70-2E7D32) ![Internships](https://img.shields.io/badge/Internships-46-E86A1C) ![Updated](https://img.shields.io/badge/Updated-15_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-67-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-15_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -91,13 +91,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>RCM Associate (Charge Posting)</td>
 <td>India; India (Remote)</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/amperos/ff6ac54a-1cdd-4800-858d-c291699c1a13?utm_source=jobs.bvp.com"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>12 Oct 26</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td>CPU Compiler Intern - 2027</td>
-<td>India<br>Pune</td>
-<td align="center"><a href="https://nvidia.eightfold.ai/careers/job/893398107737"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>12 Oct 26</td>
 </tr>
 <tr>
@@ -245,20 +238,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate D&amp;T Analyst - AI &amp; Automation</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-D-T-Analyst---AI---Automation_10128341?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Citi</strong></td>
-<td>Ops Sup Analyst 1 (entry level)</td>
-<td>Chennai</td>
-<td align="center"><a href="https://jobs.citi.com/job/-/-/287/101620686416?source=APPLICANT_SOURCE-3-354&amp;utm_medium=job_posting&amp;utm_campaign=apac_experienced&amp;utm_content=social_media&amp;utm_term=393693070&amp;ss=paid&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Barclays</strong></td>
-<td>Data Analyst - Global Payment Services</td>
-<td>Pune</td>
-<td align="center"><a href="https://search.jobs.barclays/job/-/-/13015/100161893152?src=JB-12860"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -585,13 +564,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 <tr>
 <td><strong>Emerson</strong></td>
-<td>Software Test Engineer</td>
-<td>Pune</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008147?keyword=engineer&amp;location=India&amp;locationId=300000000228786&amp;locationLevel=country&amp;mode=location"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Supply Chain Analyst 1</td>
 <td>Maharashtra</td>
 <td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006750?keyword=Supply+Chain+Analyst+1&amp;mode=location"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
@@ -842,7 +814,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (74)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (78)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -857,6 +829,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td>CPU Compiler Intern - 2027 🔒</td>
+<td>India<br>Pune</td>
+<td align="center"><a href="https://nvidia.eightfold.ai/careers/job/893398107737"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>12 Oct 26</td>
+</tr>
 <tr>
 <td><strong>JLL</strong></td>
 <td>Project Engineer 🔒</td>
@@ -897,6 +876,20 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern - System (AI-based requirement extraction) 🔒</td>
 <td>Chennai</td>
 <td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---System_REQ2026079045/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Citi</strong></td>
+<td>Ops Sup Analyst 1 (entry level) 🔒</td>
+<td>Chennai</td>
+<td align="center"><a href="https://jobs.citi.com/job/-/-/287/101620686416?source=APPLICANT_SOURCE-3-354&amp;utm_medium=job_posting&amp;utm_campaign=apac_experienced&amp;utm_content=social_media&amp;utm_term=393693070&amp;ss=paid&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Barclays</strong></td>
+<td>Data Analyst - Global Payment Services 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://search.jobs.barclays/job/-/-/13015/100161893152?src=JB-12860"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1191,6 +1184,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Analyst - Tech Consulting 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462913881/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Emerson</strong></td>
+<td>Software Test Engineer 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008147?keyword=engineer&amp;location=India&amp;locationId=300000000228786&amp;locationLevel=country&amp;mode=location"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>

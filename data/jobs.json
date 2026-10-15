@@ -1319,7 +1319,7 @@
       "id": "job_oi20i3",
       "slug": "software-test-engineer-at-emerson-oi20i3",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Software Test Engineer",
       "company": "Emerson",
       "companyWebsite": "https://emerson.com",
@@ -3267,7 +3267,7 @@
       "title": "Data Analyst - Global Payment Services",
       "company": "Barclays",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Pune"
       ],
@@ -3285,7 +3285,7 @@
       "title": "Ops Sup Analyst 1 (entry level)",
       "company": "Citi",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Chennai"
       ],
@@ -3794,7 +3794,7 @@
       "title": "CPU Compiler Intern - 2027",
       "company": "NVIDIA",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "India",
         "Pune"
