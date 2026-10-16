@@ -4060,6 +4060,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_a1goco",
+      "title": "Content Writer Intern",
+      "company": "apna",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.workable.com/j/6988EFB1A7",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T10:30:46.316Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
