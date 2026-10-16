@@ -921,7 +921,7 @@
       "id": "job_z9zny9",
       "slug": "graduate-engineer-trainee-at-ge-healthcare-z9zny9",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Graduate Engineer Trainee",
       "company": "GE HealthCare",
       "companyWebsite": "https://gehealthcare.com",
@@ -1086,7 +1086,7 @@
       "id": "job_6vdp00",
       "slug": "ai-product-engineer-at-troopod-6vdp00",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "AI Product Engineer",
       "company": "Troopod",
       "companyWebsite": "",
@@ -2887,7 +2887,7 @@
       "title": "Associate Engineer - Engineering Change Management",
       "company": "Flex",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Chennai"
       ],
@@ -3449,7 +3449,7 @@
       "title": "Apprentice - IT Service Desk / Network Support",
       "company": "SITA",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Delhi"
       ],
@@ -3630,7 +3630,7 @@
       "title": "Graduate Consultant - Geoenvironmental & Geotechnical (UK Operations)",
       "company": "Arcadis",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru",
         "Mumbai",
@@ -3723,7 +3723,7 @@
       "title": "Apprentice Technician - IT Hardware / Network Support",
       "company": "SITA",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Vadodara"
       ],
@@ -3847,7 +3847,7 @@
       "title": "Business Systems Analyst, Anaplan",
       "company": "NVIDIA",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Remote - India"
       ],
