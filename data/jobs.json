@@ -4130,6 +4130,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_k642sd",
+      "title": "Sales Coordinator",
+      "company": "Drip Capital",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai",
+        "Maharashtra",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://dripcapital.hire.trakstar.com/jobs/fk0zl5m/",
+      "dateAdded": "2026-10-17",
+      "addedAt": "2026-10-17T02:35:27.133Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
