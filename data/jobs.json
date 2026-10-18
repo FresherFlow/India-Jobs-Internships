@@ -4167,6 +4167,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_skfob8",
+      "title": "Junior Consultant",
+      "company": "Cloudnine Group of Hospitals",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Greater Bengaluru Area",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/junior-consultant-at-cloudnine-group-of-hospitals-4478237019",
+      "dateAdded": "2026-10-18",
+      "addedAt": "2026-10-18T19:59:14.936Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
