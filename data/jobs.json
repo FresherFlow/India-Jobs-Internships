@@ -4149,6 +4149,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_pavwh4",
+      "title": "Business Development Associate (BDA)",
+      "company": "K12 Techno Services",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/business-development-associate-bda-at-k12-techno-services-pvt-ltd-4478212206",
+      "dateAdded": "2026-10-18",
+      "addedAt": "2026-10-18T15:15:15.735Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
