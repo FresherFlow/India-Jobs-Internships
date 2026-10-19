@@ -4203,6 +4203,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_5noa0u",
+      "title": "Evidence (YC S21) Is Hiring Software Engineers",
+      "company": "Evidence",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://evidence.dev/jobs",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T18:11:07.240Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
