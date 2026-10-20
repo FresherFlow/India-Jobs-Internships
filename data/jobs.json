@@ -4238,6 +4238,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_60z7o5",
+      "title": "Digital Solution Area Specialists IC4",
+      "company": "Microsoft",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Haryana",
+        "Gurgaon"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.careers.microsoft.com/careers/job/1970393557043252",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T10:49:32.236Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
