@@ -4257,6 +4257,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_uf0v6p",
+      "title": "Hazel (YC W24) Is Hiring",
+      "company": "Hazel",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T16:12:15.181Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
