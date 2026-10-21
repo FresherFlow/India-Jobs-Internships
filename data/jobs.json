@@ -4308,6 +4308,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_bjm4o3",
+      "title": "Data Engineer I",
+      "company": "Circles.Life",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://circles.wd103.myworkdayjobs.com/Circles/job/India/Data-Engineer-I_R-100507",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T21:08:37.102Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
