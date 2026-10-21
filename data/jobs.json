@@ -4274,6 +4274,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_j9q79t",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "company": "9 Mothers",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://9mothers.com/careers",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T16:28:09.146Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
