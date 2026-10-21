@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-72-2E7D32) ![Internships](https://img.shields.io/badge/Internships-47-E86A1C) ![Updated](https://img.shields.io/badge/Updated-20_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-70-2E7D32) ![Internships](https://img.shields.io/badge/Internships-47-E86A1C) ![Updated](https://img.shields.io/badge/Updated-21_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -71,13 +71,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Bengaluru<br>IN</td>
 <td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-bda-at-k12-techno-services-pvt-ltd-4478212206"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>18 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Drip Capital</strong></td>
-<td>Sales Coordinator</td>
-<td>Mumbai<br>Maharashtra<br>India</td>
-<td align="center"><a href="https://dripcapital.hire.trakstar.com/jobs/fk0zl5m/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>17 Oct 26</td>
 </tr>
 <tr>
 <td><strong>Flexport</strong></td>
@@ -315,13 +308,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate D&amp;T Analyst - AI &amp; Automation</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-D-T-Analyst---AI---Automation_10128341?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Applied Materials</strong></td>
-<td>Application Engineer - Process Diagnostics &amp; Control (New College Grad)</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://jobs.appliedmaterials.com/job/-/-/95/100654815152?p_sid=0Ug8Olb&amp;p_uid=2kCy7rzbrS&amp;soure=rd_linkedin_pj&amp;ss=paid&amp;utm_campaign=engineering_india&amp;utm_content=pj_board&amp;utm_medium=jobad&amp;utm_source=linkedin+slotted"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -863,7 +849,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (87)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (89)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -878,6 +864,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Drip Capital</strong></td>
+<td>Sales Coordinator 🔒</td>
+<td>Mumbai<br>Maharashtra<br>India</td>
+<td align="center"><a href="https://dripcapital.hire.trakstar.com/jobs/fk0zl5m/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>17 Oct 26</td>
+</tr>
 <tr>
 <td><strong>Circles.Life</strong></td>
 <td>Intern, Data Analytics and Visualizations 🔒</td>
@@ -981,6 +974,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Software Engineer - P&amp;E IT CPD / COGMD Applications 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://careers.caterpillar.com/en/jobs/r0000373272/software-engineer/?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td>Application Engineer - Process Diagnostics &amp; Control (New College Grad) 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://jobs.appliedmaterials.com/job/-/-/95/100654815152?p_sid=0Ug8Olb&amp;p_uid=2kCy7rzbrS&amp;soure=rd_linkedin_pj&amp;ss=paid&amp;utm_campaign=engineering_india&amp;utm_content=pj_board&amp;utm_medium=jobad&amp;utm_source=linkedin+slotted"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
