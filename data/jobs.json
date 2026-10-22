@@ -1743,7 +1743,7 @@
       "id": "job_rq9wx7",
       "slug": "software-engineer-i-at-lg-ad-solutions-rq9wx7",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Software Engineer I",
       "company": "LG Ad Solutions",
       "companyWebsite": "",
@@ -2376,7 +2376,7 @@
       "title": "International Research Intern",
       "company": "Brainwonders",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Delhi",
         "Mumbai",
@@ -2923,7 +2923,7 @@
       "title": "Intern - System Test / QA (1-year internship)",
       "company": "Irdeto",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Noida"
       ],

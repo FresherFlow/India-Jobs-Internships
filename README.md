@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-73-2E7D32) ![Internships](https://img.shields.io/badge/Internships-47-E86A1C) ![Updated](https://img.shields.io/badge/Updated-21_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-72-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-22_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -430,13 +430,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>Irdeto</strong></td>
-<td>Intern - System Test / QA (1-year internship)</td>
-<td>Noida</td>
-<td align="center"><a href="https://careers.irdeto.com/job/Noida-Intern-System-Test/1438572400/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Honeywell</strong></td>
 <td>Systems Engr I</td>
 <td>Chennai</td>
@@ -476,13 +469,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Graduate Engineer Trainee</td>
 <td>Gurugram</td>
 <td align="center"><a href="https://careers.wipro.com/job/Gurugram-Graduate-Engineer-Trainee-IND-122016/199868-en_US/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Brainwonders</strong></td>
-<td>International Research Intern</td>
-<td>Delhi<br>Mumbai<br>Bengaluru<br>Kolkata<br>Chennai</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/brainwonders/744000148431712"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>10 Sep 26</td>
 </tr>
 <tr>
@@ -560,13 +546,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern, Human Resources</td>
 <td>Gujarat</td>
 <td align="center"><a href="https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Avient/job/40001294"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>LG Ad Solutions</strong></td>
-<td>Software Engineer I</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.linkedin.com/jobs/view/software-engineer-i-at-lg-ad-solutions-4458719155/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -870,7 +849,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (89)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (92)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1016,6 +995,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>React JS Intern 🔒</td>
 <td>Pune</td>
 <td align="center"><a href="https://ve3.zohorecruit.in/jobs/Careers/80399000019316858/React-JS-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Irdeto</strong></td>
+<td>Intern - System Test / QA (1-year internship) 🔒</td>
+<td>Noida</td>
+<td align="center"><a href="https://careers.irdeto.com/job/Noida-Intern-System-Test/1438572400/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1180,6 +1166,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>10 Sep 26</td>
 </tr>
 <tr>
+<td><strong>Brainwonders</strong></td>
+<td>International Research Intern 🔒</td>
+<td>Delhi<br>Mumbai<br>Bengaluru<br>Kolkata<br>Chennai</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/brainwonders/744000148431712"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Sep 26</td>
+</tr>
+<tr>
 <td><strong>ALS</strong></td>
 <td>Junior IT support engineer 🔒</td>
 <td>Bengaluru</td>
@@ -1268,6 +1261,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Data Analyst 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://www.capgemini.com/in-en/jobs/538767-en_GB+sap_btp"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>LG Ad Solutions</strong></td>
+<td>Software Engineer I 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.linkedin.com/jobs/view/software-engineer-i-at-lg-ad-solutions-4458719155/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
