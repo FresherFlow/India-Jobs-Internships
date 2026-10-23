@@ -4343,6 +4343,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_hm1icf",
+      "title": "Animator Intern",
+      "company": "Bybit",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Anywhere in the World"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://weworkremotely.com/remote-jobs/bybit-animator-intern",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:53:49.313Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
