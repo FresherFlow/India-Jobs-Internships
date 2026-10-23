@@ -4360,6 +4360,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_5ma13i",
+      "title": "Security Research INTERN",
+      "company": "Microsoft",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Multiple Locations"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.careers.microsoft.com/careers/job/1970393557043380",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:54:19.239Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
