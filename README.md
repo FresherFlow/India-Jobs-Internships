@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-73-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-22_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-72-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-23_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -836,13 +836,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Pearson</strong></td>
-<td>Apprentice, Product Program Management</td>
-<td>Noida</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25348"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Google</strong></td>
 <td>Application Engineering Intern (Summer 2027)<br><small>Batch of 2027</small></td>
 <td>Bengaluru</td>
@@ -856,7 +849,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (92)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (93)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1485,6 +1478,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Apprentice (Engineering) 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://itron.wd5.myworkdayjobs.com/en-GB/Itron/job/India-Bangalore/Apprentice_JR102245-1"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Pearson</strong></td>
+<td>Apprentice, Product Program Management 🔒</td>
+<td>Noida</td>
+<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25348"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
