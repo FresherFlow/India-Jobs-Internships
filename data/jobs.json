@@ -4396,6 +4396,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_ifpuo8",
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Anywhere"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+      "dateAdded": "2026-10-24",
+      "addedAt": "2026-10-24T10:08:11.284Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
