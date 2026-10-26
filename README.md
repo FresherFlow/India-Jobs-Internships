@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-73-2E7D32) ![Internships](https://img.shields.io/badge/Internships-47-E86A1C) ![Updated](https://img.shields.io/badge/Updated-25_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-72-2E7D32) ![Internships](https://img.shields.io/badge/Internships-47-E86A1C) ![Updated](https://img.shields.io/badge/Updated-26_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -84,13 +84,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Digital Solution Area Specialists IC4</td>
 <td>India<br>Haryana<br>Gurgaon</td>
 <td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557043252"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>20 Oct 26</td>
-</tr>
-<tr>
-<td><strong>K12 Techno Services</strong></td>
-<td>Business Development Associate</td>
-<td>Pune City<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4478276674"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>20 Oct 26</td>
 </tr>
 <tr>
@@ -870,7 +863,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (94)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (95)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -891,6 +884,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>India</td>
 <td align="center"><a href="https://circles.wd103.myworkdayjobs.com/Circles/job/India/Data-Engineer-I_R-100507"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>21 Oct 26</td>
+</tr>
+<tr>
+<td><strong>K12 Techno Services</strong></td>
+<td>Business Development Associate 🔒</td>
+<td>Pune City<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4478276674"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>20 Oct 26</td>
 </tr>
 <tr>
 <td><strong>Drip Capital</strong></td>
