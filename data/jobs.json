@@ -4413,6 +4413,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_obqu2j",
+      "title": "Executive, Finance",
+      "company": "Razorpay",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4746959005",
+      "dateAdded": "2026-10-26",
+      "addedAt": "2026-10-26T12:06:19.507Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
