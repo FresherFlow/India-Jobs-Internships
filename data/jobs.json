@@ -4430,6 +4430,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_vh8hrs",
+      "title": "Associate Business Analyst",
+      "company": "Razorpay",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736957005",
+      "dateAdded": "2026-10-26",
+      "addedAt": "2026-10-26T22:12:42.049Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
