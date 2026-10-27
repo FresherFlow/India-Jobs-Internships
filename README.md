@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-74-2E7D32) ![Internships](https://img.shields.io/badge/Internships-47-E86A1C) ![Updated](https://img.shields.io/badge/Updated-26_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-72-2E7D32) ![Internships](https://img.shields.io/badge/Internships-46-E86A1C) ![Updated](https://img.shields.io/badge/Updated-27_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -346,13 +346,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>Micron Technology</strong></td>
-<td>Apply Now! India Campus Team (general talent application)</td>
-<td>Hyderabad<br>Bengaluru</td>
-<td align="center"><a href="https://careers.micron.com/careers/job/44838515?utm_source=linkedin&amp;domain=micron.com&amp;src=LinkedInJobs"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Infineon Technologies</strong></td>
 <td>Junior Software Developer (Contract)</td>
 <td>Bengaluru</td>
@@ -484,13 +477,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Vadodara<br>India</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/Konecranes/744000148930289"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>12 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Deloitte USI</strong></td>
-<td>Service Associate - Global Data Management (Data Validation)</td>
-<td>Hyderabad</td>
-<td align="center"><a href="https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH-FY27-Enabling-Areas-GFS-DMS-Global-Data-Management-Data-validation-Service-Associate-Associate-Analyst/365722"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Sep 26</td>
 </tr>
 <tr>
 <td><strong>Spyne</strong></td>
@@ -637,13 +623,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Full Stack Developer Internship</td>
 <td>Delhi</td>
 <td align="center"><a href="https://mantra.care/careers/full-stack-developer-intern-delhi/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>Teal India</strong></td>
-<td>Intern - Data Engineer<br><small>Python, Machine Learning, SQL, AWS</small></td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://wellfound.com/jobs/4246036-intern-data-engineer"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -877,7 +856,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (95)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (98)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -995,6 +974,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern - System (AI-based requirement extraction) 🔒</td>
 <td>Chennai</td>
 <td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---System_REQ2026079045/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Micron Technology</strong></td>
+<td>Apply Now! India Campus Team (general talent application) 🔒</td>
+<td>Hyderabad<br>Bengaluru</td>
+<td align="center"><a href="https://careers.micron.com/careers/job/44838515?utm_source=linkedin&amp;domain=micron.com&amp;src=LinkedInJobs"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1128,6 +1114,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Business Analytics Analyst 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://jobs.citi.com/job/bengaluru/business-analytics-analyst/287/100430267664"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Deloitte USI</strong></td>
+<td>Service Associate - Global Data Management (Data Validation) 🔒</td>
+<td>Hyderabad</td>
+<td align="center"><a href="https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH-FY27-Enabling-Areas-GFS-DMS-Global-Data-Management-Data-validation-Service-Associate-Associate-Analyst/365722"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Sep 26</td>
 </tr>
 <tr>
@@ -1345,6 +1338,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Analyst - Tech Consulting 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://www.linkedin.com/jobs/view/4462913881/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Teal India</strong></td>
+<td>Intern - Data Engineer 🔒<br><small>Python, Machine Learning, SQL, AWS</small></td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://wellfound.com/jobs/4246036-intern-data-engineer"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
