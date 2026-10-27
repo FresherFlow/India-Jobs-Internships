@@ -4447,6 +4447,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_cg72sh",
+      "title": "K-12 Math Teacher",
+      "company": "Cuemath",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/k-12-math-teacher-at-cuemath-4483292766",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T17:15:18.288Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
