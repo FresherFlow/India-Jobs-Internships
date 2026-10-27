@@ -4481,6 +4481,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_j28kw",
+      "title": "Executive – Supply Chain (Online distibution)",
+      "company": "Purplle",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai",
+        "Maharashtra",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://purplle.turbohire.co/job/publicjobs/VKW3HnbpGAmxsyBQE2oEL9J0_Iupbf%2FNfxD6XJUeQgtegDnnD4JTIjZGMJv1amek",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T21:45:01.524Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
