@@ -4534,6 +4534,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_ckifzc",
+      "title": "Growth Generalist - Arctic Engine",
+      "company": "apna",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.workable.com/j/6819EB4352",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T22:08:42.527Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
