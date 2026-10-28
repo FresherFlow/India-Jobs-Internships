@@ -4517,6 +4517,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_80b642",
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "company": "Nango",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://nango.dev/careers",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T22:08:07.691Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
