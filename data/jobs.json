@@ -4553,6 +4553,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_z96o7w",
+      "title": "SAP SD Business Systems Analyst",
+      "company": "NVIDIA",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Pune"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://nvidia.eightfold.ai/careers/job/893398429425",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T03:56:00.565Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
