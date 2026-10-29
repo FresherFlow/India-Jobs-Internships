@@ -4571,6 +4571,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_8873ze",
+      "title": "Associate, SME Sales",
+      "company": "Razorpay",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T22:20:24.004Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
