@@ -4588,6 +4588,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_oplz5r",
+      "title": "Branch Operation Executive",
+      "company": "India Shelter Finance",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India>MADHYA PRADESH>Mandsaur>Mandsaur"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://isfcareer.peoplestrong.com/api/cp/rest/altone/cp/job/HIN_BOE_1909849/v2?part=basic%2Corganisational%2Cdescriprion%2Cworkflow%2Cskill%2Cqualification%2Ccertification%2Clanguage%2Capplied&isReqId=false",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T22:20:55.168Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
