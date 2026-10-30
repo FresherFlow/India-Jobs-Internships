@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-79-2E7D32) ![Internships](https://img.shields.io/badge/Internships-47-E86A1C) ![Updated](https://img.shields.io/badge/Updated-29_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-78-2E7D32) ![Internships](https://img.shields.io/badge/Internships-46-E86A1C) ![Updated](https://img.shields.io/badge/Updated-30_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -262,13 +262,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>14 Oct 26</td>
 </tr>
 <tr>
-<td><strong>ShareChat</strong></td>
-<td>Intern - Content Moderation (Hindi &amp; Punjabi)</td>
-<td>Bangalore</td>
-<td align="center"><a href="https://sharechat.mynexthire.com/employer/jobs?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMjQ3OCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ=="><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>13 Oct 26</td>
-</tr>
-<tr>
 <td><strong>PostEra</strong></td>
 <td>PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery</td>
 <td>Remote</td>
@@ -420,13 +413,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Android Developer Trainee</td>
 <td>Noida</td>
 <td align="center"><a href="https://enveu.keka.com/careers/jobdetails/164903?source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>KONE</strong></td>
-<td>Engineer - Layout</td>
-<td>Chennai</td>
-<td align="center"><a href="https://kone.wd3.myworkdayjobs.com/Careers/job/Chennai-ITECKBS/Engineer---Layout_R0665134/?source=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -912,7 +898,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (99)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (101)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -961,6 +947,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>India</td>
 <td align="center"><a href="https://circles.wd103.myworkdayjobs.com/Circles/job/India/Intern--Data-Analytics-and-Visualizations_R-100491"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>16 Oct 26</td>
+</tr>
+<tr>
+<td><strong>ShareChat</strong></td>
+<td>Intern - Content Moderation (Hindi &amp; Punjabi) 🔒</td>
+<td>Bangalore</td>
+<td align="center"><a href="https://sharechat.mynexthire.com/employer/jobs?p=eyJwYWdlVHlwZSI6ICJqZCIsICJjdlNvdXJjZSI6ICJjYXJlZXJzIiwgInJlcUlkIjogMjQ3OCwgInJlcXVlc3RlciI6IHsiaWQiOiAiIiwgImNvZGUiOiAiIiwgIm5hbWUiOiAiIn0sICJwYWdlIjogImNhcmVlcnMiLCAiYnVmaWx0ZXIiOiAtMSwgImN1c3RvbUZpZWxkcyI6IHt9fQ=="><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>13 Oct 26</td>
 </tr>
 <tr>
 <td><strong>NVIDIA</strong></td>
@@ -1079,6 +1072,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate Software Engineer 🔒</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/DGS-India---Mumbai---Thane-Ashar-IT-Park/Associate-Software-Engineer_R1132554?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>KONE</strong></td>
+<td>Engineer - Layout 🔒</td>
+<td>Chennai</td>
+<td align="center"><a href="https://kone.wd3.myworkdayjobs.com/Careers/job/Chennai-ITECKBS/Engineer---Layout_R0665134/?source=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
