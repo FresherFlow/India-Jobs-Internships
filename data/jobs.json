@@ -4622,6 +4622,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_v5xn2q",
+      "title": "BDR – Health & Wellness",
+      "company": "Plum HQ",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.kula.ai/plumhq/64745",
+      "dateAdded": "2026-10-31",
+      "addedAt": "2026-10-31T03:41:34.715Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
