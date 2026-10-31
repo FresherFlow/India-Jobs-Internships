@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-79-2E7D32) ![Internships](https://img.shields.io/badge/Internships-46-E86A1C) ![Updated](https://img.shields.io/badge/Updated-30_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-75-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-31_Oct_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -311,24 +311,10 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>Tempsens Instruments</strong></td>
-<td>Jr Engineer (Quality)</td>
-<td>Udaipur</td>
-<td align="center"><a href="https://career.tempsens.com/jobs/Careers/73610000009259240/Jr-Engineer-Quality?source=CareerSite"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Allison Transmission</strong></td>
 <td>Graduate Engineer Trainee - New Part Development</td>
 <td>Chandgad</td>
 <td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/748-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Liebherr</strong></td>
-<td>Trainee - Design (Tower Crane)</td>
-<td>Pune</td>
-<td align="center"><a href="https://careers.liebherr.com/job/Pune-Trainee-Design-%2528Tower-Crane%2529/1417679533/?feedId=335501&amp;jobPipeline=LinkedIn&amp;utm_source=LinkedinJobPostings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -511,13 +497,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Systems Engr I</td>
 <td>Chennai</td>
 <td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157506?utm_medium=jobboard&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Texas Instruments</strong></td>
-<td>Career Accelerator Program - Digital IC Design Engineer</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017396?utm_medium=jobboard&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -836,13 +815,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Tower Research Capital</strong></td>
-<td>AI/ML Intern<br><small>Batch of 2027</small></td>
-<td>Gurugram</td>
-<td align="center"><a href="https://tower-research.com/open-positions/?gh_jid=8143756"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>SuperKalam</strong></td>
 <td>Mobile Engineer Intern (React Native)<br><small>React Native</small></td>
 <td>Bengaluru</td>
@@ -868,13 +840,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Future Talent Pipeline</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://careers.gf.com/careers/job/563980770500596"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
-<td><strong>EY</strong></td>
-<td>Associate Consultant - Business Consulting (Risk)</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://careers.ey.com/ey/job/Mumbai-Associate-Consultant-Business-Consulting-Risk-National-CNS-Risk-Risk-Management-Mumbai-MH-400028/1430050633/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
@@ -905,7 +870,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (101)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (106)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -977,6 +942,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>12 Oct 26</td>
 </tr>
 <tr>
+<td><strong>Tempsens Instruments</strong></td>
+<td>Jr Engineer (Quality) 🔒</td>
+<td>Udaipur</td>
+<td align="center"><a href="https://career.tempsens.com/jobs/Careers/73610000009259240/Jr-Engineer-Quality?source=CareerSite"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
 <td><strong>SITA</strong></td>
 <td>Apprentice Technician - IT Hardware / Network Support 🔒</td>
 <td>Vadodara</td>
@@ -995,6 +967,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Specialist, Engineering Services 🔒</td>
 <td>Hyderabad</td>
 <td align="center"><a href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hyderabad-TS/Specialist--Engineering-Services_REQ537566"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Liebherr</strong></td>
+<td>Trainee - Design (Tower Crane) 🔒</td>
+<td>Pune</td>
+<td align="center"><a href="https://careers.liebherr.com/job/Pune-Trainee-Design-%2528Tower-Crane%2529/1417679533/?feedId=335501&amp;jobPipeline=LinkedIn&amp;utm_source=LinkedinJobPostings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1114,6 +1093,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate Engineer - Engineering Change Management 🔒</td>
 <td>Chennai</td>
 <td align="center"><a href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/India-Chennai/Associate-Engineer---Engineering-Change-Management_WD229483?source=LinkedIn_Slots"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Texas Instruments</strong></td>
+<td>Career Accelerator Program - Digital IC Design Engineer 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017396?utm_medium=jobboard&amp;utm_source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1537,6 +1523,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
+<td><strong>Tower Research Capital</strong></td>
+<td>AI/ML Intern 🔒<br><small>Batch of 2027</small></td>
+<td>Gurugram</td>
+<td align="center"><a href="https://tower-research.com/open-positions/?gh_jid=8143756"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
 <td><strong>Icertis</strong></td>
 <td>Intern, Development 🔒</td>
 <td>Pune</td>
@@ -1576,6 +1569,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate - Automation 🔒</td>
 <td>Gurugram</td>
 <td align="center"><a href="https://neolytix.applytojob.com/apply/cpTwcChJ77/Associate-Automation"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>EY</strong></td>
+<td>Associate Consultant - Business Consulting (Risk) 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://careers.ey.com/ey/job/Mumbai-Associate-Consultant-Business-Consulting-Risk-National-CNS-Risk-Risk-Management-Mumbai-MH-400028/1430050633/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>

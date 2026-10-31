@@ -199,7 +199,7 @@
       "company": "EY",
       "title": "Associate Consultant - Business Consulting (Risk)",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Mumbai"
       ],
@@ -412,7 +412,7 @@
       "company": "Tower Research Capital",
       "title": "AI/ML Intern",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Gurugram"
       ],
@@ -2851,7 +2851,7 @@
       "title": "Career Accelerator Program - Digital IC Design Engineer",
       "company": "Texas Instruments",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -3650,7 +3650,7 @@
       "title": "Trainee - Design (Tower Crane)",
       "company": "Liebherr",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Pune"
       ],
@@ -3741,7 +3741,7 @@
       "title": "Jr Engineer (Quality)",
       "company": "Tempsens Instruments",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Udaipur"
       ],
