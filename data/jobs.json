@@ -4641,6 +4641,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_6eyo2w",
+      "title": "Sales Incharge - Food and Beverages",
+      "company": "Cloudnine Group of Hospitals",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Pune Division",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/sales-incharge-food-and-beverages-at-cloudnine-group-of-hospitals-4483923947",
+      "dateAdded": "2026-11-01",
+      "addedAt": "2026-11-01T03:48:43.672Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
