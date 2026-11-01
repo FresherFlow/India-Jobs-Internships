@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-77-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-01_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-78-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-01_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -23,6 +23,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>India Shelter Finance</strong></td>
+<td>Recovery Officer</td>
+<td>India&gt;MAHARASHTRA&gt;Chandrapur&gt;Chandrapur</td>
+<td align="center"><a href="https://isfcareer.peoplestrong.com/api/cp/rest/altone/cp/job/HIN_RO_1912098/v2?part=basic%2Corganisational%2Cdescriprion%2Cworkflow%2Cskill%2Cqualification%2Ccertification%2Clanguage%2Capplied&amp;isReqId=false"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>01 Nov 26</td>
+</tr>
 <tr>
 <td><strong>Cloudnine Group of Hospitals</strong></td>
 <td>Sales Incharge - Food and Beverages</td>

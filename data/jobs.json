@@ -4659,6 +4659,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_70aiiq",
+      "title": "Recovery Officer",
+      "company": "India Shelter Finance",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India>MAHARASHTRA>Chandrapur>Chandrapur"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://isfcareer.peoplestrong.com/api/cp/rest/altone/cp/job/HIN_RO_1912098/v2?part=basic%2Corganisational%2Cdescriprion%2Cworkflow%2Cskill%2Cqualification%2Ccertification%2Clanguage%2Capplied&isReqId=false",
+      "dateAdded": "2026-11-01",
+      "addedAt": "2026-11-01T21:36:44.818Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
