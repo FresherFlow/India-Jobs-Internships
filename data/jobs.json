@@ -4676,6 +4676,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_4mtmv4",
+      "title": "Digital Solution Sales Specialist - Securities",
+      "company": "Microsoft",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Maharashtra",
+        "Mumbai"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.careers.microsoft.com/careers/job/1970393557038984",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T14:31:57.796Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
