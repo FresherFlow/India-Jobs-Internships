@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-80-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-03_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-76-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-03_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -45,13 +45,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>01 Nov 26</td>
 </tr>
 <tr>
-<td><strong>Cloudnine Group of Hospitals</strong></td>
-<td>Sales Incharge - Food and Beverages</td>
-<td>Pune Division<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/sales-incharge-food-and-beverages-at-cloudnine-group-of-hospitals-4483923947"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>01 Nov 26</td>
-</tr>
-<tr>
 <td><strong>Plum HQ</strong></td>
 <td>BDR – Health &amp; Wellness</td>
 <td>Bengaluru<br>Karnataka<br>India</td>
@@ -70,13 +63,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Branch Operation Executive</td>
 <td>India&gt;MADHYA PRADESH&gt;Mandsaur&gt;Mandsaur</td>
 <td align="center"><a href="https://isfcareer.peoplestrong.com/api/cp/rest/altone/cp/job/HIN_BOE_1909849/v2?part=basic%2Corganisational%2Cdescriprion%2Cworkflow%2Cskill%2Cqualification%2Ccertification%2Clanguage%2Capplied&amp;isReqId=false"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>29 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Razorpay</strong></td>
-<td>Associate, SME Sales</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>29 Oct 26</td>
 </tr>
 <tr>
@@ -430,13 +416,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>General Mills</strong></td>
-<td>Associate D&amp;T Analyst - AI &amp; Automation</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-D-T-Analyst---AI---Automation_10128341?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Enveu</strong></td>
 <td>Android Developer Trainee</td>
 <td>Noida</td>
@@ -752,13 +731,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>HSBC</strong></td>
-<td>Operations Support (Apprenticeship -12 months)</td>
-<td>Mumbai</td>
-<td align="center"><a href="https://portal.careers.hsbc.com/careers/job/563774612107824"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>Gharpayy</strong></td>
 <td>Full Stack Development Internship<br><small>Node.js, Next.js</small></td>
 <td>Bengaluru</td>
@@ -891,7 +863,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (108)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (112)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -907,7 +879,21 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </thead>
 <tbody>
 <tr>
+<td><strong>Cloudnine Group of Hospitals</strong></td>
+<td>Sales Incharge - Food and Beverages 🔒</td>
+<td>Pune Division<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/sales-incharge-food-and-beverages-at-cloudnine-group-of-hospitals-4483923947"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>01 Nov 26</td>
+</tr>
+<tr>
 <td><strong>Razorpay</strong></td>
+<td>Associate, SME Sales 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4748409005"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>29 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Associate Business Analyst 🔒</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736957005"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
@@ -1044,6 +1030,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Apply Now! India Campus Team (general talent application) 🔒</td>
 <td>Hyderabad<br>Bengaluru</td>
 <td align="center"><a href="https://careers.micron.com/careers/job/44838515?utm_source=linkedin&amp;domain=micron.com&amp;src=LinkedInJobs"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>General Mills</strong></td>
+<td>Associate D&amp;T Analyst - AI &amp; Automation 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers/job/Powai-Mumbai-MH/Associate-D-T-Analyst---AI---Automation_10128341?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1492,6 +1485,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate Information Security and Compliance 🔒</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://eifn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ExternalCareerSite/job/1868/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>HSBC</strong></td>
+<td>Operations Support (Apprenticeship -12 months) 🔒</td>
+<td>Mumbai</td>
+<td align="center"><a href="https://portal.careers.hsbc.com/careers/job/563774612107824"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>

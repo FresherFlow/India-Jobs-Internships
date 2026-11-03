@@ -784,7 +784,7 @@
       "id": "job_hoxdhv",
       "slug": "operations-support-apprenticeship-at-hsbc-hoxdhv",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Operations Support (Apprenticeship -12 months)",
       "company": "HSBC",
       "companyWebsite": "https://hsbc.com",
@@ -3303,7 +3303,7 @@
       "title": "Associate D&T Analyst - AI & Automation",
       "company": "General Mills",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Mumbai"
       ],
@@ -4577,7 +4577,7 @@
       "title": "Associate, SME Sales",
       "company": "Razorpay",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru"
       ],
@@ -4647,7 +4647,7 @@
       "title": "Sales Incharge - Food and Beverages",
       "company": "Cloudnine Group of Hospitals",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Pune Division",
         "IN"
