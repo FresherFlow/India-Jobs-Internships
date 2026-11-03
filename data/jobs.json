@@ -4729,6 +4729,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_2k5adb",
+      "title": "Agriculture Intern - Ahmednagar",
+      "company": "DeHaat",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Ahmednagar",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/agriculture-intern-ahmednagar-at-dehaat-4486043467",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T22:48:43.980Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
