@@ -4712,6 +4712,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_mnepyf",
+      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+      "company": "Sava Trust",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T13:29:01.591Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
