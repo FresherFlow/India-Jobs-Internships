@@ -4747,6 +4747,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_yjj5kt",
+      "title": "People Operations Associate",
+      "company": "FamPay",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.lever.co/fampay/a7e3ad38-e09a-4d2a-8b6f-83d74a6c122c?lever-source%5B%5D=careers.peakxv.com",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T13:39:57.390Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
