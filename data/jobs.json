@@ -4764,6 +4764,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_22gbh5",
+      "title": "Associate – Finance Operations (Collections)",
+      "company": "CleverTap",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Mumbai",
+        "Maharashtra",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.kula.ai/clevertap/66180",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T23:06:33.682Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
