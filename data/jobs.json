@@ -4783,6 +4783,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_qv8ure",
+      "title": "MIS Executive - Arctic Engine",
+      "company": "apna",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.workable.com/j/EDEA1176E8",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T13:52:31.172Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
