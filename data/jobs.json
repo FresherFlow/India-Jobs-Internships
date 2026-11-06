@@ -4819,6 +4819,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_i9bccq",
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "company": "Mbodi AI",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Remote"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T13:37:36.769Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
