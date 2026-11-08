@@ -4836,6 +4836,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_feyvrn",
+      "title": "Full Stack Developer - SDE - I",
+      "company": "Khatabook",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://khatabook.turbohire.co/job/publicjobs/Lg3P8%2FP%2FQxnk0npwHZcELd7lBQaOgdXrpKDGhuBAeWjg9UccPXaz%2FwIf4EFHzFFG",
+      "dateAdded": "2026-11-08",
+      "addedAt": "2026-11-08T03:52:33.871Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
