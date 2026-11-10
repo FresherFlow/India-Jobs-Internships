@@ -4855,6 +4855,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_769o0p",
+      "title": "Associate, Compliance (Resolutions)",
+      "company": "GLG",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurugram"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://glginsights.com/careers/jobs/7731508003?gh_jid=7731508003",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T14:09:04.316Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
