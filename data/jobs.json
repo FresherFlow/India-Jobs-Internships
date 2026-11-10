@@ -4872,6 +4872,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_9nigdz",
+      "title": "DE Intern + SDE Trainee - Off Campus Hiring 2026",
+      "company": "Sigmoid",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://job-boards.greenhouse.io/sigmoid/jobs/8927991002",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T22:44:53.615Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
