@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-82-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-10_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-81-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -427,13 +427,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Manual Test Engineer</td>
 <td>Bengaluru</td>
 <td align="center"><a href="https://kognivera.keka.com/careers/jobdetails/164536?source=linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>CBTS</strong></td>
-<td>Engineer - Data Center Operations (L1)</td>
-<td>Chennai</td>
-<td align="center"><a href="https://jobs.cbts.com/careers/job/1443153509914?microsite=cbts.com&amp;domain=cbts.com"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -919,7 +912,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (114)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (115)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1072,6 +1065,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Spend Data Analyst (Intern) 🔒</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://zycus.talismatic.com/jobs/J2OBNT4ZF"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>CBTS</strong></td>
+<td>Engineer - Data Center Operations (L1) 🔒</td>
+<td>Chennai</td>
+<td align="center"><a href="https://jobs.cbts.com/careers/job/1443153509914?microsite=cbts.com&amp;domain=cbts.com"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
