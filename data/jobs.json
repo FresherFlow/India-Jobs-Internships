@@ -4889,6 +4889,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_y18spf",
+      "title": "Conversation Quality Analyst",
+      "company": "Bolna",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Delhi",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://jobs.ashbyhq.com/bolna/13723577-e495-4ba5-b604-356d9465ff03",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T13:25:21.286Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
