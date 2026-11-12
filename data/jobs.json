@@ -4962,6 +4962,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_p29d2z",
+      "title": "Finance Intern",
+      "company": "TestMu",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida",
+        "UP",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://lambdatest.keka.com/careers/jobdetails/145638",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T23:06:19.431Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
