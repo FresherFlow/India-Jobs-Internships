@@ -4925,6 +4925,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_9qh3yo",
+      "title": "SDET-I",
+      "company": "TestMu",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida",
+        "UP",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://lambdatest.keka.com/careers/jobdetails/145411",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T14:30:27.062Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
