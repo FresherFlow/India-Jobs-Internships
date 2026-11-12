@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-83-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-11_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-81-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-12_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -36,13 +36,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Delhi<br>India</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/bolna/13723577-e495-4ba5-b604-356d9465ff03"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Nov 26</td>
-</tr>
-<tr>
-<td><strong>Sigmoid</strong></td>
-<td>DE Intern + SDE Trainee - Off Campus Hiring 2026</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://job-boards.greenhouse.io/sigmoid/jobs/8927991002"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>10 Nov 26</td>
 </tr>
 <tr>
 <td><strong>GLG</strong></td>
@@ -206,13 +199,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>24 Oct 26</td>
 </tr>
 <tr>
-<td><strong>K12 Techno Services</strong></td>
-<td>Business Development Associate</td>
-<td>Coimbatore<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4479352305"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>23 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Microsoft</strong></td>
 <td>Security Research INTERN</td>
 <td>India<br>Multiple Locations</td>
@@ -305,13 +291,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 <tr>
 <td><strong>apna</strong></td>
-<td>Content Writer Intern</td>
-<td>Bengaluru<br>Karnataka<br>India</td>
-<td align="center"><a href="https://apply.workable.com/j/6988EFB1A7"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>16 Oct 26</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>ADMISSION CONSELOR-WFH</td>
 <td>India</td>
 <td align="center"><a href="https://apply.workable.com/j/E47E4A2E42"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
@@ -371,13 +350,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>SDET II</td>
 <td>Bangalore Division<br>Karnataka<br>India</td>
 <td align="center"><a href="https://careers.kula.ai/brightmoney/62167"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>13 Oct 26</td>
-</tr>
-<tr>
-<td><strong>DeHaat</strong></td>
-<td>IT Executive - Patna</td>
-<td>Patna<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/it-executive-patna-at-dehaat-4477572568"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>13 Oct 26</td>
 </tr>
 <tr>
@@ -926,7 +898,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (115)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (119)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -941,6 +913,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Sigmoid</strong></td>
+<td>DE Intern + SDE Trainee - Off Campus Hiring 2026 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://job-boards.greenhouse.io/sigmoid/jobs/8927991002"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>10 Nov 26</td>
+</tr>
 <tr>
 <td><strong>Cloudnine Group of Hospitals</strong></td>
 <td>Sales Incharge - Food and Beverages 🔒</td>
@@ -968,6 +947,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Bengaluru</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736957005"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>26 Oct 26</td>
+</tr>
+<tr>
+<td><strong>K12 Techno Services</strong></td>
+<td>Business Development Associate 🔒</td>
+<td>Coimbatore<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4479352305"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>23 Oct 26</td>
 </tr>
 <tr>
 <td><strong>Circles.Life</strong></td>
@@ -998,6 +984,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>16 Oct 26</td>
 </tr>
 <tr>
+<td><strong>apna</strong></td>
+<td>Content Writer Intern 🔒</td>
+<td>Bengaluru<br>Karnataka<br>India</td>
+<td align="center"><a href="https://apply.workable.com/j/6988EFB1A7"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>16 Oct 26</td>
+</tr>
+<tr>
 <td><strong>Ultimate Marketing</strong></td>
 <td>Customer Support Specialist 🔒</td>
 <td>Remote</td>
@@ -1019,7 +1012,14 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>13 Oct 26</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong>DeHaat</strong></td>
+<td>IT Executive - Patna 🔒</td>
+<td>Patna<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/it-executive-patna-at-dehaat-4477572568"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>13 Oct 26</td>
+</tr>
+<tr>
+<td><strong>NVIDIA</strong></td>
 <td>CPU Compiler Intern - 2027 🔒</td>
 <td>India<br>Pune</td>
 <td align="center"><a href="https://nvidia.eightfold.ai/careers/job/893398107737"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
