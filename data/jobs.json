@@ -4981,6 +4981,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_xzk9gi",
+      "title": "Clinical Dietitian",
+      "company": "Sukino Continuum Care",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.indeed.com/cmp/Sukino-Healthcare-Solutions/jobs?jk=3bef1ccf80bdb492",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T04:37:10.572Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
