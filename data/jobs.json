@@ -5017,6 +5017,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_5f8vlt",
+      "title": "Growth Associate in Delhi, Delhi, Noida",
+      "company": "Zopper",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/growth-associate-in-delhi-delhi-noida-at-zopper-4491022252",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T21:55:32.928Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
