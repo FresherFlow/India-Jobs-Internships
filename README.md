@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-83-2E7D32) ![Internships](https://img.shields.io/badge/Internships-45-E86A1C) ![Updated](https://img.shields.io/badge/Updated-13_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-80-2E7D32) ![Internships](https://img.shields.io/badge/Internships-44-E86A1C) ![Updated](https://img.shields.io/badge/Updated-14_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -339,13 +339,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>15 Oct 26</td>
 </tr>
 <tr>
-<td><strong>DeHaat</strong></td>
-<td>Product Management Intern</td>
-<td>Gurugram<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/product-management-intern-at-dehaat-4478433477"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>15 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Purplle</strong></td>
 <td>Intern - Talent Acquistion (CPG)</td>
 <td>Vikhroli<br>Mumbai<br>Maharashtra<br>India</td>
@@ -402,13 +395,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>Allison Transmission</strong></td>
-<td>Graduate Engineer Trainee - New Part Development</td>
-<td>Chandgad</td>
-<td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/748-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Xylem</strong></td>
 <td>GET Mechanical Engineer - PLM / PDLM</td>
 <td>Vadodara</td>
@@ -455,13 +441,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Executive / Sr. Executive - Electrical Maintenance Engineer</td>
 <td>Pune</td>
 <td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Executive---Sr-Executive--Electrical-Maintenance-Engineer-_REQ2025061965-1/?source=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Allison Transmission</strong></td>
-<td>Graduate Engineer Trainee - Maintenance</td>
-<td>Chandgad</td>
-<td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/736-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -899,13 +878,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>HMH</strong></td>
-<td>Associate Software Engineer<br><small>Batches of 2023, 2024, 2025, 2026</small></td>
-<td>Pune</td>
-<td align="center"><a href="https://careers.hmhco.com/go/TempIntern-Opportunities/2398000/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>WTW</strong></td>
 <td>2027 Management Trainee Program - Corporate Risk &amp; Broking<br><small>Batch of 2027</small></td>
 <td>Gurugram<br>Mumbai</td>
@@ -926,7 +898,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (119)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (123)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1019,6 +991,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>16 Oct 26</td>
 </tr>
 <tr>
+<td><strong>DeHaat</strong></td>
+<td>Product Management Intern 🔒</td>
+<td>Gurugram<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/product-management-intern-at-dehaat-4478433477"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>15 Oct 26</td>
+</tr>
+<tr>
 <td><strong>Ultimate Marketing</strong></td>
 <td>Customer Support Specialist 🔒</td>
 <td>Remote</td>
@@ -1082,6 +1061,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
+<td><strong>Allison Transmission</strong></td>
+<td>Graduate Engineer Trainee - New Part Development 🔒</td>
+<td>Chandgad</td>
+<td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/748-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
 <td><strong>Liebherr</strong></td>
 <td>Trainee - Design (Tower Crane) 🔒</td>
 <td>Pune</td>
@@ -1135,6 +1121,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern - System (AI-based requirement extraction) 🔒</td>
 <td>Chennai</td>
 <td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Intern---System_REQ2026079045/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Allison Transmission</strong></td>
+<td>Graduate Engineer Trainee - Maintenance 🔒</td>
+<td>Chandgad</td>
+<td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/736-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1723,6 +1716,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Associate Consultant - Business Consulting (Risk) 🔒</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://careers.ey.com/ey/job/Mumbai-Associate-Consultant-Business-Consulting-Risk-National-CNS-Risk-Risk-Management-Mumbai-MH-400028/1430050633/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>HMH</strong></td>
+<td>Associate Software Engineer 🔒<br><small>Batches of 2023, 2024, 2025, 2026</small></td>
+<td>Pune</td>
+<td align="center"><a href="https://careers.hmhco.com/go/TempIntern-Opportunities/2398000/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
