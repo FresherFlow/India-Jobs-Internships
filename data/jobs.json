@@ -4999,6 +4999,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_iac4te",
+      "title": "Client Partnership Associate",
+      "company": "OrbitShift.AI",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/client-partnership-associate-at-orbitshift-ai-4489574557",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T12:52:33.005Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
