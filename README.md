@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-82-2E7D32) ![Internships](https://img.shields.io/badge/Internships-44-E86A1C) ![Updated](https://img.shields.io/badge/Updated-14_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-82-2E7D32) ![Internships](https://img.shields.io/badge/Internships-42-E86A1C) ![Updated](https://img.shields.io/badge/Updated-15_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -528,20 +528,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>11 Oct 26</td>
 </tr>
 <tr>
-<td><strong>Antropi Robotics</strong></td>
-<td>Robotics Software Intern (6 months)</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.antropi.world/careers/JO-960098"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Mechanical Engineering Intern</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://www.antropi.world/careers/JO-018814"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Advance Sensing</strong></td>
 <td>Software Engineer (machine vision / industrial software)</td>
 <td>Bengaluru</td>
@@ -912,7 +898,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (123)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (125)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1205,6 +1191,20 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>React JS Intern 🔒</td>
 <td>Pune</td>
 <td align="center"><a href="https://ve3.zohorecruit.in/jobs/Careers/80399000019316858/React-JS-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Antropi Robotics</strong></td>
+<td>Robotics Software Intern (6 months) 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.antropi.world/careers/JO-960098"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Mechanical Engineering Intern 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://www.antropi.world/careers/JO-018814"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
