@@ -5035,6 +5035,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_8uk8m9",
+      "title": "Intern-Creator Success TTMK",
+      "company": "ShareChat",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bangalore"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://sharechat.mynexthire.com/employer/jobs?p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI1MDIsInJlcXVlc3RlciI6eyJpZCI6IiIsImNvZGUiOiIiLCJuYW1lIjoiIn0sInBhZ2UiOiJjYXJlZXJzIiwiYnVmaWx0ZXIiOi0xLCJjdXN0b21GaWVsZHMiOnt9fQ==",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T01:27:47.918Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
