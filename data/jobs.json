@@ -5052,6 +5052,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_bqhpwq",
+      "title": "Verification & Onboarding Operations Executive(WFH)",
+      "company": "apna",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.workable.com/j/E057E98A07",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T15:23:23.039Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
