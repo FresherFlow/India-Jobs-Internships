@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-82-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-17_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-80-2E7D32) ![Internships](https://img.shields.io/badge/Internships-42-E86A1C) ![Updated](https://img.shields.io/badge/Updated-17_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -318,13 +318,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>18 Oct 26</td>
 </tr>
 <tr>
-<td><strong>K12 Techno Services</strong></td>
-<td>Business Development Associate (BDA)</td>
-<td>Bengaluru<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-bda-at-k12-techno-services-pvt-ltd-4478212206"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>18 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Flexport</strong></td>
 <td>Flexport Is Hiring a Biz Ops Leader in Office of CEO</td>
 <td>Remote</td>
@@ -462,13 +455,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Executive / Sr. Executive - Electrical Maintenance Engineer</td>
 <td>Pune</td>
 <td align="center"><a href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Pune/Executive---Sr-Executive--Electrical-Maintenance-Engineer-_REQ2025061965-1/?source=Linkedin"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>GE Vernova</strong></td>
-<td>Engineer - Systems Engineering (FAT / validation testing)</td>
-<td>Chennai</td>
-<td align="center"><a href="https://careers.gevernova.com/engineer-systems-engineering/job/R5054073"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -738,13 +724,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Aggroso</strong></td>
-<td>Business Development Intern</td>
-<td>Remote</td>
-<td align="center"><a href="https://aggroso.com/careers/business-development-intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>AryaXAI</strong></td>
 <td>AI Agent Engineer Intern</td>
 <td>Mumbai</td>
@@ -905,7 +884,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (125)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (128)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -975,6 +954,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Pune City<br>IN</td>
 <td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4478276674"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>20 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Business Development Associate (BDA) 🔒</td>
+<td>Bengaluru<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-bda-at-k12-techno-services-pvt-ltd-4478212206"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>18 Oct 26</td>
 </tr>
 <tr>
 <td><strong>Drip Capital</strong></td>
@@ -1135,6 +1121,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Graduate Engineer Trainee - Maintenance 🔒</td>
 <td>Chandgad</td>
 <td align="center"><a href="https://allistran.jobs.hr.cloud.sap/job/Graduate-Engineer-Trainee/736-en_US?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>GE Vernova</strong></td>
+<td>Engineer - Systems Engineering (FAT / validation testing) 🔒</td>
+<td>Chennai</td>
+<td align="center"><a href="https://careers.gevernova.com/engineer-systems-engineering/job/R5054073"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -1583,6 +1576,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>AI Product Engineer 🔒<br><small>JavaScript, TypeScript, HTML, CSS, Git, Shopify</small></td>
 <td>Bengaluru<br>Mumbai<br>Remote</td>
 <td align="center"><a href="https://wellfound.com/jobs/4521224-product-engineer-clone"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Aggroso</strong></td>
+<td>Business Development Intern 🔒</td>
+<td>Remote</td>
+<td align="center"><a href="https://aggroso.com/careers/business-development-intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>

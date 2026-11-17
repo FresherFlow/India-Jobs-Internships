@@ -1059,7 +1059,7 @@
       "id": "job_9ydvgj",
       "slug": "business-development-intern-at-aggroso-9ydvgj",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Business Development Intern",
       "company": "Aggroso",
       "companyWebsite": "https://aggroso.com",
@@ -3358,7 +3358,7 @@
       "title": "Engineer - Systems Engineering (FAT / validation testing)",
       "company": "GE Vernova",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Chennai"
       ],
@@ -4155,7 +4155,7 @@
       "title": "Business Development Associate (BDA)",
       "company": "K12 Techno Services",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Bengaluru",
         "IN"
