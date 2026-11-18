@@ -5088,6 +5088,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_z424z6",
+      "title": "Talent Acquisition Intern",
+      "company": "Vetic",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Gurugram",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/talent-acquisition-intern-at-vetic-4491147837",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T00:23:55.462Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
