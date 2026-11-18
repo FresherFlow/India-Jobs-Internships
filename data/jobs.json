@@ -5123,6 +5123,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_gr9ebl",
+      "title": "ASIC Intern - Spring 2027",
+      "company": "NVIDIA",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Bengaluru"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://nvidia.eightfold.ai/careers/job/893398658707",
+      "dateAdded": "2026-11-18",
+      "addedAt": "2026-11-18T14:59:06.617Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
