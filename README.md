@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-82-2E7D32) ![Internships](https://img.shields.io/badge/Internships-43-E86A1C) ![Updated](https://img.shields.io/badge/Updated-18_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-82-2E7D32) ![Internships](https://img.shields.io/badge/Internships-41-E86A1C) ![Updated](https://img.shields.io/badge/Updated-19_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -28,13 +28,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Telesales Executive</td>
 <td>Kolkata</td>
 <td align="center"><a href="https://www.instahyre.com/job-477675-telesales-executive-at-blackbuck-kolkata/"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>18 Nov 26</td>
-</tr>
-<tr>
-<td><strong>NVIDIA</strong></td>
-<td>ASIC Intern - Spring 2027</td>
-<td>India<br>Bengaluru</td>
-<td align="center"><a href="https://nvidia.eightfold.ai/careers/job/893398658707"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>18 Nov 26</td>
 </tr>
 <tr>
@@ -871,13 +864,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>09 Sep 26</td>
 </tr>
 <tr>
-<td><strong>Honeywell</strong></td>
-<td>Intern (Bachelor's)</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155475"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>09 Sep 26</td>
-</tr>
-<tr>
 <td><strong>GlobalFoundries</strong></td>
 <td>Future Talent Pipeline</td>
 <td>Bengaluru</td>
@@ -905,7 +891,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (131)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (133)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -920,6 +906,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>NVIDIA</strong></td>
+<td>ASIC Intern - Spring 2027 🔒</td>
+<td>India<br>Bengaluru</td>
+<td align="center"><a href="https://nvidia.eightfold.ai/careers/job/893398658707"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>18 Nov 26</td>
+</tr>
 <tr>
 <td><strong>Sigmoid</strong></td>
 <td>DE Intern + SDE Trainee - Off Campus Hiring 2026 🔒</td>
@@ -1737,6 +1730,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Intern, Development 🔒</td>
 <td>Pune</td>
 <td align="center"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Jobs-at-Icertis/job/7561"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>09 Sep 26</td>
+</tr>
+<tr>
+<td><strong>Honeywell</strong></td>
+<td>Intern (Bachelor's) 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155475"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>09 Sep 26</td>
 </tr>
 <tr>
