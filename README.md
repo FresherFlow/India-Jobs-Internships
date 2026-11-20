@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-82-2E7D32) ![Internships](https://img.shields.io/badge/Internships-41-E86A1C) ![Updated](https://img.shields.io/badge/Updated-19_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-83-2E7D32) ![Internships](https://img.shields.io/badge/Internships-41-E86A1C) ![Updated](https://img.shields.io/badge/Updated-20_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -23,6 +23,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Orange Health Labs</strong></td>
+<td>Sales Operations Associate</td>
+<td>Bengaluru<br>Karnataka<br>India; Karnataka<br>India</td>
+<td align="center"><a href="https://orangehealth.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6afefeae8e5fd"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>20 Nov 26</td>
+</tr>
 <tr>
 <td><strong>BlackBuck</strong></td>
 <td>Telesales Executive</td>

@@ -5158,6 +5158,26 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_mkb0jm",
+      "title": "Sales Operations Associate",
+      "company": "Orange Health Labs",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka",
+        "India; Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://orangehealth.darwinbox.in/ms/candidatev2/main/careers/jobDetails/a6afefeae8e5fd",
+      "dateAdded": "2026-11-20",
+      "addedAt": "2026-11-20T14:46:47.066Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
