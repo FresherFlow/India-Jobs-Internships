@@ -5178,6 +5178,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_tax8hq",
+      "title": "Digital Solution Area Specialists - Copilot",
+      "company": "Microsoft",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India",
+        "Karnataka",
+        "Bangalore"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://apply.careers.microsoft.com/careers/job/1970393557073138",
+      "dateAdded": "2026-11-20",
+      "addedAt": "2026-11-20T14:47:26.092Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
