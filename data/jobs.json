@@ -5197,6 +5197,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_6qxulh",
+      "title": "Payroll Executive",
+      "company": "K12 Techno Services",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/payroll-executive-at-k12-techno-services-pvt-ltd-4492912085",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T05:11:22.153Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
