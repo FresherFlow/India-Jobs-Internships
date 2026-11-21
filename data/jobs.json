@@ -5215,6 +5215,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_eegjhx",
+      "title": "Collection Officer",
+      "company": "India Shelter Finance",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "India>MADHYA PRADESH>Indore 2>Indore 2"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://isfcareer.peoplestrong.com/job/detail/HIN_CO_1931096",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T14:02:07.932Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
