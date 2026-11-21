@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-85-2E7D32) ![Internships](https://img.shields.io/badge/Internships-41-E86A1C) ![Updated](https://img.shields.io/badge/Updated-21_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-84-2E7D32) ![Internships](https://img.shields.io/badge/Internships-40-E86A1C) ![Updated](https://img.shields.io/badge/Updated-21_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -56,13 +56,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Evidence (YC S21) Is Hiring</td>
 <td>Remote</td>
 <td align="center"><a href="https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>18 Nov 26</td>
-</tr>
-<tr>
-<td><strong>Vetic</strong></td>
-<td>Talent Acquisition Intern</td>
-<td>Gurugram<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/talent-acquisition-intern-at-vetic-4491147837"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>18 Nov 26</td>
 </tr>
 <tr>
@@ -316,13 +309,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Anywhere in the World</td>
 <td align="center"><a href="https://weworkremotely.com/remote-jobs/bybit-animator-intern"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>23 Oct 26</td>
-</tr>
-<tr>
-<td><strong>K12 Techno Services</strong></td>
-<td>Business Development Associate</td>
-<td>Pune Division<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4479417869"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>22 Oct 26</td>
 </tr>
 <tr>
 <td><strong>India Shelter Finance</strong></td>
@@ -912,7 +898,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (133)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (135)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -932,6 +918,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>ASIC Intern - Spring 2027 🔒</td>
 <td>India<br>Bengaluru</td>
 <td align="center"><a href="https://nvidia.eightfold.ai/careers/job/893398658707"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>18 Nov 26</td>
+</tr>
+<tr>
+<td><strong>Vetic</strong></td>
+<td>Talent Acquisition Intern 🔒</td>
+<td>Gurugram<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/talent-acquisition-intern-at-vetic-4491147837"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>18 Nov 26</td>
 </tr>
 <tr>
@@ -975,6 +968,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Coimbatore<br>IN</td>
 <td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4479352305"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>23 Oct 26</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Business Development Associate 🔒</td>
+<td>Pune Division<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-at-k12-techno-services-pvt-ltd-4479417869"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>22 Oct 26</td>
 </tr>
 <tr>
 <td><strong>Circles.Life</strong></td>
