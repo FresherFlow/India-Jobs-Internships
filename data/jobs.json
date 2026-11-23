@@ -5232,6 +5232,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_96t4b",
+      "title": "Telesales Executive",
+      "company": "BlackBuck",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Delhi"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://www.instahyre.com/job-491573-telesales-executive-at-blackbuck-delhi/",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T05:12:13.139Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
