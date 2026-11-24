@@ -1554,7 +1554,7 @@
       "id": "job_ffx85r",
       "slug": "application-support-analyst-at-dhl-ffx85r",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "title": "Application Support Analyst",
       "company": "DHL",
       "companyWebsite": "https://dhl.com",
@@ -4735,7 +4735,7 @@
       "title": "Agriculture Intern - Ahmednagar",
       "company": "DeHaat",
       "type": "INTERNSHIP",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Ahmednagar",
         "IN"
@@ -4770,7 +4770,7 @@
       "title": "Associate – Finance Operations (Collections)",
       "company": "CleverTap",
       "type": "JOB",
-      "status": "PUBLISHED",
+      "status": "EXPIRED",
       "locations": [
         "Mumbai",
         "Maharashtra",
