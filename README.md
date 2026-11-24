@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-85-2E7D32) ![Internships](https://img.shields.io/badge/Internships-40-E86A1C) ![Updated](https://img.shields.io/badge/Updated-24_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-85-2E7D32) ![Internships](https://img.shields.io/badge/Internships-41-E86A1C) ![Updated](https://img.shields.io/badge/Updated-24_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -23,6 +23,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Khatabook</strong></td>
+<td>Intern - Lending Marketing | Collections</td>
+<td>Bengaluru<br>Karnataka<br>India</td>
+<td align="center"><a href="https://khatabook.turbohire.co/job/publicjobs/LmIZ2yq_zM43BH5_K6R9rxwnvuTFZkaOK5iDevWGh%2Fg2fNGpnREORjG8lrpEJu4%2F"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>24 Nov 26</td>
+</tr>
 <tr>
 <td><strong>TestMu</strong></td>
 <td>Content and Marketing Intern</td>
