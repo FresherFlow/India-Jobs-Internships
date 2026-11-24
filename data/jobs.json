@@ -5266,6 +5266,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_5llkvx",
+      "title": "Content and Marketing Intern",
+      "company": "TestMu",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida",
+        "UP",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://lambdatest.keka.com/careers/jobdetails/148071",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T16:52:25.509Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
