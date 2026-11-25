@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-86-2E7D32) ![Internships](https://img.shields.io/badge/Internships-42-E86A1C) ![Updated](https://img.shields.io/badge/Updated-25_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-86-2E7D32) ![Internships](https://img.shields.io/badge/Internships-41-E86A1C) ![Updated](https://img.shields.io/badge/Updated-25_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -427,13 +427,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Product (AM) - Source-to-Pay (O2C)</td>
 <td>Vikhroli<br>Mumbai<br>Maharashtra<br>India</td>
 <td align="center"><a href="https://purplle.turbohire.co/job/publicjobs/ADWCTb8OFF1coU2ef7uBjKRc1qDwd4BpRGlxOKQ8NxP6j4P0JXD2gRwVGtgbttPG"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>14 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Carousell Group</strong></td>
-<td>Android Engineer Intern - 6 months</td>
-<td>Bengaluru<br>KA<br>IN</td>
-<td align="center"><a href="https://jobs.smartrecruiters.com/CarousellGroup/744000155411579-android-engineer-intern-6-months"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>14 Oct 26</td>
 </tr>
 <tr>
@@ -926,7 +919,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (138)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (139)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1087,6 +1080,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Remote</td>
 <td align="center"><a href="https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>15 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Carousell Group</strong></td>
+<td>Android Engineer Intern - 6 months 🔒</td>
+<td>Bengaluru<br>KA<br>IN</td>
+<td align="center"><a href="https://jobs.smartrecruiters.com/CarousellGroup/744000155411579-android-engineer-intern-6-months"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>14 Oct 26</td>
 </tr>
 <tr>
 <td><strong>ShareChat</strong></td>
