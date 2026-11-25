@@ -5304,6 +5304,23 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_nfv8al",
+      "title": "Software Engineer Intern",
+      "company": "Ritual",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Anywhere in the World"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://weworkremotely.com/remote-jobs/ritual-software-engineer-intern",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T01:50:51.619Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
