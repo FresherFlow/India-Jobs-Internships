@@ -5321,6 +5321,24 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_626psa",
+      "title": "Veterinarian",
+      "company": "Vetic",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Pune District",
+        "IN"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://in.linkedin.com/jobs/view/veterinarian-at-vetic-4494335620",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T01:51:19.571Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
