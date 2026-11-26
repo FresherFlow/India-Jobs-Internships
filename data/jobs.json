@@ -5356,6 +5356,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_2y3vt1",
+      "title": "Talent Acquisition Intern",
+      "company": "Plum HQ",
+      "type": "INTERNSHIP",
+      "status": "PUBLISHED",
+      "locations": [
+        "Bengaluru",
+        "Karnataka",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://careers.kula.ai/plumhq/69557",
+      "dateAdded": "2026-11-26",
+      "addedAt": "2026-11-26T01:28:00.365Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
