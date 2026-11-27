@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-87-2E7D32) ![Internships](https://img.shields.io/badge/Internships-40-E86A1C) ![Updated](https://img.shields.io/badge/Updated-26_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-85-2E7D32) ![Internships](https://img.shields.io/badge/Internships-40-E86A1C) ![Updated](https://img.shields.io/badge/Updated-27_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -185,13 +185,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>12 Nov 26</td>
 </tr>
 <tr>
-<td><strong>K12 Techno Services</strong></td>
-<td>Business Development Associate - Field Sales</td>
-<td>Coimbatore<br>IN</td>
-<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-field-sales-at-k12-techno-services-pvt-ltd-4485467417"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Nov 26</td>
-</tr>
-<tr>
 <td><strong>Bolna</strong></td>
 <td>Conversation Quality Analyst</td>
 <td>Delhi<br>India</td>
@@ -371,13 +364,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Hazel (YC W24) Is Hiring</td>
 <td>Remote</td>
 <td align="center"><a href="https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>20 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Microsoft</strong></td>
-<td>Digital Solution Area Specialists IC4</td>
-<td>India<br>Haryana<br>Gurgaon</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557043252"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>20 Oct 26</td>
 </tr>
 <tr>
@@ -919,7 +905,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (142)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (144)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -954,6 +940,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Bangalore</td>
 <td align="center"><a href="https://sharechat.mynexthire.com/employer/jobs?p=eyJwYWdlVHlwZSI6ImpkIiwiY3ZTb3VyY2UiOiJjYXJlZXJzIiwicmVxSWQiOjI1MDIsInJlcXVlc3RlciI6eyJpZCI6IiIsImNvZGUiOiIiLCJuYW1lIjoiIn0sInBhZ2UiOiJjYXJlZXJzIiwiYnVmaWx0ZXIiOi0xLCJjdXN0b21GaWVsZHMiOnt9fQ=="><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>17 Nov 26</td>
+</tr>
+<tr>
+<td><strong>K12 Techno Services</strong></td>
+<td>Business Development Associate - Field Sales 🔒</td>
+<td>Coimbatore<br>IN</td>
+<td align="center"><a href="https://in.linkedin.com/jobs/view/business-development-associate-field-sales-at-k12-techno-services-pvt-ltd-4485467417"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Nov 26</td>
 </tr>
 <tr>
 <td><strong>Sigmoid</strong></td>
@@ -1031,6 +1024,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>India</td>
 <td align="center"><a href="https://circles.wd103.myworkdayjobs.com/Circles/job/India/Data-Engineer-I_R-100507"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>21 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Microsoft</strong></td>
+<td>Digital Solution Area Specialists IC4 🔒</td>
+<td>India<br>Haryana<br>Gurgaon</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557043252"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>20 Oct 26</td>
 </tr>
 <tr>
 <td><strong>K12 Techno Services</strong></td>
