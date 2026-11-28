@@ -5412,6 +5412,25 @@
       "tags": [],
       "requiredSkills": [],
       "allowedPassoutYears": []
+    },
+    {
+      "id": "job_q8z8kw",
+      "title": "DevRel - Product Advocate",
+      "company": "TestMu",
+      "type": "JOB",
+      "status": "PUBLISHED",
+      "locations": [
+        "Noida",
+        "UP",
+        "India"
+      ],
+      "workMode": "ONSITE",
+      "applyLink": "https://lambdatest.keka.com/careers/jobdetails/148077",
+      "dateAdded": "2026-11-28",
+      "addedAt": "2026-11-28T00:58:38.174Z",
+      "tags": [],
+      "requiredSkills": [],
+      "allowedPassoutYears": []
     }
   ]
 }
