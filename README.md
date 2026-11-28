@@ -1,6 +1,6 @@
 # India Jobs and Internships
 
-![Jobs](https://img.shields.io/badge/Jobs-87-2E7D32) ![Internships](https://img.shields.io/badge/Internships-40-E86A1C) ![Updated](https://img.shields.io/badge/Updated-28_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
+![Jobs](https://img.shields.io/badge/Jobs-86-2E7D32) ![Internships](https://img.shields.io/badge/Internships-39-E86A1C) ![Updated](https://img.shields.io/badge/Updated-28_Nov_26-777777) [![Site](https://img.shields.io/badge/Site-live-2E7D32)](https://fresherflow.github.io/India-Jobs-Internships/) [![Data](https://img.shields.io/badge/Data-json-4A3BAA)](https://github.com/FresherFlow/India-Jobs-Internships/blob/main/data/jobs.json) [![Contribute](https://img.shields.io/badge/Contribute-add_a_role-E86A1C)](https://github.com/FresherFlow/India-Jobs-Internships/issues/new?template=new_role.yaml)
 
 **Live site: https://fresherflow.github.io/India-Jobs-Internships/**
 
@@ -416,13 +416,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>15 Oct 26</td>
 </tr>
 <tr>
-<td><strong>Microsoft</strong></td>
-<td>Solution Area Specialists - Security</td>
-<td>India<br>Karnataka<br>Bangalore</td>
-<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557002228"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>15 Oct 26</td>
-</tr>
-<tr>
 <td><strong>Purplle</strong></td>
 <td>Intern - Talent Acquistion (CPG)</td>
 <td>Vikhroli<br>Mumbai<br>Maharashtra<br>India</td>
@@ -490,13 +483,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Full Stack Developer (MERN, remote India team)</td>
 <td>Remote</td>
 <td align="center"><a href="https://www.lanterncapital.ca/job-postings/full-stack-developer"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
-<td>11 Oct 26</td>
-</tr>
-<tr>
-<td><strong>Selah Digital</strong></td>
-<td>Full Stack Software Engineer Intern (path to full-time)</td>
-<td>Bengaluru</td>
-<td align="center"><a href="https://selah.zohorecruit.in/jobs/Careers/213761000001539342/Full-Stack-Software-Engineer-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
@@ -919,7 +905,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 ---
 
 <details>
-<summary><b>🔒 Closed roles (144)</b> <small>— click to expand</small></summary>
+<summary><b>🔒 Closed roles (146)</b> <small>— click to expand</small></summary>
 
 <small>These postings are no longer accepting applications but are kept for reference and possible re-openings.</small>
 
@@ -1096,6 +1082,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>16 Oct 26</td>
 </tr>
 <tr>
+<td><strong>Microsoft</strong></td>
+<td>Solution Area Specialists - Security 🔒</td>
+<td>India<br>Karnataka<br>Bangalore</td>
+<td align="center"><a href="https://apply.careers.microsoft.com/careers/job/1970393557002228"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>15 Oct 26</td>
+</tr>
+<tr>
 <td><strong>DeHaat</strong></td>
 <td>Product Management Intern 🔒</td>
 <td>Gurugram<br>IN</td>
@@ -1198,6 +1191,13 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) to add or edit roles.
 <td>Engineer I - Software Development 🔒</td>
 <td>Mumbai</td>
 <td align="center"><a href="https://accelya.wd103.myworkdayjobs.com/Careers/job/India-Mumbai/Engineer-I---Software-Development_JR102590?source=LinkedIn"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
+<td>11 Oct 26</td>
+</tr>
+<tr>
+<td><strong>Selah Digital</strong></td>
+<td>Full Stack Software Engineer Intern (path to full-time) 🔒</td>
+<td>Bengaluru</td>
+<td align="center"><a href="https://selah.zohorecruit.in/jobs/Careers/213761000001539342/Full-Stack-Software-Engineer-Intern?source=LinkedIn-Basic&amp;embedsource=LinkedIn%2BLimited%2BListings"><img alt="Apply" src="https://img.shields.io/badge/Apply-0E7C7B?style=for-the-badge&logoColor=white"></a></td>
 <td>11 Oct 26</td>
 </tr>
 <tr>
